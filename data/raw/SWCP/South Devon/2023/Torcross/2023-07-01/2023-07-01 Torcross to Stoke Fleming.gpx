@@ -25,7 +25,6 @@ xmlns:os="https://ordnancesurvey.co.uk/public/schema/route/0.1">
     <wpt lat="50.2669331" lon="-3.6529345"/>
     <wpt lat="50.2674469" lon="-3.6527992"/>
     <wpt lat="50.2669011" lon="-3.6528139"/>
-    <wpt lat="50.2664774" lon="-3.6455061"/>
     <wpt lat="50.2669542" lon="-3.6527417"/>
     <wpt lat="50.2670613" lon="-3.6528090"/>
     <wpt lat="50.2668251" lon="-3.6525536"/>
@@ -166,7 +165,6 @@ xmlns:os="https://ordnancesurvey.co.uk/public/schema/route/0.1">
             <trkpt lat="50.2669011" lon="-3.6528139"/>
             <trkpt lat="50.2669213" lon="-3.6527740"/>
             <trkpt lat="50.2669657" lon="-3.6527783"/>
-            <trkpt lat="50.2664774" lon="-3.6455061"/>
             <trkpt lat="50.2669542" lon="-3.6527417"/>
             <trkpt lat="50.2670613" lon="-3.6528090"/>
             <trkpt lat="50.2670858" lon="-3.6528005"/>
