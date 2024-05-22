@@ -1,0 +1,5983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="GPS Wizard - https://github.com/Logiqx/gps-wizard" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <trk>
+    <trkseg>
+      <trkpt lat="49.9741037" lon="-5.2264669">
+        <ele>65.29</ele>
+        <time>2010-06-29T12:19:08.000Z</time>
+        <course>338.17</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9740955" lon="-5.2264669">
+        <ele>69.21</ele>
+        <time>2010-06-29T12:19:46.000Z</time>
+        <course>238.58</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9741048" lon="-5.2264065">
+        <ele>69.14</ele>
+        <time>2010-06-29T12:19:51.000Z</time>
+        <course>90.00</course>
+        <speed>0.89</speed>
+      </trkpt>
+      <trkpt lat="49.9741082" lon="-5.2263456">
+        <ele>69.77</ele>
+        <time>2010-06-29T12:19:56.000Z</time>
+        <course>66.81</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9741128" lon="-5.2262941">
+        <ele>70.06</ele>
+        <time>2010-06-29T12:20:01.000Z</time>
+        <course>77.43</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9741191" lon="-5.2262428">
+        <ele>70.78</ele>
+        <time>2010-06-29T12:20:06.000Z</time>
+        <course>44.78</course>
+        <speed>1.30</speed>
+      </trkpt>
+      <trkpt lat="49.9741284" lon="-5.2261774">
+        <ele>71.66</ele>
+        <time>2010-06-29T12:20:11.000Z</time>
+        <course>81.43</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9741340" lon="-5.2261505">
+        <ele>71.61</ele>
+        <time>2010-06-29T12:20:17.000Z</time>
+        <course>96.42</course>
+        <speed>0.58</speed>
+      </trkpt>
+      <trkpt lat="49.9741493" lon="-5.2261128">
+        <ele>72.08</ele>
+        <time>2010-06-29T12:20:22.000Z</time>
+        <course>71.34</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9741556" lon="-5.2260975">
+        <ele>72.36</ele>
+        <time>2010-06-29T12:20:28.000Z</time>
+        <course>72.72</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9741731" lon="-5.2260445">
+        <ele>72.92</ele>
+        <time>2010-06-29T12:20:33.000Z</time>
+        <course>63.92</course>
+        <speed>1.18</speed>
+      </trkpt>
+      <trkpt lat="49.9741838" lon="-5.2260129">
+        <ele>72.16</ele>
+        <time>2010-06-29T12:20:40.000Z</time>
+        <course>67.87</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9742077" lon="-5.2259567">
+        <ele>72.43</ele>
+        <time>2010-06-29T12:20:45.000Z</time>
+        <course>51.23</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9742368" lon="-5.2259033">
+        <ele>72.65</ele>
+        <time>2010-06-29T12:20:50.000Z</time>
+        <course>37.50</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9742589" lon="-5.2258524">
+        <ele>72.75</ele>
+        <time>2010-06-29T12:20:55.000Z</time>
+        <course>84.87</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9742574" lon="-5.2257893">
+        <ele>71.74</ele>
+        <time>2010-06-29T12:21:00.000Z</time>
+        <course>78.68</course>
+        <speed>1.05</speed>
+      </trkpt>
+      <trkpt lat="49.9742591" lon="-5.2257200">
+        <ele>70.87</ele>
+        <time>2010-06-29T12:21:05.000Z</time>
+        <course>79.39</course>
+        <speed>1.09</speed>
+      </trkpt>
+      <trkpt lat="49.9742710" lon="-5.2256477">
+        <ele>70.56</ele>
+        <time>2010-06-29T12:21:10.000Z</time>
+        <course>52.23</course>
+        <speed>1.11</speed>
+      </trkpt>
+      <trkpt lat="49.9743142" lon="-5.2256099">
+        <ele>70.92</ele>
+        <time>2010-06-29T12:21:15.000Z</time>
+        <course>32.33</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9743555" lon="-5.2255712">
+        <ele>71.10</ele>
+        <time>2010-06-29T12:21:20.000Z</time>
+        <course>23.56</course>
+        <speed>1.18</speed>
+      </trkpt>
+      <trkpt lat="49.9744110" lon="-5.2255485">
+        <ele>70.88</ele>
+        <time>2010-06-29T12:21:25.000Z</time>
+        <course>13.05</course>
+        <speed>1.20</speed>
+      </trkpt>
+      <trkpt lat="49.9744589" lon="-5.2255138">
+        <ele>70.77</ele>
+        <time>2010-06-29T12:21:30.000Z</time>
+        <course>24.49</course>
+        <speed>1.24</speed>
+      </trkpt>
+      <trkpt lat="49.9745026" lon="-5.2254722">
+        <ele>70.70</ele>
+        <time>2010-06-29T12:21:35.000Z</time>
+        <course>27.77</course>
+        <speed>1.17</speed>
+      </trkpt>
+      <trkpt lat="49.9745503" lon="-5.2254388">
+        <ele>70.25</ele>
+        <time>2010-06-29T12:21:40.000Z</time>
+        <course>15.17</course>
+        <speed>1.31</speed>
+      </trkpt>
+      <trkpt lat="49.9746026" lon="-5.2254136">
+        <ele>69.99</ele>
+        <time>2010-06-29T12:21:45.000Z</time>
+        <course>18.35</course>
+        <speed>1.08</speed>
+      </trkpt>
+      <trkpt lat="49.9746529" lon="-5.2253954">
+        <ele>69.82</ele>
+        <time>2010-06-29T12:21:50.000Z</time>
+        <course>5.96</course>
+        <speed>1.15</speed>
+      </trkpt>
+      <trkpt lat="49.9746991" lon="-5.2253672">
+        <ele>69.60</ele>
+        <time>2010-06-29T12:21:55.000Z</time>
+        <course>32.81</course>
+        <speed>1.32</speed>
+      </trkpt>
+      <trkpt lat="49.9747409" lon="-5.2253180">
+        <ele>69.45</ele>
+        <time>2010-06-29T12:22:00.000Z</time>
+        <course>41.98</course>
+        <speed>1.29</speed>
+      </trkpt>
+      <trkpt lat="49.9747825" lon="-5.2252675">
+        <ele>69.45</ele>
+        <time>2010-06-29T12:22:05.000Z</time>
+        <course>37.68</course>
+        <speed>1.20</speed>
+      </trkpt>
+      <trkpt lat="49.9748267" lon="-5.2252196">
+        <ele>69.46</ele>
+        <time>2010-06-29T12:22:10.000Z</time>
+        <course>33.69</course>
+        <speed>1.19</speed>
+      </trkpt>
+      <trkpt lat="49.9748721" lon="-5.2251781">
+        <ele>69.49</ele>
+        <time>2010-06-29T12:22:15.000Z</time>
+        <course>31.06</course>
+        <speed>1.10</speed>
+      </trkpt>
+      <trkpt lat="49.9749121" lon="-5.2251319">
+        <ele>69.47</ele>
+        <time>2010-06-29T12:22:20.000Z</time>
+        <course>29.86</course>
+        <speed>1.14</speed>
+      </trkpt>
+      <trkpt lat="49.9749516" lon="-5.2251042">
+        <ele>69.23</ele>
+        <time>2010-06-29T12:22:25.000Z</time>
+        <course>23.77</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9749758" lon="-5.2250875">
+        <ele>69.64</ele>
+        <time>2010-06-29T12:22:39.000Z</time>
+        <course>298.91</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9749691" lon="-5.2250769">
+        <ele>69.92</ele>
+        <time>2010-06-29T12:23:08.000Z</time>
+        <course>203.00</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9749758" lon="-5.2250981">
+        <ele>68.66</ele>
+        <time>2010-06-29T12:23:23.000Z</time>
+        <course>296.73</course>
+        <speed>0.41</speed>
+      </trkpt>
+      <trkpt lat="49.9749647" lon="-5.2250991">
+        <ele>67.79</ele>
+        <time>2010-06-29T12:23:34.000Z</time>
+        <course>247.84</course>
+        <speed>0.29</speed>
+      </trkpt>
+      <trkpt lat="49.9749778" lon="-5.2250827">
+        <ele>65.50</ele>
+        <time>2010-06-29T12:25:06.000Z</time>
+        <course>188.77</course>
+        <speed>0.32</speed>
+      </trkpt>
+      <trkpt lat="49.9749754" lon="-5.2250854">
+        <ele>65.91</ele>
+        <time>2010-06-29T12:25:13.000Z</time>
+        <course>85.78</course>
+        <speed>0.39</speed>
+      </trkpt>
+      <trkpt lat="49.9749615" lon="-5.2250951">
+        <ele>67.59</ele>
+        <time>2010-06-29T12:25:27.000Z</time>
+        <course>326.42</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9749745" lon="-5.2251085">
+        <ele>67.97</ele>
+        <time>2010-06-29T12:25:38.000Z</time>
+        <course>356.83</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9750000" lon="-5.2251225">
+        <ele>67.85</ele>
+        <time>2010-06-29T12:25:47.000Z</time>
+        <course>336.16</course>
+        <speed>0.62</speed>
+      </trkpt>
+      <trkpt lat="49.9750281" lon="-5.2251495">
+        <ele>67.45</ele>
+        <time>2010-06-29T12:25:52.000Z</time>
+        <course>308.87</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9750386" lon="-5.2251981">
+        <ele>67.47</ele>
+        <time>2010-06-29T12:25:57.000Z</time>
+        <course>307.38</course>
+        <speed>0.67</speed>
+      </trkpt>
+      <trkpt lat="49.9750516" lon="-5.2252523">
+        <ele>67.45</ele>
+        <time>2010-06-29T12:26:02.000Z</time>
+        <course>295.50</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9750657" lon="-5.2252985">
+        <ele>67.42</ele>
+        <time>2010-06-29T12:26:07.000Z</time>
+        <course>307.60</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9750795" lon="-5.2253460">
+        <ele>67.21</ele>
+        <time>2010-06-29T12:26:12.000Z</time>
+        <course>292.51</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9751021" lon="-5.2253938">
+        <ele>67.31</ele>
+        <time>2010-06-29T12:26:17.000Z</time>
+        <course>298.28</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9751298" lon="-5.2254312">
+        <ele>67.32</ele>
+        <time>2010-06-29T12:26:22.000Z</time>
+        <course>330.11</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9751594" lon="-5.2254572">
+        <ele>67.29</ele>
+        <time>2010-06-29T12:26:27.000Z</time>
+        <course>336.95</course>
+        <speed>1.04</speed>
+      </trkpt>
+      <trkpt lat="49.9751934" lon="-5.2254759">
+        <ele>67.29</ele>
+        <time>2010-06-29T12:26:32.000Z</time>
+        <course>346.75</course>
+        <speed>0.47</speed>
+      </trkpt>
+      <trkpt lat="49.9752183" lon="-5.2254922">
+        <ele>67.38</ele>
+        <time>2010-06-29T12:26:37.000Z</time>
+        <course>339.47</course>
+        <speed>0.64</speed>
+      </trkpt>
+      <trkpt lat="49.9752441" lon="-5.2255105">
+        <ele>67.49</ele>
+        <time>2010-06-29T12:26:42.000Z</time>
+        <course>331.53</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9752716" lon="-5.2255331">
+        <ele>67.29</ele>
+        <time>2010-06-29T12:26:47.000Z</time>
+        <course>334.80</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9753042" lon="-5.2255523">
+        <ele>66.83</ele>
+        <time>2010-06-29T12:26:52.000Z</time>
+        <course>331.25</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9753368" lon="-5.2255822">
+        <ele>66.42</ele>
+        <time>2010-06-29T12:26:57.000Z</time>
+        <course>329.81</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9753618" lon="-5.2256104">
+        <ele>65.81</ele>
+        <time>2010-06-29T12:27:02.000Z</time>
+        <course>338.28</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9753862" lon="-5.2256366">
+        <ele>65.31</ele>
+        <time>2010-06-29T12:27:07.000Z</time>
+        <course>321.56</course>
+        <speed>0.75</speed>
+      </trkpt>
+      <trkpt lat="49.9754033" lon="-5.2256620">
+        <ele>65.07</ele>
+        <time>2010-06-29T12:27:12.000Z</time>
+        <course>310.26</course>
+        <speed>0.31</speed>
+      </trkpt>
+      <trkpt lat="49.9754148" lon="-5.2256856">
+        <ele>64.75</ele>
+        <time>2010-06-29T12:27:17.000Z</time>
+        <course>315.92</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9754198" lon="-5.2257040">
+        <ele>64.34</ele>
+        <time>2010-06-29T12:27:23.000Z</time>
+        <course>286.54</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9754142" lon="-5.2257301">
+        <ele>63.09</ele>
+        <time>2010-06-29T12:27:39.000Z</time>
+        <course>308.89</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9754090" lon="-5.2257797">
+        <ele>62.55</ele>
+        <time>2010-06-29T12:27:44.000Z</time>
+        <course>219.94</course>
+        <speed>0.50</speed>
+      </trkpt>
+      <trkpt lat="49.9754041" lon="-5.2257891">
+        <ele>62.34</ele>
+        <time>2010-06-29T12:27:50.000Z</time>
+        <course>275.82</course>
+        <speed>0.32</speed>
+      </trkpt>
+      <trkpt lat="49.9754028" lon="-5.2257876">
+        <ele>61.89</ele>
+        <time>2010-06-29T12:28:15.000Z</time>
+        <course>58.73</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9754111" lon="-5.2258233">
+        <ele>61.32</ele>
+        <time>2010-06-29T12:28:36.000Z</time>
+        <course>293.26</course>
+        <speed>1.00</speed>
+      </trkpt>
+      <trkpt lat="49.9754049" lon="-5.2258911">
+        <ele>60.19</ele>
+        <time>2010-06-29T12:28:41.000Z</time>
+        <course>253.99</course>
+        <speed>0.96</speed>
+      </trkpt>
+      <trkpt lat="49.9753878" lon="-5.2259509">
+        <ele>58.85</ele>
+        <time>2010-06-29T12:28:46.000Z</time>
+        <course>234.59</course>
+        <speed>0.76</speed>
+      </trkpt>
+      <trkpt lat="49.9753780" lon="-5.2259703">
+        <ele>58.24</ele>
+        <time>2010-06-29T12:29:14.000Z</time>
+        <course>264.95</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9753652" lon="-5.2260235">
+        <ele>56.95</ele>
+        <time>2010-06-29T12:29:22.000Z</time>
+        <course>247.32</course>
+        <speed>1.23</speed>
+      </trkpt>
+      <trkpt lat="49.9753441" lon="-5.2261183">
+        <ele>55.79</ele>
+        <time>2010-06-29T12:29:27.000Z</time>
+        <course>258.85</course>
+        <speed>1.43</speed>
+      </trkpt>
+      <trkpt lat="49.9753403" lon="-5.2262181">
+        <ele>54.35</ele>
+        <time>2010-06-29T12:29:32.000Z</time>
+        <course>270.49</course>
+        <speed>1.32</speed>
+      </trkpt>
+      <trkpt lat="49.9753547" lon="-5.2262956">
+        <ele>52.83</ele>
+        <time>2010-06-29T12:29:37.000Z</time>
+        <course>299.56</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9753803" lon="-5.2263571">
+        <ele>51.43</ele>
+        <time>2010-06-29T12:29:42.000Z</time>
+        <course>306.22</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9754131" lon="-5.2264293">
+        <ele>50.09</ele>
+        <time>2010-06-29T12:29:47.000Z</time>
+        <course>308.89</course>
+        <speed>1.43</speed>
+      </trkpt>
+      <trkpt lat="49.9754451" lon="-5.2265019">
+        <ele>48.88</ele>
+        <time>2010-06-29T12:29:52.000Z</time>
+        <course>293.23</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9754714" lon="-5.2265793">
+        <ele>48.20</ele>
+        <time>2010-06-29T12:29:57.000Z</time>
+        <course>292.28</course>
+        <speed>1.28</speed>
+      </trkpt>
+      <trkpt lat="49.9754684" lon="-5.2266549">
+        <ele>47.16</ele>
+        <time>2010-06-29T12:30:09.000Z</time>
+        <course>263.02</course>
+        <speed>1.63</speed>
+      </trkpt>
+      <trkpt lat="49.9754543" lon="-5.2267731">
+        <ele>46.22</ele>
+        <time>2010-06-29T12:30:14.000Z</time>
+        <course>258.21</course>
+        <speed>1.97</speed>
+      </trkpt>
+      <trkpt lat="49.9754336" lon="-5.2269037">
+        <ele>45.44</ele>
+        <time>2010-06-29T12:30:19.000Z</time>
+        <course>252.12</course>
+        <speed>1.58</speed>
+      </trkpt>
+      <trkpt lat="49.9754140" lon="-5.2270089">
+        <ele>44.70</ele>
+        <time>2010-06-29T12:30:24.000Z</time>
+        <course>254.91</course>
+        <speed>1.46</speed>
+      </trkpt>
+      <trkpt lat="49.9754068" lon="-5.2271175">
+        <ele>43.80</ele>
+        <time>2010-06-29T12:30:29.000Z</time>
+        <course>272.33</course>
+        <speed>1.53</speed>
+      </trkpt>
+      <trkpt lat="49.9753987" lon="-5.2272259">
+        <ele>42.80</ele>
+        <time>2010-06-29T12:30:34.000Z</time>
+        <course>257.60</course>
+        <speed>1.42</speed>
+      </trkpt>
+      <trkpt lat="49.9753780" lon="-5.2273284">
+        <ele>41.87</ele>
+        <time>2010-06-29T12:30:39.000Z</time>
+        <course>247.30</course>
+        <speed>1.49</speed>
+      </trkpt>
+      <trkpt lat="49.9753437" lon="-5.2274096">
+        <ele>41.25</ele>
+        <time>2010-06-29T12:30:44.000Z</time>
+        <course>240.91</course>
+        <speed>1.01</speed>
+      </trkpt>
+      <trkpt lat="49.9753233" lon="-5.2274727">
+        <ele>40.94</ele>
+        <time>2010-06-29T12:30:49.000Z</time>
+        <course>247.61</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9753055" lon="-5.2275103">
+        <ele>41.12</ele>
+        <time>2010-06-29T12:30:57.000Z</time>
+        <course>187.21</course>
+        <speed>0.33</speed>
+      </trkpt>
+      <trkpt lat="49.9752978" lon="-5.2275335">
+        <ele>41.23</ele>
+        <time>2010-06-29T12:31:04.000Z</time>
+        <course>238.95</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9752774" lon="-5.2275847">
+        <ele>41.17</ele>
+        <time>2010-06-29T12:31:09.000Z</time>
+        <course>255.00</course>
+        <speed>1.10</speed>
+      </trkpt>
+      <trkpt lat="49.9752550" lon="-5.2276424">
+        <ele>40.92</ele>
+        <time>2010-06-29T12:31:14.000Z</time>
+        <course>239.50</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9752336" lon="-5.2276987">
+        <ele>41.02</ele>
+        <time>2010-06-29T12:31:19.000Z</time>
+        <course>240.91</course>
+        <speed>1.03</speed>
+      </trkpt>
+      <trkpt lat="49.9752121" lon="-5.2277458">
+        <ele>41.03</ele>
+        <time>2010-06-29T12:31:24.000Z</time>
+        <course>203.56</course>
+        <speed>0.24</speed>
+      </trkpt>
+      <trkpt lat="49.9751956" lon="-5.2277984">
+        <ele>40.90</ele>
+        <time>2010-06-29T12:31:29.000Z</time>
+        <course>235.83</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9751761" lon="-5.2278591">
+        <ele>40.58</ele>
+        <time>2010-06-29T12:31:34.000Z</time>
+        <course>253.36</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9751667" lon="-5.2279250">
+        <ele>40.25</ele>
+        <time>2010-06-29T12:31:39.000Z</time>
+        <course>263.65</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9751529" lon="-5.2279936">
+        <ele>39.95</ele>
+        <time>2010-06-29T12:31:44.000Z</time>
+        <course>253.22</course>
+        <speed>1.15</speed>
+      </trkpt>
+      <trkpt lat="49.9751436" lon="-5.2280749">
+        <ele>39.52</ele>
+        <time>2010-06-29T12:31:49.000Z</time>
+        <course>259.48</course>
+        <speed>1.17</speed>
+      </trkpt>
+      <trkpt lat="49.9751344" lon="-5.2281381">
+        <ele>39.04</ele>
+        <time>2010-06-29T12:31:54.000Z</time>
+        <course>159.07</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9751283" lon="-5.2281669">
+        <ele>38.88</ele>
+        <time>2010-06-29T12:32:01.000Z</time>
+        <course>231.51</course>
+        <speed>0.64</speed>
+      </trkpt>
+      <trkpt lat="49.9751177" lon="-5.2281985">
+        <ele>38.77</ele>
+        <time>2010-06-29T12:32:06.000Z</time>
+        <course>239.04</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9751103" lon="-5.2282138">
+        <ele>38.72</ele>
+        <time>2010-06-29T12:32:11.000Z</time>
+        <course>296.60</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9751048" lon="-5.2282645">
+        <ele>38.34</ele>
+        <time>2010-06-29T12:32:16.000Z</time>
+        <course>262.52</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9751012" lon="-5.2283187">
+        <ele>37.50</ele>
+        <time>2010-06-29T12:32:21.000Z</time>
+        <course>270.58</course>
+        <speed>0.65</speed>
+      </trkpt>
+      <trkpt lat="49.9751062" lon="-5.2283636">
+        <ele>36.68</ele>
+        <time>2010-06-29T12:32:26.000Z</time>
+        <course>284.84</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9751165" lon="-5.2284059">
+        <ele>35.86</ele>
+        <time>2010-06-29T12:32:31.000Z</time>
+        <course>295.31</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9751267" lon="-5.2284455">
+        <ele>35.11</ele>
+        <time>2010-06-29T12:32:39.000Z</time>
+        <course>291.67</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9751358" lon="-5.2284867">
+        <ele>34.64</ele>
+        <time>2010-06-29T12:32:44.000Z</time>
+        <course>296.38</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9751523" lon="-5.2285417">
+        <ele>34.08</ele>
+        <time>2010-06-29T12:32:49.000Z</time>
+        <course>300.09</course>
+        <speed>0.96</speed>
+      </trkpt>
+      <trkpt lat="49.9751779" lon="-5.2285990">
+        <ele>33.42</ele>
+        <time>2010-06-29T12:32:54.000Z</time>
+        <course>298.96</course>
+        <speed>1.03</speed>
+      </trkpt>
+      <trkpt lat="49.9751952" lon="-5.2286529">
+        <ele>32.91</ele>
+        <time>2010-06-29T12:32:59.000Z</time>
+        <course>315.14</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9752165" lon="-5.2287027">
+        <ele>32.32</ele>
+        <time>2010-06-29T12:33:04.000Z</time>
+        <course>308.73</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9752413" lon="-5.2287511">
+        <ele>31.90</ele>
+        <time>2010-06-29T12:33:09.000Z</time>
+        <course>302.06</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9752655" lon="-5.2288041">
+        <ele>31.82</ele>
+        <time>2010-06-29T12:33:14.000Z</time>
+        <course>293.07</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9752811" lon="-5.2288677">
+        <ele>31.61</ele>
+        <time>2010-06-29T12:33:19.000Z</time>
+        <course>290.37</course>
+        <speed>1.00</speed>
+      </trkpt>
+      <trkpt lat="49.9752952" lon="-5.2289350">
+        <ele>31.65</ele>
+        <time>2010-06-29T12:33:24.000Z</time>
+        <course>290.17</course>
+        <speed>1.18</speed>
+      </trkpt>
+      <trkpt lat="49.9752935" lon="-5.2290111">
+        <ele>31.13</ele>
+        <time>2010-06-29T12:33:29.000Z</time>
+        <course>250.23</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9752884" lon="-5.2290704">
+        <ele>30.50</ele>
+        <time>2010-06-29T12:33:34.000Z</time>
+        <course>282.41</course>
+        <speed>0.89</speed>
+      </trkpt>
+      <trkpt lat="49.9753014" lon="-5.2291092">
+        <ele>29.96</ele>
+        <time>2010-06-29T12:33:39.000Z</time>
+        <course>279.42</course>
+        <speed>0.62</speed>
+      </trkpt>
+      <trkpt lat="49.9752856" lon="-5.2290851">
+        <ele>30.44</ele>
+        <time>2010-06-29T12:33:57.000Z</time>
+        <course>112.01</course>
+        <speed>0.34</speed>
+      </trkpt>
+      <trkpt lat="49.9752832" lon="-5.2290822">
+        <ele>30.86</ele>
+        <time>2010-06-29T12:34:17.000Z</time>
+        <course>90.62</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9752775" lon="-5.2290797">
+        <ele>30.78</ele>
+        <time>2010-06-29T12:34:31.000Z</time>
+        <course>90.04</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9752858" lon="-5.2290763">
+        <ele>31.14</ele>
+        <time>2010-06-29T12:34:49.000Z</time>
+        <course>327.45</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9753038" lon="-5.2290977">
+        <ele>30.68</ele>
+        <time>2010-06-29T12:34:54.000Z</time>
+        <course>299.30</course>
+        <speed>0.56</speed>
+      </trkpt>
+      <trkpt lat="49.9753081" lon="-5.2291319">
+        <ele>30.06</ele>
+        <time>2010-06-29T12:34:59.000Z</time>
+        <course>259.74</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9753077" lon="-5.2291610">
+        <ele>29.32</ele>
+        <time>2010-06-29T12:35:04.000Z</time>
+        <course>282.32</course>
+        <speed>0.51</speed>
+      </trkpt>
+      <trkpt lat="49.9753067" lon="-5.2291935">
+        <ele>28.54</ele>
+        <time>2010-06-29T12:35:09.000Z</time>
+        <course>253.94</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9753041" lon="-5.2292227">
+        <ele>27.64</ele>
+        <time>2010-06-29T12:35:14.000Z</time>
+        <course>280.76</course>
+        <speed>0.39</speed>
+      </trkpt>
+      <trkpt lat="49.9752936" lon="-5.2292510">
+        <ele>26.57</ele>
+        <time>2010-06-29T12:35:19.000Z</time>
+        <course>232.23</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9752826" lon="-5.2292811">
+        <ele>25.69</ele>
+        <time>2010-06-29T12:35:24.000Z</time>
+        <course>237.70</course>
+        <speed>0.75</speed>
+      </trkpt>
+      <trkpt lat="49.9752669" lon="-5.2292920">
+        <ele>25.10</ele>
+        <time>2010-06-29T12:35:29.000Z</time>
+        <course>189.70</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9752555" lon="-5.2293220">
+        <ele>24.60</ele>
+        <time>2010-06-29T12:35:34.000Z</time>
+        <course>256.30</course>
+        <speed>0.43</speed>
+      </trkpt>
+      <trkpt lat="49.9752579" lon="-5.2293592">
+        <ele>23.92</ele>
+        <time>2010-06-29T12:35:39.000Z</time>
+        <course>271.97</course>
+        <speed>0.61</speed>
+      </trkpt>
+      <trkpt lat="49.9752651" lon="-5.2293971">
+        <ele>23.24</ele>
+        <time>2010-06-29T12:35:44.000Z</time>
+        <course>279.22</course>
+        <speed>0.55</speed>
+      </trkpt>
+      <trkpt lat="49.9752668" lon="-5.2294398">
+        <ele>22.49</ele>
+        <time>2010-06-29T12:35:49.000Z</time>
+        <course>266.41</course>
+        <speed>0.76</speed>
+      </trkpt>
+      <trkpt lat="49.9752612" lon="-5.2294903">
+        <ele>21.62</ele>
+        <time>2010-06-29T12:35:54.000Z</time>
+        <course>264.55</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9752657" lon="-5.2295399">
+        <ele>20.97</ele>
+        <time>2010-06-29T12:35:59.000Z</time>
+        <course>289.62</course>
+        <speed>0.71</speed>
+      </trkpt>
+      <trkpt lat="49.9752660" lon="-5.2295887">
+        <ele>20.22</ele>
+        <time>2010-06-29T12:36:04.000Z</time>
+        <course>262.98</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9752449" lon="-5.2296235">
+        <ele>19.72</ele>
+        <time>2010-06-29T12:36:09.000Z</time>
+        <course>204.44</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9752220" lon="-5.2296536">
+        <ele>19.33</ele>
+        <time>2010-06-29T12:36:14.000Z</time>
+        <course>217.78</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9752125" lon="-5.2296554">
+        <ele>19.32</ele>
+        <time>2010-06-29T12:36:29.000Z</time>
+        <course>35.90</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9752096" lon="-5.2296636">
+        <ele>18.20</ele>
+        <time>2010-06-29T12:37:36.000Z</time>
+        <course>237.28</course>
+        <speed>0.61</speed>
+      </trkpt>
+      <trkpt lat="49.9751878" lon="-5.2296991">
+        <ele>17.53</ele>
+        <time>2010-06-29T12:37:41.000Z</time>
+        <course>224.70</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9751713" lon="-5.2297092">
+        <ele>17.12</ele>
+        <time>2010-06-29T12:37:52.000Z</time>
+        <course>279.16</course>
+        <speed>0.31</speed>
+      </trkpt>
+      <trkpt lat="49.9751566" lon="-5.2297269">
+        <ele>17.24</ele>
+        <time>2010-06-29T12:37:57.000Z</time>
+        <course>255.17</course>
+        <speed>0.58</speed>
+      </trkpt>
+      <trkpt lat="49.9751502" lon="-5.2297724">
+        <ele>16.96</ele>
+        <time>2010-06-29T12:38:02.000Z</time>
+        <course>252.82</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9751452" lon="-5.2298105">
+        <ele>16.70</ele>
+        <time>2010-06-29T12:38:07.000Z</time>
+        <course>202.77</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9751436" lon="-5.2298370">
+        <ele>16.51</ele>
+        <time>2010-06-29T12:38:12.000Z</time>
+        <course>286.90</course>
+        <speed>0.51</speed>
+      </trkpt>
+      <trkpt lat="49.9751476" lon="-5.2298659">
+        <ele>15.97</ele>
+        <time>2010-06-29T12:38:18.000Z</time>
+        <course>7.89</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9751533" lon="-5.2298783">
+        <ele>15.93</ele>
+        <time>2010-06-29T12:38:25.000Z</time>
+        <course>322.31</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9751649" lon="-5.2298694">
+        <ele>16.53</ele>
+        <time>2010-06-29T12:38:30.000Z</time>
+        <course>43.63</course>
+        <speed>0.24</speed>
+      </trkpt>
+      <trkpt lat="49.9751786" lon="-5.2298428">
+        <ele>15.95</ele>
+        <time>2010-06-29T12:38:35.000Z</time>
+        <course>53.04</course>
+        <speed>0.57</speed>
+      </trkpt>
+      <trkpt lat="49.9751979" lon="-5.2298136">
+        <ele>15.29</ele>
+        <time>2010-06-29T12:38:40.000Z</time>
+        <course>38.85</course>
+        <speed>0.57</speed>
+      </trkpt>
+      <trkpt lat="49.9752037" lon="-5.2297975">
+        <ele>14.30</ele>
+        <time>2010-06-29T12:38:52.000Z</time>
+        <course>243.28</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9751966" lon="-5.2297897">
+        <ele>13.06</ele>
+        <time>2010-06-29T12:39:12.000Z</time>
+        <course>52.70</course>
+        <speed>0.61</speed>
+      </trkpt>
+      <trkpt lat="49.9752426" lon="-5.2297906">
+        <ele>11.10</ele>
+        <time>2010-06-29T12:39:24.000Z</time>
+        <course>323.83</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9752747" lon="-5.2298355">
+        <ele>8.39</ele>
+        <time>2010-06-29T12:39:35.000Z</time>
+        <course>305.06</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9753062" lon="-5.2298617">
+        <ele>5.75</ele>
+        <time>2010-06-29T12:39:40.000Z</time>
+        <course>327.20</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9753219" lon="-5.2299581">
+        <ele>-0.84</ele>
+        <time>2010-06-29T12:40:16.000Z</time>
+        <course>262.96</course>
+        <speed>0.62</speed>
+      </trkpt>
+      <trkpt lat="49.9753151" lon="-5.2300202">
+        <ele>4.18</ele>
+        <time>2010-06-29T12:40:21.000Z</time>
+        <course>280.38</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9753221" lon="-5.2300712">
+        <ele>3.42</ele>
+        <time>2010-06-29T12:40:26.000Z</time>
+        <course>272.52</course>
+        <speed>0.67</speed>
+      </trkpt>
+      <trkpt lat="49.9753238" lon="-5.2301112">
+        <ele>3.05</ele>
+        <time>2010-06-29T12:40:34.000Z</time>
+        <course>285.78</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9753236" lon="-5.2301282">
+        <ele>2.57</ele>
+        <time>2010-06-29T12:40:42.000Z</time>
+        <course>16.00</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9752904" lon="-5.2301731">
+        <ele>5.56</ele>
+        <time>2010-06-29T12:41:28.000Z</time>
+        <course>297.79</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9752866" lon="-5.2302126">
+        <ele>5.69</ele>
+        <time>2010-06-29T12:41:33.000Z</time>
+        <course>249.18</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9752613" lon="-5.2302335">
+        <ele>4.91</ele>
+        <time>2010-06-29T12:41:38.000Z</time>
+        <course>180.55</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9752268" lon="-5.2302403">
+        <ele>3.95</ele>
+        <time>2010-06-29T12:41:43.000Z</time>
+        <course>185.45</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9751872" lon="-5.2302579">
+        <ele>4.20</ele>
+        <time>2010-06-29T12:41:48.000Z</time>
+        <course>201.02</course>
+        <speed>0.62</speed>
+      </trkpt>
+      <trkpt lat="49.9751619" lon="-5.2302717">
+        <ele>4.18</ele>
+        <time>2010-06-29T12:41:53.000Z</time>
+        <course>175.55</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9751527" lon="-5.2303203">
+        <ele>4.35</ele>
+        <time>2010-06-29T12:42:03.000Z</time>
+        <course>255.98</course>
+        <speed>1.24</speed>
+      </trkpt>
+      <trkpt lat="49.9751467" lon="-5.2304035">
+        <ele>4.45</ele>
+        <time>2010-06-29T12:42:08.000Z</time>
+        <course>277.66</course>
+        <speed>1.32</speed>
+      </trkpt>
+      <trkpt lat="49.9751280" lon="-5.2304597">
+        <ele>5.38</ele>
+        <time>2010-06-29T12:42:13.000Z</time>
+        <course>234.57</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9751358" lon="-5.2305277">
+        <ele>5.85</ele>
+        <time>2010-06-29T12:42:20.000Z</time>
+        <course>279.05</course>
+        <speed>1.21</speed>
+      </trkpt>
+      <trkpt lat="49.9751321" lon="-5.2306086">
+        <ele>6.34</ele>
+        <time>2010-06-29T12:42:25.000Z</time>
+        <course>270.41</course>
+        <speed>1.09</speed>
+      </trkpt>
+      <trkpt lat="49.9751342" lon="-5.2306780">
+        <ele>6.78</ele>
+        <time>2010-06-29T12:42:30.000Z</time>
+        <course>265.60</course>
+        <speed>0.94</speed>
+      </trkpt>
+      <trkpt lat="49.9751230" lon="-5.2307368">
+        <ele>7.19</ele>
+        <time>2010-06-29T12:42:35.000Z</time>
+        <course>244.08</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9751057" lon="-5.2307828">
+        <ele>7.46</ele>
+        <time>2010-06-29T12:42:40.000Z</time>
+        <course>217.48</course>
+        <speed>0.76</speed>
+      </trkpt>
+      <trkpt lat="49.9750808" lon="-5.2308122">
+        <ele>7.71</ele>
+        <time>2010-06-29T12:42:45.000Z</time>
+        <course>274.22</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9750680" lon="-5.2308303">
+        <ele>6.81</ele>
+        <time>2010-06-29T12:43:04.000Z</time>
+        <course>241.97</course>
+        <speed>1.10</speed>
+      </trkpt>
+      <trkpt lat="49.9750358" lon="-5.2309139">
+        <ele>6.47</ele>
+        <time>2010-06-29T12:43:09.000Z</time>
+        <course>240.92</course>
+        <speed>1.35</speed>
+      </trkpt>
+      <trkpt lat="49.9749960" lon="-5.2309885">
+        <ele>6.11</ele>
+        <time>2010-06-29T12:43:14.000Z</time>
+        <course>228.36</course>
+        <speed>1.16</speed>
+      </trkpt>
+      <trkpt lat="49.9749565" lon="-5.2310608">
+        <ele>5.78</ele>
+        <time>2010-06-29T12:43:19.000Z</time>
+        <course>227.92</course>
+        <speed>1.31</speed>
+      </trkpt>
+      <trkpt lat="49.9749128" lon="-5.2310748">
+        <ele>5.48</ele>
+        <time>2010-06-29T12:43:24.000Z</time>
+        <course>146.68</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9748981" lon="-5.2310693">
+        <ele>4.46</ele>
+        <time>2010-06-29T12:43:38.000Z</time>
+        <course>201.30</course>
+        <speed>0.43</speed>
+      </trkpt>
+      <trkpt lat="49.9748911" lon="-5.2310971">
+        <ele>4.28</ele>
+        <time>2010-06-29T12:43:45.000Z</time>
+        <course>274.17</course>
+        <speed>0.89</speed>
+      </trkpt>
+      <trkpt lat="49.9748611" lon="-5.2311470">
+        <ele>4.16</ele>
+        <time>2010-06-29T12:43:50.000Z</time>
+        <course>211.20</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9748204" lon="-5.2311779">
+        <ele>4.12</ele>
+        <time>2010-06-29T12:43:55.000Z</time>
+        <course>207.83</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9747800" lon="-5.2312086">
+        <ele>4.29</ele>
+        <time>2010-06-29T12:44:00.000Z</time>
+        <course>190.17</course>
+        <speed>0.94</speed>
+      </trkpt>
+      <trkpt lat="49.9747380" lon="-5.2312237">
+        <ele>4.34</ele>
+        <time>2010-06-29T12:44:05.000Z</time>
+        <course>211.14</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9747021" lon="-5.2312550">
+        <ele>4.59</ele>
+        <time>2010-06-29T12:44:10.000Z</time>
+        <course>199.99</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9746657" lon="-5.2312810">
+        <ele>4.72</ele>
+        <time>2010-06-29T12:44:15.000Z</time>
+        <course>211.97</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9746364" lon="-5.2313177">
+        <ele>4.62</ele>
+        <time>2010-06-29T12:44:20.000Z</time>
+        <course>233.98</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9746169" lon="-5.2313678">
+        <ele>4.86</ele>
+        <time>2010-06-29T12:44:25.000Z</time>
+        <course>244.64</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9745901" lon="-5.2314145">
+        <ele>5.44</ele>
+        <time>2010-06-29T12:44:30.000Z</time>
+        <course>226.46</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9745605" lon="-5.2314557">
+        <ele>5.61</ele>
+        <time>2010-06-29T12:44:35.000Z</time>
+        <course>221.75</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9745297" lon="-5.2314962">
+        <ele>5.42</ele>
+        <time>2010-06-29T12:44:40.000Z</time>
+        <course>230.70</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9744894" lon="-5.2315386">
+        <ele>5.23</ele>
+        <time>2010-06-29T12:44:45.000Z</time>
+        <course>202.88</course>
+        <speed>1.09</speed>
+      </trkpt>
+      <trkpt lat="49.9744561" lon="-5.2315537">
+        <ele>5.37</ele>
+        <time>2010-06-29T12:44:50.000Z</time>
+        <course>162.52</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9744567" lon="-5.2315641">
+        <ele>5.74</ele>
+        <time>2010-06-29T12:44:57.000Z</time>
+        <course>311.36</course>
+        <speed>0.41</speed>
+      </trkpt>
+      <trkpt lat="49.9744459" lon="-5.2315964">
+        <ele>6.17</ele>
+        <time>2010-06-29T12:45:05.000Z</time>
+        <course>226.39</course>
+        <speed>1.34</speed>
+      </trkpt>
+      <trkpt lat="49.9743956" lon="-5.2316494">
+        <ele>5.93</ele>
+        <time>2010-06-29T12:45:10.000Z</time>
+        <course>202.78</course>
+        <speed>1.18</speed>
+      </trkpt>
+      <trkpt lat="49.9743657" lon="-5.2316981">
+        <ele>5.45</ele>
+        <time>2010-06-29T12:45:15.000Z</time>
+        <course>236.16</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9743374" lon="-5.2317550">
+        <ele>4.98</ele>
+        <time>2010-06-29T12:45:20.000Z</time>
+        <course>243.26</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9743230" lon="-5.2318115">
+        <ele>4.86</ele>
+        <time>2010-06-29T12:45:25.000Z</time>
+        <course>250.45</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9743090" lon="-5.2318668">
+        <ele>4.62</ele>
+        <time>2010-06-29T12:45:30.000Z</time>
+        <course>249.21</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9742950" lon="-5.2319258">
+        <ele>4.69</ele>
+        <time>2010-06-29T12:45:35.000Z</time>
+        <course>251.81</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9742907" lon="-5.2319828">
+        <ele>4.90</ele>
+        <time>2010-06-29T12:45:40.000Z</time>
+        <course>262.50</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9742822" lon="-5.2320379">
+        <ele>4.91</ele>
+        <time>2010-06-29T12:45:45.000Z</time>
+        <course>260.38</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9742809" lon="-5.2320970">
+        <ele>5.03</ele>
+        <time>2010-06-29T12:45:50.000Z</time>
+        <course>275.52</course>
+        <speed>0.77</speed>
+      </trkpt>
+      <trkpt lat="49.9742886" lon="-5.2321349">
+        <ele>4.72</ele>
+        <time>2010-06-29T12:45:55.000Z</time>
+        <course>274.86</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9742970" lon="-5.2321894">
+        <ele>4.53</ele>
+        <time>2010-06-29T12:46:00.000Z</time>
+        <course>287.95</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9743097" lon="-5.2322454">
+        <ele>4.49</ele>
+        <time>2010-06-29T12:46:05.000Z</time>
+        <course>288.53</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9743191" lon="-5.2323053">
+        <ele>4.73</ele>
+        <time>2010-06-29T12:46:10.000Z</time>
+        <course>280.49</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9743229" lon="-5.2323426">
+        <ele>4.56</ele>
+        <time>2010-06-29T12:46:16.000Z</time>
+        <course>298.10</course>
+        <speed>0.58</speed>
+      </trkpt>
+      <trkpt lat="49.9743376" lon="-5.2323921">
+        <ele>4.20</ele>
+        <time>2010-06-29T12:46:21.000Z</time>
+        <course>290.49</course>
+        <speed>0.92</speed>
+      </trkpt>
+      <trkpt lat="49.9743470" lon="-5.2324501">
+        <ele>3.99</ele>
+        <time>2010-06-29T12:46:26.000Z</time>
+        <course>284.26</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9743657" lon="-5.2324983">
+        <ele>3.76</ele>
+        <time>2010-06-29T12:46:31.000Z</time>
+        <course>295.40</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9743781" lon="-5.2325280">
+        <ele>3.02</ele>
+        <time>2010-06-29T12:46:36.000Z</time>
+        <course>310.93</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9743946" lon="-5.2325581">
+        <ele>1.79</ele>
+        <time>2010-06-29T12:46:42.000Z</time>
+        <course>304.47</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9744167" lon="-5.2325603">
+        <ele>1.50</ele>
+        <time>2010-06-29T12:46:47.000Z</time>
+        <course>4.01</course>
+        <speed>0.65</speed>
+      </trkpt>
+      <trkpt lat="49.9744557" lon="-5.2325362">
+        <ele>2.33</ele>
+        <time>2010-06-29T12:46:52.000Z</time>
+        <course>19.08</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9744924" lon="-5.2325114">
+        <ele>2.50</ele>
+        <time>2010-06-29T12:46:57.000Z</time>
+        <course>34.12</course>
+        <speed>1.05</speed>
+      </trkpt>
+      <trkpt lat="49.9745421" lon="-5.2324811">
+        <ele>3.17</ele>
+        <time>2010-06-29T12:47:02.000Z</time>
+        <course>8.38</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9745640" lon="-5.2324679">
+        <ele>3.77</ele>
+        <time>2010-06-29T12:47:11.000Z</time>
+        <course>95.56</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9745781" lon="-5.2324339">
+        <ele>4.94</ele>
+        <time>2010-06-29T12:47:16.000Z</time>
+        <course>36.53</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9745975" lon="-5.2324263">
+        <ele>5.78</ele>
+        <time>2010-06-29T12:47:21.000Z</time>
+        <course>82.27</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9746045" lon="-5.2324059">
+        <ele>7.59</ele>
+        <time>2010-06-29T12:47:48.000Z</time>
+        <course>43.97</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9746316" lon="-5.2323605">
+        <ele>8.51</ele>
+        <time>2010-06-29T12:47:53.000Z</time>
+        <course>34.49</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9746116" lon="-5.2323100">
+        <ele>14.09</ele>
+        <time>2010-06-29T12:48:15.000Z</time>
+        <course>250.89</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9745460" lon="-5.2322836">
+        <ele>14.18</ele>
+        <time>2010-06-29T12:48:21.000Z</time>
+        <course>160.33</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9744741" lon="-5.2322623">
+        <ele>15.04</ele>
+        <time>2010-06-29T12:48:29.000Z</time>
+        <course>214.16</course>
+        <speed>0.35</speed>
+      </trkpt>
+      <trkpt lat="49.9744932" lon="-5.2322535">
+        <ele>16.40</ele>
+        <time>2010-06-29T12:48:34.000Z</time>
+        <course>44.25</course>
+        <speed>1.15</speed>
+      </trkpt>
+      <trkpt lat="49.9744458" lon="-5.2323313">
+        <ele>13.02</ele>
+        <time>2010-06-29T12:48:45.000Z</time>
+        <course>122.26</course>
+        <speed>0.71</speed>
+      </trkpt>
+      <trkpt lat="49.9749383" lon="-5.2327455">
+        <ele>25.81</ele>
+        <time>2010-06-29T12:49:39.000Z</time>
+        <course>293.93</course>
+        <speed>1.45</speed>
+      </trkpt>
+      <trkpt lat="49.9748949" lon="-5.2326987">
+        <ele>11.54</ele>
+        <time>2010-06-29T12:49:44.000Z</time>
+        <course>301.00</course>
+        <speed>1.12</speed>
+      </trkpt>
+      <trkpt lat="49.9748929" lon="-5.2326694">
+        <ele>4.84</ele>
+        <time>2010-06-29T12:49:49.000Z</time>
+        <course>303.23</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9749157" lon="-5.2326461">
+        <ele>2.03</ele>
+        <time>2010-06-29T12:49:54.000Z</time>
+        <course>165.43</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9748959" lon="-5.2325614">
+        <ele>-0.84</ele>
+        <time>2010-06-29T12:49:59.000Z</time>
+        <course>89.58</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9749009" lon="-5.2324831">
+        <ele>-1.04</ele>
+        <time>2010-06-29T12:50:04.000Z</time>
+        <course>46.42</course>
+        <speed>1.12</speed>
+      </trkpt>
+      <trkpt lat="49.9748492" lon="-5.2325105">
+        <ele>9.64</ele>
+        <time>2010-06-29T12:50:09.000Z</time>
+        <course>172.29</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9747954" lon="-5.2325392">
+        <ele>13.10</ele>
+        <time>2010-06-29T12:50:14.000Z</time>
+        <course>163.80</course>
+        <speed>0.76</speed>
+      </trkpt>
+      <trkpt lat="49.9748002" lon="-5.2325153">
+        <ele>12.93</ele>
+        <time>2010-06-29T12:50:20.000Z</time>
+        <course>277.56</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9748004" lon="-5.2325130">
+        <ele>11.18</ele>
+        <time>2010-06-29T12:50:26.000Z</time>
+        <course>176.69</course>
+        <speed>0.19</speed>
+      </trkpt>
+      <trkpt lat="49.9748127" lon="-5.2325315">
+        <ele>11.60</ele>
+        <time>2010-06-29T12:50:33.000Z</time>
+        <course>163.55</course>
+        <speed>0.34</speed>
+      </trkpt>
+      <trkpt lat="49.9743504" lon="-5.2324704">
+        <ele>10.53</ele>
+        <time>2010-06-29T12:50:55.000Z</time>
+        <course>202.96</course>
+        <speed>0.54</speed>
+      </trkpt>
+      <trkpt lat="49.9742449" lon="-5.2325635">
+        <ele>14.58</ele>
+        <time>2010-06-29T12:51:01.000Z</time>
+        <course>226.33</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9743663" lon="-5.2324040">
+        <ele>6.33</ele>
+        <time>2010-06-29T12:51:11.000Z</time>
+        <course>83.40</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9746956" lon="-5.2322033">
+        <ele>-29.18</ele>
+        <time>2010-06-29T12:51:17.000Z</time>
+        <course>357.13</course>
+        <speed>2.27</speed>
+      </trkpt>
+      <trkpt lat="49.9746469" lon="-5.2323491">
+        <ele>-23.80</ele>
+        <time>2010-06-29T12:51:30.000Z</time>
+        <course>289.73</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9748002" lon="-5.2327064">
+        <ele>3.86</ele>
+        <time>2010-06-29T12:51:35.000Z</time>
+        <course>297.55</course>
+        <speed>1.41</speed>
+      </trkpt>
+      <trkpt lat="49.9748140" lon="-5.2327098">
+        <ele>0.14</ele>
+        <time>2010-06-29T12:51:40.000Z</time>
+        <course>295.17</course>
+        <speed>1.23</speed>
+      </trkpt>
+      <trkpt lat="49.9748398" lon="-5.2327571">
+        <ele>-0.65</ele>
+        <time>2010-06-29T12:51:45.000Z</time>
+        <course>304.08</course>
+        <speed>1.15</speed>
+      </trkpt>
+      <trkpt lat="49.9748712" lon="-5.2328034">
+        <ele>-1.13</ele>
+        <time>2010-06-29T12:51:50.000Z</time>
+        <course>318.78</course>
+        <speed>1.09</speed>
+      </trkpt>
+      <trkpt lat="49.9749047" lon="-5.2328415">
+        <ele>-0.62</ele>
+        <time>2010-06-29T12:51:56.000Z</time>
+        <course>290.63</course>
+        <speed>0.65</speed>
+      </trkpt>
+      <trkpt lat="49.9749243" lon="-5.2328856">
+        <ele>-0.34</ele>
+        <time>2010-06-29T12:52:01.000Z</time>
+        <course>273.77</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9749500" lon="-5.2329202">
+        <ele>-0.67</ele>
+        <time>2010-06-29T12:52:06.000Z</time>
+        <course>341.32</course>
+        <speed>0.94</speed>
+      </trkpt>
+      <trkpt lat="49.9749884" lon="-5.2329302">
+        <ele>-0.93</ele>
+        <time>2010-06-29T12:52:11.000Z</time>
+        <course>335.41</course>
+        <speed>0.54</speed>
+      </trkpt>
+      <trkpt lat="49.9750190" lon="-5.2329482">
+        <ele>-1.12</ele>
+        <time>2010-06-29T12:52:16.000Z</time>
+        <course>324.71</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9750283" lon="-5.2329688">
+        <ele>-1.03</ele>
+        <time>2010-06-29T12:52:28.000Z</time>
+        <course>339.16</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9750412" lon="-5.2330257">
+        <ele>-1.04</ele>
+        <time>2010-06-29T12:52:33.000Z</time>
+        <course>292.79</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9750555" lon="-5.2330833">
+        <ele>-1.31</ele>
+        <time>2010-06-29T12:52:38.000Z</time>
+        <course>309.01</course>
+        <speed>1.22</speed>
+      </trkpt>
+      <trkpt lat="49.9750698" lon="-5.2331509">
+        <ele>-1.48</ele>
+        <time>2010-06-29T12:52:43.000Z</time>
+        <course>282.36</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9750855" lon="-5.2332044">
+        <ele>-1.89</ele>
+        <time>2010-06-29T12:52:48.000Z</time>
+        <course>284.14</course>
+        <speed>0.44</speed>
+      </trkpt>
+      <trkpt lat="49.9750847" lon="-5.2332591">
+        <ele>-1.05</ele>
+        <time>2010-06-29T12:52:53.000Z</time>
+        <course>265.74</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9750939" lon="-5.2333182">
+        <ele>-0.56</ele>
+        <time>2010-06-29T12:52:58.000Z</time>
+        <course>296.02</course>
+        <speed>0.92</speed>
+      </trkpt>
+      <trkpt lat="49.9751039" lon="-5.2333797">
+        <ele>-0.44</ele>
+        <time>2010-06-29T12:53:03.000Z</time>
+        <course>299.21</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9751260" lon="-5.2334309">
+        <ele>-0.26</ele>
+        <time>2010-06-29T12:53:09.000Z</time>
+        <course>265.35</course>
+        <speed>0.36</speed>
+      </trkpt>
+      <trkpt lat="49.9751347" lon="-5.2334615">
+        <ele>-0.74</ele>
+        <time>2010-06-29T12:53:14.000Z</time>
+        <course>270.32</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9751433" lon="-5.2334674">
+        <ele>-0.09</ele>
+        <time>2010-06-29T12:53:35.000Z</time>
+        <course>228.03</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9751407" lon="-5.2334208">
+        <ele>0.31</ele>
+        <time>2010-06-29T12:53:40.000Z</time>
+        <course>48.88</course>
+        <speed>0.48</speed>
+      </trkpt>
+      <trkpt lat="49.9751326" lon="-5.2334023">
+        <ele>0.43</ele>
+        <time>2010-06-29T12:53:48.000Z</time>
+        <course>139.76</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9751154" lon="-5.2333802">
+        <ele>0.33</ele>
+        <time>2010-06-29T12:53:53.000Z</time>
+        <course>140.81</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9751237" lon="-5.2333840">
+        <ele>-1.31</ele>
+        <time>2010-06-29T12:54:07.000Z</time>
+        <course>269.72</course>
+        <speed>0.45</speed>
+      </trkpt>
+      <trkpt lat="49.9751292" lon="-5.2334244">
+        <ele>-1.46</ele>
+        <time>2010-06-29T12:54:36.000Z</time>
+        <course>276.58</course>
+        <speed>0.32</speed>
+      </trkpt>
+      <trkpt lat="49.9751334" lon="-5.2334281">
+        <ele>-2.49</ele>
+        <time>2010-06-29T12:54:57.000Z</time>
+        <course>2.97</course>
+        <speed>0.58</speed>
+      </trkpt>
+      <trkpt lat="49.9751451" lon="-5.2334221">
+        <ele>-2.86</ele>
+        <time>2010-06-29T12:55:12.000Z</time>
+        <course>85.55</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9751695" lon="-5.2334096">
+        <ele>-2.89</ele>
+        <time>2010-06-29T12:55:22.000Z</time>
+        <course>322.96</course>
+        <speed>0.40</speed>
+      </trkpt>
+      <trkpt lat="49.9751795" lon="-5.2334221">
+        <ele>-2.38</ele>
+        <time>2010-06-29T12:55:28.000Z</time>
+        <course>314.73</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9752069" lon="-5.2334237">
+        <ele>-2.59</ele>
+        <time>2010-06-29T12:55:36.000Z</time>
+        <course>325.31</course>
+        <speed>0.45</speed>
+      </trkpt>
+      <trkpt lat="49.9751953" lon="-5.2334534">
+        <ele>-2.75</ele>
+        <time>2010-06-29T12:55:45.000Z</time>
+        <course>238.47</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9751826" lon="-5.2335048">
+        <ele>-1.27</ele>
+        <time>2010-06-29T12:56:17.000Z</time>
+        <course>250.48</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9751592" lon="-5.2335007">
+        <ele>-0.82</ele>
+        <time>2010-06-29T12:56:22.000Z</time>
+        <course>93.78</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9751482" lon="-5.2334675">
+        <ele>-0.86</ele>
+        <time>2010-06-29T12:56:27.000Z</time>
+        <course>150.17</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9751094" lon="-5.2334111">
+        <ele>-1.51</ele>
+        <time>2010-06-29T12:56:32.000Z</time>
+        <course>129.52</course>
+        <speed>1.39</speed>
+      </trkpt>
+      <trkpt lat="49.9750798" lon="-5.2333295">
+        <ele>-2.13</ele>
+        <time>2010-06-29T12:56:37.000Z</time>
+        <course>120.57</course>
+        <speed>1.44</speed>
+      </trkpt>
+      <trkpt lat="49.9750528" lon="-5.2332565">
+        <ele>-1.94</ele>
+        <time>2010-06-29T12:56:42.000Z</time>
+        <course>112.69</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9750344" lon="-5.2332147">
+        <ele>-0.72</ele>
+        <time>2010-06-29T12:56:52.000Z</time>
+        <course>114.79</course>
+        <speed>1.19</speed>
+      </trkpt>
+      <trkpt lat="49.9750203" lon="-5.2331333">
+        <ele>-0.10</ele>
+        <time>2010-06-29T12:56:57.000Z</time>
+        <course>93.31</course>
+        <speed>1.26</speed>
+      </trkpt>
+      <trkpt lat="49.9750038" lon="-5.2330734">
+        <ele>0.48</ele>
+        <time>2010-06-29T12:57:02.000Z</time>
+        <course>106.52</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9750021" lon="-5.2330332">
+        <ele>-0.26</ele>
+        <time>2010-06-29T12:57:07.000Z</time>
+        <course>129.67</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9749547" lon="-5.2330097">
+        <ele>8.11</ele>
+        <time>2010-06-29T12:57:27.000Z</time>
+        <course>36.51</course>
+        <speed>0.32</speed>
+      </trkpt>
+      <trkpt lat="49.9749880" lon="-5.2329914">
+        <ele>6.05</ele>
+        <time>2010-06-29T12:57:50.000Z</time>
+        <course>8.87</course>
+        <speed>0.24</speed>
+      </trkpt>
+      <trkpt lat="49.9749731" lon="-5.2329950">
+        <ele>7.00</ele>
+        <time>2010-06-29T12:58:09.000Z</time>
+        <course>7.50</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9749799" lon="-5.2329946">
+        <ele>5.12</ele>
+        <time>2010-06-29T12:58:22.000Z</time>
+        <course>39.32</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9749864" lon="-5.2329868">
+        <ele>4.28</ele>
+        <time>2010-06-29T12:58:28.000Z</time>
+        <course>42.63</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9749900" lon="-5.2329636">
+        <ele>5.19</ele>
+        <time>2010-06-29T12:58:36.000Z</time>
+        <course>90.99</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9750066" lon="-5.2329379">
+        <ele>3.64</ele>
+        <time>2010-06-29T12:59:03.000Z</time>
+        <course>235.57</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9750062" lon="-5.2329679">
+        <ele>4.23</ele>
+        <time>2010-06-29T12:59:15.000Z</time>
+        <course>262.58</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9750098" lon="-5.2329485">
+        <ele>3.37</ele>
+        <time>2010-06-29T12:59:54.000Z</time>
+        <course>214.53</course>
+        <speed>0.43</speed>
+      </trkpt>
+      <trkpt lat="49.9750081" lon="-5.2329849">
+        <ele>3.48</ele>
+        <time>2010-06-29T12:59:59.000Z</time>
+        <course>133.03</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9750166" lon="-5.2329704">
+        <ele>3.25</ele>
+        <time>2010-06-29T13:00:13.000Z</time>
+        <course>13.17</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9750120" lon="-5.2329554">
+        <ele>3.25</ele>
+        <time>2010-06-29T13:00:19.000Z</time>
+        <course>136.03</course>
+        <speed>0.59</speed>
+      </trkpt>
+      <trkpt lat="49.9750082" lon="-5.2329352">
+        <ele>2.94</ele>
+        <time>2010-06-29T13:00:30.000Z</time>
+        <course>121.90</course>
+        <speed>0.30</speed>
+      </trkpt>
+      <trkpt lat="49.9749888" lon="-5.2328805">
+        <ele>3.20</ele>
+        <time>2010-06-29T13:00:35.000Z</time>
+        <course>129.09</course>
+        <speed>1.07</speed>
+      </trkpt>
+      <trkpt lat="49.9749459" lon="-5.2328433">
+        <ele>3.10</ele>
+        <time>2010-06-29T13:00:40.000Z</time>
+        <course>171.18</course>
+        <speed>1.17</speed>
+      </trkpt>
+      <trkpt lat="49.9749000" lon="-5.2328363">
+        <ele>2.78</ele>
+        <time>2010-06-29T13:00:45.000Z</time>
+        <course>170.54</course>
+        <speed>1.05</speed>
+      </trkpt>
+      <trkpt lat="49.9748546" lon="-5.2328274">
+        <ele>2.44</ele>
+        <time>2010-06-29T13:00:50.000Z</time>
+        <course>162.46</course>
+        <speed>0.94</speed>
+      </trkpt>
+      <trkpt lat="49.9748185" lon="-5.2328092">
+        <ele>2.37</ele>
+        <time>2010-06-29T13:00:55.000Z</time>
+        <course>158.07</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9747859" lon="-5.2327957">
+        <ele>3.21</ele>
+        <time>2010-06-29T13:01:00.000Z</time>
+        <course>102.40</course>
+        <speed>0.33</speed>
+      </trkpt>
+      <trkpt lat="49.9747646" lon="-5.2327735">
+        <ele>2.95</ele>
+        <time>2010-06-29T13:01:05.000Z</time>
+        <course>145.16</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9747327" lon="-5.2327468">
+        <ele>2.99</ele>
+        <time>2010-06-29T13:01:10.000Z</time>
+        <course>135.70</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9747011" lon="-5.2327238">
+        <ele>2.94</ele>
+        <time>2010-06-29T13:01:15.000Z</time>
+        <course>123.17</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9746844" lon="-5.2326580">
+        <ele>3.39</ele>
+        <time>2010-06-29T13:01:20.000Z</time>
+        <course>120.70</course>
+        <speed>2.42</speed>
+      </trkpt>
+      <trkpt lat="49.9746447" lon="-5.2324921">
+        <ele>4.59</ele>
+        <time>2010-06-29T13:01:25.000Z</time>
+        <course>96.24</course>
+        <speed>2.55</speed>
+      </trkpt>
+      <trkpt lat="49.9746653" lon="-5.2323429">
+        <ele>5.00</ele>
+        <time>2010-06-29T13:01:30.000Z</time>
+        <course>33.64</course>
+        <speed>1.34</speed>
+      </trkpt>
+      <trkpt lat="49.9746941" lon="-5.2323322">
+        <ele>2.97</ele>
+        <time>2010-06-29T13:01:35.000Z</time>
+        <course>347.88</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9746818" lon="-5.2322869">
+        <ele>-3.10</ele>
+        <time>2010-06-29T13:01:40.000Z</time>
+        <course>20.04</course>
+        <speed>0.46</speed>
+      </trkpt>
+      <trkpt lat="49.9746655" lon="-5.2322844">
+        <ele>-6.03</ele>
+        <time>2010-06-29T13:01:45.000Z</time>
+        <course>35.61</course>
+        <speed>0.31</speed>
+      </trkpt>
+      <trkpt lat="49.9746332" lon="-5.2322940">
+        <ele>-4.04</ele>
+        <time>2010-06-29T13:01:52.000Z</time>
+        <course>207.76</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9746137" lon="-5.2323280">
+        <ele>-2.60</ele>
+        <time>2010-06-29T13:01:57.000Z</time>
+        <course>179.10</course>
+        <speed>0.65</speed>
+      </trkpt>
+      <trkpt lat="49.9745785" lon="-5.2323543">
+        <ele>-0.01</ele>
+        <time>2010-06-29T13:02:02.000Z</time>
+        <course>177.84</course>
+        <speed>0.48</speed>
+      </trkpt>
+      <trkpt lat="49.9745223" lon="-5.2323841">
+        <ele>5.41</ele>
+        <time>2010-06-29T13:02:07.000Z</time>
+        <course>173.43</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9744771" lon="-5.2323677">
+        <ele>6.68</ele>
+        <time>2010-06-29T13:02:12.000Z</time>
+        <course>136.16</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9744597" lon="-5.2323059">
+        <ele>5.80</ele>
+        <time>2010-06-29T13:02:17.000Z</time>
+        <course>133.84</course>
+        <speed>1.07</speed>
+      </trkpt>
+      <trkpt lat="49.9744450" lon="-5.2322875">
+        <ele>6.49</ele>
+        <time>2010-06-29T13:02:22.000Z</time>
+        <course>325.20</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9744363" lon="-5.2322749">
+        <ele>6.53</ele>
+        <time>2010-06-29T13:02:28.000Z</time>
+        <course>143.95</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9744108" lon="-5.2322594">
+        <ele>6.53</ele>
+        <time>2010-06-29T13:02:33.000Z</time>
+        <course>192.49</course>
+        <speed>0.57</speed>
+      </trkpt>
+      <trkpt lat="49.9743778" lon="-5.2322991">
+        <ele>7.11</ele>
+        <time>2010-06-29T13:02:38.000Z</time>
+        <course>206.91</course>
+        <speed>1.11</speed>
+      </trkpt>
+      <trkpt lat="49.9743297" lon="-5.2323003">
+        <ele>6.81</ele>
+        <time>2010-06-29T13:02:43.000Z</time>
+        <course>181.66</course>
+        <speed>1.05</speed>
+      </trkpt>
+      <trkpt lat="49.9742867" lon="-5.2323161">
+        <ele>6.44</ele>
+        <time>2010-06-29T13:02:48.000Z</time>
+        <course>198.51</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9742644" lon="-5.2323350">
+        <ele>6.04</ele>
+        <time>2010-06-29T13:02:55.000Z</time>
+        <course>298.17</course>
+        <speed>0.41</speed>
+      </trkpt>
+      <trkpt lat="49.9742718" lon="-5.2323624">
+        <ele>5.80</ele>
+        <time>2010-06-29T13:03:01.000Z</time>
+        <course>197.13</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9742598" lon="-5.2323636">
+        <ele>4.79</ele>
+        <time>2010-06-29T13:03:19.000Z</time>
+        <course>190.81</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9742446" lon="-5.2323861">
+        <ele>4.60</ele>
+        <time>2010-06-29T13:03:24.000Z</time>
+        <course>156.98</course>
+        <speed>0.45</speed>
+      </trkpt>
+      <trkpt lat="49.9742415" lon="-5.2323767">
+        <ele>3.76</ele>
+        <time>2010-06-29T13:03:42.000Z</time>
+        <course>57.36</course>
+        <speed>1.18</speed>
+      </trkpt>
+      <trkpt lat="49.9742701" lon="-5.2323795">
+        <ele>3.84</ele>
+        <time>2010-06-29T13:03:57.000Z</time>
+        <course>170.68</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9742733" lon="-5.2323891">
+        <ele>3.00</ele>
+        <time>2010-06-29T13:04:20.000Z</time>
+        <course>203.33</course>
+        <speed>0.19</speed>
+      </trkpt>
+      <trkpt lat="49.9742747" lon="-5.2323935">
+        <ele>3.56</ele>
+        <time>2010-06-29T13:04:26.000Z</time>
+        <course>216.94</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9742638" lon="-5.2323939">
+        <ele>3.08</ele>
+        <time>2010-06-29T13:04:32.000Z</time>
+        <course>186.27</course>
+        <speed>0.24</speed>
+      </trkpt>
+      <trkpt lat="49.9742670" lon="-5.2324127">
+        <ele>5.95</ele>
+        <time>2010-06-29T13:04:42.000Z</time>
+        <course>197.28</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9742563" lon="-5.2324160">
+        <ele>5.92</ele>
+        <time>2010-06-29T13:04:53.000Z</time>
+        <course>201.45</course>
+        <speed>0.45</speed>
+      </trkpt>
+      <trkpt lat="49.9742637" lon="-5.2324133">
+        <ele>5.68</ele>
+        <time>2010-06-29T13:05:00.000Z</time>
+        <course>221.38</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9742522" lon="-5.2324081">
+        <ele>4.60</ele>
+        <time>2010-06-29T13:05:07.000Z</time>
+        <course>183.35</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9742480" lon="-5.2324002">
+        <ele>4.78</ele>
+        <time>2010-06-29T13:05:17.000Z</time>
+        <course>3.93</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9742519" lon="-5.2323954">
+        <ele>4.38</ele>
+        <time>2010-06-29T13:05:25.000Z</time>
+        <course>101.58</course>
+        <speed>0.22</speed>
+      </trkpt>
+      <trkpt lat="49.9742480" lon="-5.2323446">
+        <ele>4.10</ele>
+        <time>2010-06-29T13:05:30.000Z</time>
+        <course>99.04</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9742450" lon="-5.2322686">
+        <ele>4.13</ele>
+        <time>2010-06-29T13:05:35.000Z</time>
+        <course>83.35</course>
+        <speed>1.09</speed>
+      </trkpt>
+      <trkpt lat="49.9742532" lon="-5.2321899">
+        <ele>4.31</ele>
+        <time>2010-06-29T13:05:40.000Z</time>
+        <course>90.95</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9742474" lon="-5.2321135">
+        <ele>4.03</ele>
+        <time>2010-06-29T13:05:45.000Z</time>
+        <course>90.66</course>
+        <speed>1.02</speed>
+      </trkpt>
+      <trkpt lat="49.9742331" lon="-5.2320394">
+        <ele>3.43</ele>
+        <time>2010-06-29T13:05:50.000Z</time>
+        <course>99.75</course>
+        <speed>1.09</speed>
+      </trkpt>
+      <trkpt lat="49.9742219" lon="-5.2319651">
+        <ele>2.92</ele>
+        <time>2010-06-29T13:05:55.000Z</time>
+        <course>113.46</course>
+        <speed>1.05</speed>
+      </trkpt>
+      <trkpt lat="49.9742040" lon="-5.2318971">
+        <ele>2.59</ele>
+        <time>2010-06-29T13:06:00.000Z</time>
+        <course>123.54</course>
+        <speed>1.03</speed>
+      </trkpt>
+      <trkpt lat="49.9741806" lon="-5.2318292">
+        <ele>2.22</ele>
+        <time>2010-06-29T13:06:05.000Z</time>
+        <course>108.41</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9741525" lon="-5.2317630">
+        <ele>1.86</ele>
+        <time>2010-06-29T13:06:10.000Z</time>
+        <course>121.52</course>
+        <speed>1.09</speed>
+      </trkpt>
+      <trkpt lat="49.9741341" lon="-5.2316918">
+        <ele>1.43</ele>
+        <time>2010-06-29T13:06:15.000Z</time>
+        <course>110.35</course>
+        <speed>1.14</speed>
+      </trkpt>
+      <trkpt lat="49.9741191" lon="-5.2316191">
+        <ele>0.83</ele>
+        <time>2010-06-29T13:06:20.000Z</time>
+        <course>106.21</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9741054" lon="-5.2315523">
+        <ele>0.68</ele>
+        <time>2010-06-29T13:06:25.000Z</time>
+        <course>110.20</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9740955" lon="-5.2314937">
+        <ele>0.91</ele>
+        <time>2010-06-29T13:06:30.000Z</time>
+        <course>107.42</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9740837" lon="-5.2314441">
+        <ele>1.08</ele>
+        <time>2010-06-29T13:06:35.000Z</time>
+        <course>102.48</course>
+        <speed>0.64</speed>
+      </trkpt>
+      <trkpt lat="49.9740805" lon="-5.2314230">
+        <ele>1.47</ele>
+        <time>2010-06-29T13:06:42.000Z</time>
+        <course>55.78</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9740637" lon="-5.2314450">
+        <ele>2.24</ele>
+        <time>2010-06-29T13:07:01.000Z</time>
+        <course>182.99</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9740477" lon="-5.2314449">
+        <ele>2.62</ele>
+        <time>2010-06-29T13:07:11.000Z</time>
+        <course>183.49</course>
+        <speed>0.34</speed>
+      </trkpt>
+      <trkpt lat="49.9740632" lon="-5.2314491">
+        <ele>2.77</ele>
+        <time>2010-06-29T13:07:21.000Z</time>
+        <course>284.55</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9740656" lon="-5.2314229">
+        <ele>2.73</ele>
+        <time>2010-06-29T13:07:27.000Z</time>
+        <course>74.35</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9740748" lon="-5.2314173">
+        <ele>2.80</ele>
+        <time>2010-06-29T13:07:39.000Z</time>
+        <course>262.97</course>
+        <speed>0.62</speed>
+      </trkpt>
+      <trkpt lat="49.9740904" lon="-5.2314479">
+        <ele>3.45</ele>
+        <time>2010-06-29T13:07:50.000Z</time>
+        <course>354.29</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9740926" lon="-5.2314569">
+        <ele>3.46</ele>
+        <time>2010-06-29T13:07:56.000Z</time>
+        <course>206.90</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9740874" lon="-5.2314582">
+        <ele>2.98</ele>
+        <time>2010-06-29T13:08:08.000Z</time>
+        <course>349.14</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9740885" lon="-5.2314589">
+        <ele>1.59</ele>
+        <time>2010-06-29T13:08:26.000Z</time>
+        <course>2.38</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9740996" lon="-5.2314813">
+        <ele>0.37</ele>
+        <time>2010-06-29T13:08:40.000Z</time>
+        <course>244.60</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9740846" lon="-5.2314784">
+        <ele>4.48</ele>
+        <time>2010-06-29T13:09:20.000Z</time>
+        <course>36.38</course>
+        <speed>0.22</speed>
+      </trkpt>
+      <trkpt lat="49.9740824" lon="-5.2314575">
+        <ele>4.70</ele>
+        <time>2010-06-29T13:09:34.000Z</time>
+        <course>68.72</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9740740" lon="-5.2314356">
+        <ele>4.26</ele>
+        <time>2010-06-29T13:09:52.000Z</time>
+        <course>173.27</course>
+        <speed>0.35</speed>
+      </trkpt>
+      <trkpt lat="49.9740786" lon="-5.2314513">
+        <ele>2.56</ele>
+        <time>2010-06-29T13:10:03.000Z</time>
+        <course>318.34</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9740981" lon="-5.2314926">
+        <ele>2.24</ele>
+        <time>2010-06-29T13:10:08.000Z</time>
+        <course>306.21</course>
+        <speed>0.59</speed>
+      </trkpt>
+      <trkpt lat="49.9740957" lon="-5.2315107">
+        <ele>2.06</ele>
+        <time>2010-06-29T13:10:13.000Z</time>
+        <course>194.67</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9740867" lon="-5.2314883">
+        <ele>2.40</ele>
+        <time>2010-06-29T13:10:34.000Z</time>
+        <course>66.67</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9740694" lon="-5.2314598">
+        <ele>2.18</ele>
+        <time>2010-06-29T13:10:44.000Z</time>
+        <course>126.67</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9740670" lon="-5.2314443">
+        <ele>2.14</ele>
+        <time>2010-06-29T13:10:50.000Z</time>
+        <course>33.33</course>
+        <speed>0.40</speed>
+      </trkpt>
+      <trkpt lat="49.9740659" lon="-5.2314409">
+        <ele>0.23</ele>
+        <time>2010-06-29T13:11:23.000Z</time>
+        <course>59.08</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9740935" lon="-5.2314183">
+        <ele>-0.08</ele>
+        <time>2010-06-29T13:11:28.000Z</time>
+        <course>24.37</course>
+        <speed>0.62</speed>
+      </trkpt>
+      <trkpt lat="49.9741188" lon="-5.2313829">
+        <ele>-0.16</ele>
+        <time>2010-06-29T13:11:33.000Z</time>
+        <course>50.32</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9741314" lon="-5.2313441">
+        <ele>-0.08</ele>
+        <time>2010-06-29T13:11:38.000Z</time>
+        <course>105.93</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9741381" lon="-5.2313060">
+        <ele>0.07</ele>
+        <time>2010-06-29T13:11:43.000Z</time>
+        <course>59.69</course>
+        <speed>0.48</speed>
+      </trkpt>
+      <trkpt lat="49.9741545" lon="-5.2313032">
+        <ele>-0.57</ele>
+        <time>2010-06-29T13:11:53.000Z</time>
+        <course>327.01</course>
+        <speed>0.45</speed>
+      </trkpt>
+      <trkpt lat="49.9741605" lon="-5.2313499">
+        <ele>-0.66</ele>
+        <time>2010-06-29T13:11:58.000Z</time>
+        <course>292.96</course>
+        <speed>0.55</speed>
+      </trkpt>
+      <trkpt lat="49.9741711" lon="-5.2313575">
+        <ele>-1.08</ele>
+        <time>2010-06-29T13:12:32.000Z</time>
+        <course>358.95</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9741616" lon="-5.2313414">
+        <ele>-1.14</ele>
+        <time>2010-06-29T13:12:37.000Z</time>
+        <course>167.88</course>
+        <speed>0.24</speed>
+      </trkpt>
+      <trkpt lat="49.9741778" lon="-5.2313790">
+        <ele>-0.69</ele>
+        <time>2010-06-29T13:12:43.000Z</time>
+        <course>321.65</course>
+        <speed>1.08</speed>
+      </trkpt>
+      <trkpt lat="49.9741662" lon="-5.2314184">
+        <ele>-0.09</ele>
+        <time>2010-06-29T13:12:59.000Z</time>
+        <course>208.09</course>
+        <speed>0.40</speed>
+      </trkpt>
+      <trkpt lat="49.9741461" lon="-5.2314427">
+        <ele>0.27</ele>
+        <time>2010-06-29T13:13:21.000Z</time>
+        <course>234.12</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9741178" lon="-5.2314964">
+        <ele>1.10</ele>
+        <time>2010-06-29T13:13:26.000Z</time>
+        <course>218.23</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9740966" lon="-5.2315563">
+        <ele>1.48</ele>
+        <time>2010-06-29T13:13:31.000Z</time>
+        <course>233.46</course>
+        <speed>1.00</speed>
+      </trkpt>
+      <trkpt lat="49.9740635" lon="-5.2315983">
+        <ele>1.60</ele>
+        <time>2010-06-29T13:13:36.000Z</time>
+        <course>205.81</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9740208" lon="-5.2316144">
+        <ele>1.43</ele>
+        <time>2010-06-29T13:13:41.000Z</time>
+        <course>193.73</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9739781" lon="-5.2316322">
+        <ele>1.48</ele>
+        <time>2010-06-29T13:13:46.000Z</time>
+        <course>201.77</course>
+        <speed>1.00</speed>
+      </trkpt>
+      <trkpt lat="49.9739396" lon="-5.2316655">
+        <ele>1.63</ele>
+        <time>2010-06-29T13:13:51.000Z</time>
+        <course>219.96</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9739099" lon="-5.2317085">
+        <ele>1.76</ele>
+        <time>2010-06-29T13:13:56.000Z</time>
+        <course>218.31</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9738743" lon="-5.2317393">
+        <ele>1.60</ele>
+        <time>2010-06-29T13:14:01.000Z</time>
+        <course>205.59</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9738418" lon="-5.2317452">
+        <ele>1.38</ele>
+        <time>2010-06-29T13:14:06.000Z</time>
+        <course>180.75</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9738138" lon="-5.2317532">
+        <ele>0.96</ele>
+        <time>2010-06-29T13:14:11.000Z</time>
+        <course>209.60</course>
+        <speed>0.59</speed>
+      </trkpt>
+      <trkpt lat="49.9737861" lon="-5.2317655">
+        <ele>0.35</ele>
+        <time>2010-06-29T13:14:16.000Z</time>
+        <course>199.34</course>
+        <speed>0.50</speed>
+      </trkpt>
+      <trkpt lat="49.9737603" lon="-5.2317849">
+        <ele>0.33</ele>
+        <time>2010-06-29T13:14:21.000Z</time>
+        <course>199.97</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9737339" lon="-5.2318047">
+        <ele>-0.15</ele>
+        <time>2010-06-29T13:14:26.000Z</time>
+        <course>190.38</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9737084" lon="-5.2318236">
+        <ele>-0.13</ele>
+        <time>2010-06-29T13:14:31.000Z</time>
+        <course>216.71</course>
+        <speed>0.33</speed>
+      </trkpt>
+      <trkpt lat="49.9736952" lon="-5.2318432">
+        <ele>0.22</ele>
+        <time>2010-06-29T13:14:36.000Z</time>
+        <course>188.85</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9737240" lon="-5.2318441">
+        <ele>0.47</ele>
+        <time>2010-06-29T13:14:41.000Z</time>
+        <course>342.34</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9737637" lon="-5.2318715">
+        <ele>0.60</ele>
+        <time>2010-06-29T13:14:46.000Z</time>
+        <course>331.15</course>
+        <speed>1.04</speed>
+      </trkpt>
+      <trkpt lat="49.9737991" lon="-5.2319119">
+        <ele>0.65</ele>
+        <time>2010-06-29T13:14:51.000Z</time>
+        <course>321.64</course>
+        <speed>0.96</speed>
+      </trkpt>
+      <trkpt lat="49.9738387" lon="-5.2319511">
+        <ele>0.62</ele>
+        <time>2010-06-29T13:14:56.000Z</time>
+        <course>317.02</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9738722" lon="-5.2319971">
+        <ele>0.88</ele>
+        <time>2010-06-29T13:15:01.000Z</time>
+        <course>323.78</course>
+        <speed>1.03</speed>
+      </trkpt>
+      <trkpt lat="49.9739115" lon="-5.2320371">
+        <ele>1.17</ele>
+        <time>2010-06-29T13:15:06.000Z</time>
+        <course>327.87</course>
+        <speed>1.23</speed>
+      </trkpt>
+      <trkpt lat="49.9739478" lon="-5.2320800">
+        <ele>1.12</ele>
+        <time>2010-06-29T13:15:11.000Z</time>
+        <course>315.55</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9739864" lon="-5.2321151">
+        <ele>0.91</ele>
+        <time>2010-06-29T13:15:16.000Z</time>
+        <course>325.63</course>
+        <speed>0.77</speed>
+      </trkpt>
+      <trkpt lat="49.9740300" lon="-5.2321479">
+        <ele>0.13</ele>
+        <time>2010-06-29T13:15:21.000Z</time>
+        <course>341.39</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9740575" lon="-5.2321791">
+        <ele>1.50</ele>
+        <time>2010-06-29T13:15:26.000Z</time>
+        <course>355.73</course>
+        <speed>1.07</speed>
+      </trkpt>
+      <trkpt lat="49.9740964" lon="-5.2321980">
+        <ele>2.43</ele>
+        <time>2010-06-29T13:15:31.000Z</time>
+        <course>345.89</course>
+        <speed>1.11</speed>
+      </trkpt>
+      <trkpt lat="49.9741519" lon="-5.2322158">
+        <ele>3.99</ele>
+        <time>2010-06-29T13:15:36.000Z</time>
+        <course>331.17</course>
+        <speed>0.92</speed>
+      </trkpt>
+      <trkpt lat="49.9741885" lon="-5.2322498">
+        <ele>3.30</ele>
+        <time>2010-06-29T13:15:41.000Z</time>
+        <course>326.25</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9742193" lon="-5.2322840">
+        <ele>1.85</ele>
+        <time>2010-06-29T13:15:46.000Z</time>
+        <course>310.46</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9742433" lon="-5.2323391">
+        <ele>1.45</ele>
+        <time>2010-06-29T13:15:51.000Z</time>
+        <course>305.82</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9742710" lon="-5.2323672">
+        <ele>2.51</ele>
+        <time>2010-06-29T13:15:56.000Z</time>
+        <course>320.50</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9742843" lon="-5.2324169">
+        <ele>2.62</ele>
+        <time>2010-06-29T13:16:19.000Z</time>
+        <course>11.03</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742805" lon="-5.2324165">
+        <ele>2.30</ele>
+        <time>2010-06-29T13:16:26.000Z</time>
+        <course>180.19</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9743266" lon="-5.2324125">
+        <ele>3.68</ele>
+        <time>2010-06-29T13:17:09.000Z</time>
+        <course>260.15</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9742965" lon="-5.2324101">
+        <ele>3.15</ele>
+        <time>2010-06-29T13:17:20.000Z</time>
+        <course>100.07</course>
+        <speed>0.35</speed>
+      </trkpt>
+      <trkpt lat="49.9742623" lon="-5.2323614">
+        <ele>2.26</ele>
+        <time>2010-06-29T13:17:26.000Z</time>
+        <course>115.08</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9742264" lon="-5.2323215">
+        <ele>1.48</ele>
+        <time>2010-06-29T13:17:31.000Z</time>
+        <course>140.06</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9742055" lon="-5.2322800">
+        <ele>1.08</ele>
+        <time>2010-06-29T13:17:36.000Z</time>
+        <course>123.81</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9741788" lon="-5.2322382">
+        <ele>0.52</ele>
+        <time>2010-06-29T13:17:41.000Z</time>
+        <course>126.64</course>
+        <speed>0.77</speed>
+      </trkpt>
+      <trkpt lat="49.9741757" lon="-5.2322018">
+        <ele>0.01</ele>
+        <time>2010-06-29T13:17:46.000Z</time>
+        <course>351.33</course>
+        <speed>0.33</speed>
+      </trkpt>
+      <trkpt lat="49.9741985" lon="-5.2322168">
+        <ele>0.43</ele>
+        <time>2010-06-29T13:17:51.000Z</time>
+        <course>318.71</course>
+        <speed>0.58</speed>
+      </trkpt>
+      <trkpt lat="49.9742301" lon="-5.2322398">
+        <ele>0.80</ele>
+        <time>2010-06-29T13:17:56.000Z</time>
+        <course>324.55</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9742482" lon="-5.2322793">
+        <ele>1.08</ele>
+        <time>2010-06-29T13:18:01.000Z</time>
+        <course>286.93</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9742509" lon="-5.2323370">
+        <ele>1.43</ele>
+        <time>2010-06-29T13:18:06.000Z</time>
+        <course>264.45</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9742509" lon="-5.2323730">
+        <ele>1.88</ele>
+        <time>2010-06-29T13:18:11.000Z</time>
+        <course>160.88</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9742702" lon="-5.2323423">
+        <ele>2.56</ele>
+        <time>2010-06-29T13:19:04.000Z</time>
+        <course>332.00</course>
+        <speed>0.48</speed>
+      </trkpt>
+      <trkpt lat="49.9742817" lon="-5.2323855">
+        <ele>1.05</ele>
+        <time>2010-06-29T13:19:20.000Z</time>
+        <course>185.23</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9742826" lon="-5.2323687">
+        <ele>5.25</ele>
+        <time>2010-06-29T13:19:48.000Z</time>
+        <course>206.64</course>
+        <speed>0.50</speed>
+      </trkpt>
+      <trkpt lat="49.9742670" lon="-5.2322997">
+        <ele>13.25</ele>
+        <time>2010-06-29T13:20:24.000Z</time>
+        <course>106.59</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9742633" lon="-5.2322793">
+        <ele>13.13</ele>
+        <time>2010-06-29T13:20:38.000Z</time>
+        <course>115.01</course>
+        <speed>0.34</speed>
+      </trkpt>
+      <trkpt lat="49.9742654" lon="-5.2323701">
+        <ele>-2.86</ele>
+        <time>2010-06-29T13:26:20.000Z</time>
+        <course>26.71</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9742533" lon="-5.2323719">
+        <ele>-1.33</ele>
+        <time>2010-06-29T13:26:58.000Z</time>
+        <course>55.03</course>
+        <speed>0.22</speed>
+      </trkpt>
+      <trkpt lat="49.9742552" lon="-5.2323577">
+        <ele>0.37</ele>
+        <time>2010-06-29T13:27:28.000Z</time>
+        <course>104.27</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9742548" lon="-5.2323562">
+        <ele>0.73</ele>
+        <time>2010-06-29T13:27:33.000Z</time>
+        <course>101.05</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9742594" lon="-5.2323868">
+        <ele>-1.87</ele>
+        <time>2010-06-29T13:27:54.000Z</time>
+        <course>23.60</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9742587" lon="-5.2323940">
+        <ele>-2.24</ele>
+        <time>2010-06-29T13:28:32.000Z</time>
+        <course>159.52</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9742542" lon="-5.2323852">
+        <ele>-1.23</ele>
+        <time>2010-06-29T13:28:48.000Z</time>
+        <course>84.54</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9742534" lon="-5.2323996">
+        <ele>-2.41</ele>
+        <time>2010-06-29T13:29:13.000Z</time>
+        <course>73.17</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9742484" lon="-5.2324008">
+        <ele>-0.96</ele>
+        <time>2010-06-29T13:29:28.000Z</time>
+        <course>82.39</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9742501" lon="-5.2323865">
+        <ele>-0.30</ele>
+        <time>2010-06-29T13:29:43.000Z</time>
+        <course>83.41</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742509" lon="-5.2323832">
+        <ele>-0.23</ele>
+        <time>2010-06-29T13:29:50.000Z</time>
+        <course>179.80</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742496" lon="-5.2323853">
+        <ele>-0.43</ele>
+        <time>2010-06-29T13:30:02.000Z</time>
+        <course>71.18</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9742490" lon="-5.2323784">
+        <ele>-0.04</ele>
+        <time>2010-06-29T13:30:16.000Z</time>
+        <course>38.50</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742540" lon="-5.2323779">
+        <ele>0.22</ele>
+        <time>2010-06-29T13:30:21.000Z</time>
+        <course>145.82</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9742546" lon="-5.2323828">
+        <ele>-0.53</ele>
+        <time>2010-06-29T13:30:43.000Z</time>
+        <course>99.71</course>
+        <speed>0.40</speed>
+      </trkpt>
+      <trkpt lat="49.9742534" lon="-5.2323878">
+        <ele>-0.27</ele>
+        <time>2010-06-29T13:30:54.000Z</time>
+        <course>113.56</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9742529" lon="-5.2323826">
+        <ele>-0.13</ele>
+        <time>2010-06-29T13:31:07.000Z</time>
+        <course>140.95</course>
+        <speed>0.20</speed>
+      </trkpt>
+      <trkpt lat="49.9742534" lon="-5.2323939">
+        <ele>0.02</ele>
+        <time>2010-06-29T13:31:20.000Z</time>
+        <course>317.53</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742528" lon="-5.2323931">
+        <ele>0.70</ele>
+        <time>2010-06-29T13:31:27.000Z</time>
+        <course>291.11</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742511" lon="-5.2324006">
+        <ele>1.36</ele>
+        <time>2010-06-29T13:32:08.000Z</time>
+        <course>86.48</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9742571" lon="-5.2323785">
+        <ele>0.37</ele>
+        <time>2010-06-29T13:32:56.000Z</time>
+        <course>132.11</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9742494" lon="-5.2323793">
+        <ele>2.19</ele>
+        <time>2010-06-29T13:33:30.000Z</time>
+        <course>300.76</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9742601" lon="-5.2323840">
+        <ele>0.05</ele>
+        <time>2010-06-29T13:33:55.000Z</time>
+        <course>266.65</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742550" lon="-5.2323735">
+        <ele>-1.77</ele>
+        <time>2010-06-29T13:34:24.000Z</time>
+        <course>85.64</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742587" lon="-5.2323667">
+        <ele>1.50</ele>
+        <time>2010-06-29T13:35:10.000Z</time>
+        <course>93.00</course>
+        <speed>0.33</speed>
+      </trkpt>
+      <trkpt lat="49.9742615" lon="-5.2323690">
+        <ele>1.26</ele>
+        <time>2010-06-29T13:35:17.000Z</time>
+        <course>67.45</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9742575" lon="-5.2323704">
+        <ele>1.28</ele>
+        <time>2010-06-29T13:35:28.000Z</time>
+        <course>114.22</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9742557" lon="-5.2323706">
+        <ele>2.64</ele>
+        <time>2010-06-29T13:35:39.000Z</time>
+        <course>340.02</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9742658" lon="-5.2323454">
+        <ele>2.60</ele>
+        <time>2010-06-29T13:35:44.000Z</time>
+        <course>76.58</course>
+        <speed>0.51</speed>
+      </trkpt>
+      <trkpt lat="49.9742701" lon="-5.2323498">
+        <ele>1.89</ele>
+        <time>2010-06-29T13:35:50.000Z</time>
+        <course>210.00</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9742597" lon="-5.2323692">
+        <ele>1.45</ele>
+        <time>2010-06-29T13:35:55.000Z</time>
+        <course>228.76</course>
+        <speed>0.29</speed>
+      </trkpt>
+      <trkpt lat="49.9742566" lon="-5.2323776">
+        <ele>0.57</ele>
+        <time>2010-06-29T13:36:05.000Z</time>
+        <course>282.08</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9742602" lon="-5.2323783">
+        <ele>0.44</ele>
+        <time>2010-06-29T13:36:15.000Z</time>
+        <course>82.75</course>
+        <speed>0.56</speed>
+      </trkpt>
+      <trkpt lat="49.9742642" lon="-5.2323743">
+        <ele>1.06</ele>
+        <time>2010-06-29T13:36:25.000Z</time>
+        <course>205.08</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9742587" lon="-5.2323665">
+        <ele>1.66</ele>
+        <time>2010-06-29T13:36:32.000Z</time>
+        <course>69.91</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9742585" lon="-5.2323430">
+        <ele>1.17</ele>
+        <time>2010-06-29T13:36:45.000Z</time>
+        <course>169.61</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742350" lon="-5.2323447">
+        <ele>2.32</ele>
+        <time>2010-06-29T13:37:28.000Z</time>
+        <course>177.98</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9742385" lon="-5.2323417">
+        <ele>3.02</ele>
+        <time>2010-06-29T13:37:57.000Z</time>
+        <course>343.30</course>
+        <speed>0.71</speed>
+      </trkpt>
+      <trkpt lat="49.9742481" lon="-5.2323815">
+        <ele>3.15</ele>
+        <time>2010-06-29T13:38:02.000Z</time>
+        <course>310.66</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9742580" lon="-5.2323780">
+        <ele>3.71</ele>
+        <time>2010-06-29T13:38:18.000Z</time>
+        <course>70.88</course>
+        <speed>0.51</speed>
+      </trkpt>
+      <trkpt lat="49.9742622" lon="-5.2323567">
+        <ele>4.92</ele>
+        <time>2010-06-29T13:38:30.000Z</time>
+        <course>168.15</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9742458" lon="-5.2323776">
+        <ele>5.30</ele>
+        <time>2010-06-29T13:38:42.000Z</time>
+        <course>254.92</course>
+        <speed>0.50</speed>
+      </trkpt>
+      <trkpt lat="49.9742468" lon="-5.2323913">
+        <ele>5.26</ele>
+        <time>2010-06-29T13:38:48.000Z</time>
+        <course>39.41</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9742484" lon="-5.2323813">
+        <ele>5.11</ele>
+        <time>2010-06-29T13:38:57.000Z</time>
+        <course>313.49</course>
+        <speed>0.41</speed>
+      </trkpt>
+      <trkpt lat="49.9742461" lon="-5.2323772">
+        <ele>4.97</ele>
+        <time>2010-06-29T13:39:04.000Z</time>
+        <course>125.27</course>
+        <speed>0.43</speed>
+      </trkpt>
+      <trkpt lat="49.9742447" lon="-5.2323488">
+        <ele>3.35</ele>
+        <time>2010-06-29T13:39:43.000Z</time>
+        <course>345.38</course>
+        <speed>0.31</speed>
+      </trkpt>
+      <trkpt lat="49.9742350" lon="-5.2323462">
+        <ele>1.66</ele>
+        <time>2010-06-29T13:40:40.000Z</time>
+        <course>81.59</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9742531" lon="-5.2323633">
+        <ele>1.82</ele>
+        <time>2010-06-29T13:40:53.000Z</time>
+        <course>318.41</course>
+        <speed>0.45</speed>
+      </trkpt>
+      <trkpt lat="49.9742578" lon="-5.2323662">
+        <ele>2.11</ele>
+        <time>2010-06-29T13:41:03.000Z</time>
+        <course>67.97</course>
+        <speed>0.40</speed>
+      </trkpt>
+      <trkpt lat="49.9742601" lon="-5.2323713">
+        <ele>2.52</ele>
+        <time>2010-06-29T13:41:09.000Z</time>
+        <course>222.66</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9742527" lon="-5.2323380">
+        <ele>2.19</ele>
+        <time>2010-06-29T13:41:15.000Z</time>
+        <course>124.41</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9742487" lon="-5.2323293">
+        <ele>2.13</ele>
+        <time>2010-06-29T13:41:38.000Z</time>
+        <course>35.18</course>
+        <speed>0.22</speed>
+      </trkpt>
+      <trkpt lat="49.9742399" lon="-5.2323325">
+        <ele>1.63</ele>
+        <time>2010-06-29T13:42:10.000Z</time>
+        <course>223.46</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9742335" lon="-5.2323494">
+        <ele>1.59</ele>
+        <time>2010-06-29T13:42:41.000Z</time>
+        <course>20.91</course>
+        <speed>0.24</speed>
+      </trkpt>
+      <trkpt lat="49.9742487" lon="-5.2323691">
+        <ele>1.99</ele>
+        <time>2010-06-29T13:42:46.000Z</time>
+        <course>322.54</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9742595" lon="-5.2323848">
+        <ele>3.76</ele>
+        <time>2010-06-29T13:43:36.000Z</time>
+        <course>341.64</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9742729" lon="-5.2323546">
+        <ele>3.55</ele>
+        <time>2010-06-29T13:43:52.000Z</time>
+        <course>59.27</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9742933" lon="-5.2323111">
+        <ele>3.28</ele>
+        <time>2010-06-29T13:43:57.000Z</time>
+        <course>42.58</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9743092" lon="-5.2322613">
+        <ele>3.05</ele>
+        <time>2010-06-29T13:44:02.000Z</time>
+        <course>71.58</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9743178" lon="-5.2321987">
+        <ele>2.65</ele>
+        <time>2010-06-29T13:44:07.000Z</time>
+        <course>68.90</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9743291" lon="-5.2321422">
+        <ele>2.23</ele>
+        <time>2010-06-29T13:44:12.000Z</time>
+        <course>87.42</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9743313" lon="-5.2320843">
+        <ele>2.35</ele>
+        <time>2010-06-29T13:44:17.000Z</time>
+        <course>109.78</course>
+        <speed>0.96</speed>
+      </trkpt>
+      <trkpt lat="49.9743203" lon="-5.2320350">
+        <ele>2.85</ele>
+        <time>2010-06-29T13:44:22.000Z</time>
+        <course>120.49</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9743038" lon="-5.2319796">
+        <ele>2.82</ele>
+        <time>2010-06-29T13:44:27.000Z</time>
+        <course>98.43</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9743082" lon="-5.2319158">
+        <ele>2.52</ele>
+        <time>2010-06-29T13:44:32.000Z</time>
+        <course>79.18</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9743227" lon="-5.2318619">
+        <ele>2.23</ele>
+        <time>2010-06-29T13:44:37.000Z</time>
+        <course>67.90</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9743426" lon="-5.2318111">
+        <ele>2.20</ele>
+        <time>2010-06-29T13:44:42.000Z</time>
+        <course>54.32</course>
+        <speed>0.89</speed>
+      </trkpt>
+      <trkpt lat="49.9743723" lon="-5.2317632">
+        <ele>2.05</ele>
+        <time>2010-06-29T13:44:47.000Z</time>
+        <course>45.35</course>
+        <speed>0.75</speed>
+      </trkpt>
+      <trkpt lat="49.9743972" lon="-5.2317074">
+        <ele>1.66</ele>
+        <time>2010-06-29T13:44:52.000Z</time>
+        <course>75.63</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9744148" lon="-5.2316481">
+        <ele>1.26</ele>
+        <time>2010-06-29T13:44:57.000Z</time>
+        <course>56.82</course>
+        <speed>1.01</speed>
+      </trkpt>
+      <trkpt lat="49.9744380" lon="-5.2316008">
+        <ele>1.23</ele>
+        <time>2010-06-29T13:45:02.000Z</time>
+        <course>52.22</course>
+        <speed>0.65</speed>
+      </trkpt>
+      <trkpt lat="49.9744717" lon="-5.2315685">
+        <ele>1.36</ele>
+        <time>2010-06-29T13:45:07.000Z</time>
+        <course>29.76</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9745105" lon="-5.2315319">
+        <ele>1.96</ele>
+        <time>2010-06-29T13:45:12.000Z</time>
+        <course>41.59</course>
+        <speed>0.61</speed>
+      </trkpt>
+      <trkpt lat="49.9745437" lon="-5.2314957">
+        <ele>2.29</ele>
+        <time>2010-06-29T13:45:17.000Z</time>
+        <course>36.02</course>
+        <speed>1.00</speed>
+      </trkpt>
+      <trkpt lat="49.9745806" lon="-5.2314574">
+        <ele>2.47</ele>
+        <time>2010-06-29T13:45:22.000Z</time>
+        <course>51.80</course>
+        <speed>1.12</speed>
+      </trkpt>
+      <trkpt lat="49.9746157" lon="-5.2314171">
+        <ele>2.48</ele>
+        <time>2010-06-29T13:45:27.000Z</time>
+        <course>43.09</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9746635" lon="-5.2313907">
+        <ele>2.84</ele>
+        <time>2010-06-29T13:45:32.000Z</time>
+        <course>56.46</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9746918" lon="-5.2313342">
+        <ele>2.47</ele>
+        <time>2010-06-29T13:45:37.000Z</time>
+        <course>46.53</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9747164" lon="-5.2312783">
+        <ele>2.35</ele>
+        <time>2010-06-29T13:45:42.000Z</time>
+        <course>35.82</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9747486" lon="-5.2312461">
+        <ele>2.35</ele>
+        <time>2010-06-29T13:45:47.000Z</time>
+        <course>23.04</course>
+        <speed>0.94</speed>
+      </trkpt>
+      <trkpt lat="49.9747688" lon="-5.2312363">
+        <ele>3.18</ele>
+        <time>2010-06-29T13:45:52.000Z</time>
+        <course>358.42</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9748010" lon="-5.2312143">
+        <ele>3.52</ele>
+        <time>2010-06-29T13:45:57.000Z</time>
+        <course>27.58</course>
+        <speed>1.02</speed>
+      </trkpt>
+      <trkpt lat="49.9748337" lon="-5.2311977">
+        <ele>3.75</ele>
+        <time>2010-06-29T13:46:02.000Z</time>
+        <course>6.48</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9748633" lon="-5.2311865">
+        <ele>3.76</ele>
+        <time>2010-06-29T13:46:07.000Z</time>
+        <course>16.92</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9748930" lon="-5.2311701">
+        <ele>4.05</ele>
+        <time>2010-06-29T13:46:12.000Z</time>
+        <course>7.78</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9749248" lon="-5.2311640">
+        <ele>4.11</ele>
+        <time>2010-06-29T13:46:17.000Z</time>
+        <course>352.94</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9749474" lon="-5.2311377">
+        <ele>4.43</ele>
+        <time>2010-06-29T13:46:22.000Z</time>
+        <course>80.49</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9749678" lon="-5.2311104">
+        <ele>4.96</ele>
+        <time>2010-06-29T13:46:27.000Z</time>
+        <course>355.08</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9749868" lon="-5.2311102">
+        <ele>4.52</ele>
+        <time>2010-06-29T13:47:12.000Z</time>
+        <course>145.00</course>
+        <speed>0.20</speed>
+      </trkpt>
+      <trkpt lat="49.9750060" lon="-5.2311144">
+        <ele>4.68</ele>
+        <time>2010-06-29T13:47:19.000Z</time>
+        <course>335.96</course>
+        <speed>0.62</speed>
+      </trkpt>
+      <trkpt lat="49.9750203" lon="-5.2311429">
+        <ele>4.79</ele>
+        <time>2010-06-29T13:47:24.000Z</time>
+        <course>308.08</course>
+        <speed>0.56</speed>
+      </trkpt>
+      <trkpt lat="49.9750348" lon="-5.2311601">
+        <ele>4.75</ele>
+        <time>2010-06-29T13:47:29.000Z</time>
+        <course>358.56</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9750593" lon="-5.2311701">
+        <ele>4.79</ele>
+        <time>2010-06-29T13:47:34.000Z</time>
+        <course>336.95</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9750644" lon="-5.2311776">
+        <ele>4.31</ele>
+        <time>2010-06-29T13:47:55.000Z</time>
+        <course>327.01</course>
+        <speed>0.50</speed>
+      </trkpt>
+      <trkpt lat="49.9750736" lon="-5.2311794">
+        <ele>3.95</ele>
+        <time>2010-06-29T13:48:08.000Z</time>
+        <course>314.09</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9750903" lon="-5.2311898">
+        <ele>4.04</ele>
+        <time>2010-06-29T13:48:13.000Z</time>
+        <course>9.97</course>
+        <speed>0.32</speed>
+      </trkpt>
+      <trkpt lat="49.9751032" lon="-5.2312072">
+        <ele>4.38</ele>
+        <time>2010-06-29T13:48:18.000Z</time>
+        <course>333.82</course>
+        <speed>0.59</speed>
+      </trkpt>
+      <trkpt lat="49.9751257" lon="-5.2312297">
+        <ele>4.95</ele>
+        <time>2010-06-29T13:48:23.000Z</time>
+        <course>330.17</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9751550" lon="-5.2312442">
+        <ele>5.19</ele>
+        <time>2010-06-29T13:48:28.000Z</time>
+        <course>348.49</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9751843" lon="-5.2312530">
+        <ele>5.15</ele>
+        <time>2010-06-29T13:48:33.000Z</time>
+        <course>5.75</course>
+        <speed>0.76</speed>
+      </trkpt>
+      <trkpt lat="49.9752118" lon="-5.2312274">
+        <ele>5.23</ele>
+        <time>2010-06-29T13:48:38.000Z</time>
+        <course>36.52</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9752391" lon="-5.2312319">
+        <ele>5.87</ele>
+        <time>2010-06-29T13:48:43.000Z</time>
+        <course>349.96</course>
+        <speed>0.32</speed>
+      </trkpt>
+      <trkpt lat="49.9752492" lon="-5.2312412">
+        <ele>5.87</ele>
+        <time>2010-06-29T13:48:48.000Z</time>
+        <course>324.75</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9752657" lon="-5.2312564">
+        <ele>6.19</ele>
+        <time>2010-06-29T13:48:53.000Z</time>
+        <course>6.15</course>
+        <speed>0.41</speed>
+      </trkpt>
+      <trkpt lat="49.9752793" lon="-5.2312727">
+        <ele>5.92</ele>
+        <time>2010-06-29T13:48:59.000Z</time>
+        <course>299.24</course>
+        <speed>0.77</speed>
+      </trkpt>
+      <trkpt lat="49.9753036" lon="-5.2313030">
+        <ele>6.16</ele>
+        <time>2010-06-29T13:49:04.000Z</time>
+        <course>330.99</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9753348" lon="-5.2313202">
+        <ele>6.68</ele>
+        <time>2010-06-29T13:49:09.000Z</time>
+        <course>357.22</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9753722" lon="-5.2313403">
+        <ele>8.08</ele>
+        <time>2010-06-29T13:49:14.000Z</time>
+        <course>347.06</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9754127" lon="-5.2313499">
+        <ele>9.53</ele>
+        <time>2010-06-29T13:49:19.000Z</time>
+        <course>349.07</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9754211" lon="-5.2313426">
+        <ele>9.64</ele>
+        <time>2010-06-29T13:49:28.000Z</time>
+        <course>206.22</course>
+        <speed>0.22</speed>
+      </trkpt>
+      <trkpt lat="49.9754418" lon="-5.2313408">
+        <ele>10.46</ele>
+        <time>2010-06-29T13:49:35.000Z</time>
+        <course>4.05</course>
+        <speed>0.58</speed>
+      </trkpt>
+      <trkpt lat="49.9754691" lon="-5.2313195">
+        <ele>10.36</ele>
+        <time>2010-06-29T13:49:40.000Z</time>
+        <course>85.69</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9754790" lon="-5.2312996">
+        <ele>10.79</ele>
+        <time>2010-06-29T13:49:45.000Z</time>
+        <course>351.83</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9755251" lon="-5.2313057">
+        <ele>10.88</ele>
+        <time>2010-06-29T13:49:50.000Z</time>
+        <course>356.60</course>
+        <speed>0.89</speed>
+      </trkpt>
+      <trkpt lat="49.9755716" lon="-5.2313054">
+        <ele>10.51</ele>
+        <time>2010-06-29T13:49:55.000Z</time>
+        <course>14.73</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9756189" lon="-5.2313076">
+        <ele>11.42</ele>
+        <time>2010-06-29T13:50:00.000Z</time>
+        <course>350.45</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9756728" lon="-5.2312920">
+        <ele>11.39</ele>
+        <time>2010-06-29T13:50:05.000Z</time>
+        <course>19.37</course>
+        <speed>1.35</speed>
+      </trkpt>
+      <trkpt lat="49.9756948" lon="-5.2312373">
+        <ele>11.93</ele>
+        <time>2010-06-29T13:50:10.000Z</time>
+        <course>80.93</course>
+        <speed>0.89</speed>
+      </trkpt>
+      <trkpt lat="49.9756633" lon="-5.2312126">
+        <ele>13.33</ele>
+        <time>2010-06-29T13:50:15.000Z</time>
+        <course>177.53</course>
+        <speed>1.12</speed>
+      </trkpt>
+      <trkpt lat="49.9756438" lon="-5.2312443">
+        <ele>15.17</ele>
+        <time>2010-06-29T13:50:20.000Z</time>
+        <course>328.17</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9756632" lon="-5.2311967">
+        <ele>14.28</ele>
+        <time>2010-06-29T13:50:25.000Z</time>
+        <course>80.79</course>
+        <speed>0.94</speed>
+      </trkpt>
+      <trkpt lat="49.9755633" lon="-5.2308116">
+        <ele>-27.55</ele>
+        <time>2010-06-29T13:51:36.000Z</time>
+        <course>52.52</course>
+        <speed>0.57</speed>
+      </trkpt>
+      <trkpt lat="49.9755613" lon="-5.2311746">
+        <ele>21.95</ele>
+        <time>2010-06-29T13:51:42.000Z</time>
+        <course>202.41</course>
+        <speed>0.59</speed>
+      </trkpt>
+      <trkpt lat="49.9755639" lon="-5.2311759">
+        <ele>22.11</ele>
+        <time>2010-06-29T13:51:47.000Z</time>
+        <course>192.65</course>
+        <speed>0.47</speed>
+      </trkpt>
+      <trkpt lat="49.9756065" lon="-5.2311914">
+        <ele>16.32</ele>
+        <time>2010-06-29T13:51:55.000Z</time>
+        <course>294.42</course>
+        <speed>0.50</speed>
+      </trkpt>
+      <trkpt lat="49.9755944" lon="-5.2312008">
+        <ele>17.61</ele>
+        <time>2010-06-29T13:52:01.000Z</time>
+        <course>125.37</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9756158" lon="-5.2311999">
+        <ele>14.75</ele>
+        <time>2010-06-29T13:52:08.000Z</time>
+        <course>346.29</course>
+        <speed>0.20</speed>
+      </trkpt>
+      <trkpt lat="49.9756311" lon="-5.2312200">
+        <ele>15.38</ele>
+        <time>2010-06-29T13:52:14.000Z</time>
+        <course>347.30</course>
+        <speed>0.36</speed>
+      </trkpt>
+      <trkpt lat="49.9756465" lon="-5.2312010">
+        <ele>10.51</ele>
+        <time>2010-06-29T13:52:20.000Z</time>
+        <course>1.98</course>
+        <speed>0.29</speed>
+      </trkpt>
+      <trkpt lat="49.9756627" lon="-5.2312367">
+        <ele>12.99</ele>
+        <time>2010-06-29T13:52:25.000Z</time>
+        <course>293.36</course>
+        <speed>0.76</speed>
+      </trkpt>
+      <trkpt lat="49.9756937" lon="-5.2312676">
+        <ele>14.62</ele>
+        <time>2010-06-29T13:52:30.000Z</time>
+        <course>45.28</course>
+        <speed>1.08</speed>
+      </trkpt>
+      <trkpt lat="49.9757153" lon="-5.2312653">
+        <ele>12.58</ele>
+        <time>2010-06-29T13:54:43.000Z</time>
+        <course>19.58</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9757259" lon="-5.2312901">
+        <ele>12.65</ele>
+        <time>2010-06-29T13:54:51.000Z</time>
+        <course>232.53</course>
+        <speed>0.46</speed>
+      </trkpt>
+      <trkpt lat="49.9757100" lon="-5.2313193">
+        <ele>12.60</ele>
+        <time>2010-06-29T13:54:57.000Z</time>
+        <course>196.42</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9756699" lon="-5.2313202">
+        <ele>12.10</ele>
+        <time>2010-06-29T13:55:02.000Z</time>
+        <course>176.30</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9756257" lon="-5.2313224">
+        <ele>11.59</ele>
+        <time>2010-06-29T13:55:07.000Z</time>
+        <course>182.43</course>
+        <speed>1.02</speed>
+      </trkpt>
+      <trkpt lat="49.9755893" lon="-5.2313244">
+        <ele>11.18</ele>
+        <time>2010-06-29T13:55:12.000Z</time>
+        <course>187.33</course>
+        <speed>0.71</speed>
+      </trkpt>
+      <trkpt lat="49.9755475" lon="-5.2313341">
+        <ele>10.70</ele>
+        <time>2010-06-29T13:55:17.000Z</time>
+        <course>171.59</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9755060" lon="-5.2313343">
+        <ele>10.12</ele>
+        <time>2010-06-29T13:55:22.000Z</time>
+        <course>188.94</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9754666" lon="-5.2313540">
+        <ele>9.57</ele>
+        <time>2010-06-29T13:55:27.000Z</time>
+        <course>171.47</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9754285" lon="-5.2313533">
+        <ele>8.91</ele>
+        <time>2010-06-29T13:55:32.000Z</time>
+        <course>212.48</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9754115" lon="-5.2313918">
+        <ele>8.55</ele>
+        <time>2010-06-29T13:55:37.000Z</time>
+        <course>218.73</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9753719" lon="-5.2314106">
+        <ele>9.45</ele>
+        <time>2010-06-29T13:55:42.000Z</time>
+        <course>187.56</course>
+        <speed>0.51</speed>
+      </trkpt>
+      <trkpt lat="49.9753462" lon="-5.2314187">
+        <ele>10.33</ele>
+        <time>2010-06-29T13:55:47.000Z</time>
+        <course>167.16</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9753424" lon="-5.2314419">
+        <ele>9.33</ele>
+        <time>2010-06-29T13:55:55.000Z</time>
+        <course>294.49</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9753001" lon="-5.2314507">
+        <ele>12.61</ele>
+        <time>2010-06-29T13:56:02.000Z</time>
+        <course>168.91</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9752675" lon="-5.2314471">
+        <ele>12.91</ele>
+        <time>2010-06-29T13:56:07.000Z</time>
+        <course>174.58</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9752358" lon="-5.2314209">
+        <ele>12.29</ele>
+        <time>2010-06-29T13:56:12.000Z</time>
+        <course>140.53</course>
+        <speed>0.56</speed>
+      </trkpt>
+      <trkpt lat="49.9752227" lon="-5.2314043">
+        <ele>10.84</ele>
+        <time>2010-06-29T13:56:17.000Z</time>
+        <course>118.86</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9752099" lon="-5.2313933">
+        <ele>9.43</ele>
+        <time>2010-06-29T13:56:28.000Z</time>
+        <course>199.14</course>
+        <speed>0.56</speed>
+      </trkpt>
+      <trkpt lat="49.9751770" lon="-5.2313942">
+        <ele>10.60</ele>
+        <time>2010-06-29T13:56:40.000Z</time>
+        <course>204.61</course>
+        <speed>0.24</speed>
+      </trkpt>
+      <trkpt lat="49.9751714" lon="-5.2313724">
+        <ele>13.78</ele>
+        <time>2010-06-29T13:57:04.000Z</time>
+        <course>126.19</course>
+        <speed>0.22</speed>
+      </trkpt>
+      <trkpt lat="49.9751606" lon="-5.2313573">
+        <ele>13.93</ele>
+        <time>2010-06-29T13:57:19.000Z</time>
+        <course>128.17</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9751698" lon="-5.2313794">
+        <ele>13.80</ele>
+        <time>2010-06-29T13:57:28.000Z</time>
+        <course>187.24</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9751569" lon="-5.2313807">
+        <ele>11.71</ele>
+        <time>2010-06-29T13:57:50.000Z</time>
+        <course>95.52</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9751711" lon="-5.2313967">
+        <ele>12.10</ele>
+        <time>2010-06-29T13:57:55.000Z</time>
+        <course>309.76</course>
+        <speed>0.47</speed>
+      </trkpt>
+      <trkpt lat="49.9751694" lon="-5.2314147">
+        <ele>12.51</ele>
+        <time>2010-06-29T13:58:00.000Z</time>
+        <course>123.56</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9751912" lon="-5.2314591">
+        <ele>8.79</ele>
+        <time>2010-06-29T13:58:46.000Z</time>
+        <course>350.87</course>
+        <speed>0.45</speed>
+      </trkpt>
+      <trkpt lat="49.9752033" lon="-5.2314839">
+        <ele>10.16</ele>
+        <time>2010-06-29T13:58:51.000Z</time>
+        <course>235.55</course>
+        <speed>0.39</speed>
+      </trkpt>
+      <trkpt lat="49.9751948" lon="-5.2315116">
+        <ele>11.85</ele>
+        <time>2010-06-29T13:58:56.000Z</time>
+        <course>238.67</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9751856" lon="-5.2315431">
+        <ele>12.62</ele>
+        <time>2010-06-29T13:59:01.000Z</time>
+        <course>226.29</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9751688" lon="-5.2315718">
+        <ele>13.80</ele>
+        <time>2010-06-29T13:59:06.000Z</time>
+        <course>239.39</course>
+        <speed>0.57</speed>
+      </trkpt>
+      <trkpt lat="49.9751488" lon="-5.2315876">
+        <ele>14.71</ele>
+        <time>2010-06-29T13:59:23.000Z</time>
+        <course>93.23</course>
+        <speed>0.40</speed>
+      </trkpt>
+      <trkpt lat="49.9751489" lon="-5.2315932">
+        <ele>14.74</ele>
+        <time>2010-06-29T13:59:37.000Z</time>
+        <course>235.08</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9751289" lon="-5.2316172">
+        <ele>15.50</ele>
+        <time>2010-06-29T13:59:42.000Z</time>
+        <course>229.14</course>
+        <speed>0.54</speed>
+      </trkpt>
+      <trkpt lat="49.9751264" lon="-5.2316481">
+        <ele>16.69</ele>
+        <time>2010-06-29T13:59:47.000Z</time>
+        <course>313.99</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9751358" lon="-5.2316873">
+        <ele>18.16</ele>
+        <time>2010-06-29T13:59:52.000Z</time>
+        <course>185.98</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9751119" lon="-5.2317107">
+        <ele>19.20</ele>
+        <time>2010-06-29T13:59:57.000Z</time>
+        <course>219.99</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9750824" lon="-5.2317571">
+        <ele>20.43</ele>
+        <time>2010-06-29T14:00:02.000Z</time>
+        <course>170.09</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9750774" lon="-5.2317856">
+        <ele>21.21</ele>
+        <time>2010-06-29T14:00:12.000Z</time>
+        <course>258.17</course>
+        <speed>0.94</speed>
+      </trkpt>
+      <trkpt lat="49.9750647" lon="-5.2318310">
+        <ele>21.77</ele>
+        <time>2010-06-29T14:00:17.000Z</time>
+        <course>161.53</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9750665" lon="-5.2318524">
+        <ele>22.24</ele>
+        <time>2010-06-29T14:00:34.000Z</time>
+        <course>280.40</course>
+        <speed>0.55</speed>
+      </trkpt>
+      <trkpt lat="49.9750695" lon="-5.2318808">
+        <ele>22.99</ele>
+        <time>2010-06-29T14:00:46.000Z</time>
+        <course>14.01</course>
+        <speed>0.25</speed>
+      </trkpt>
+      <trkpt lat="49.9750723" lon="-5.2319121">
+        <ele>23.45</ele>
+        <time>2010-06-29T14:00:51.000Z</time>
+        <course>272.04</course>
+        <speed>0.16</speed>
+      </trkpt>
+      <trkpt lat="49.9750793" lon="-5.2319419">
+        <ele>23.49</ele>
+        <time>2010-06-29T14:01:02.000Z</time>
+        <course>296.52</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9750952" lon="-5.2319827">
+        <ele>23.75</ele>
+        <time>2010-06-29T14:01:07.000Z</time>
+        <course>319.63</course>
+        <speed>0.59</speed>
+      </trkpt>
+      <trkpt lat="49.9751129" lon="-5.2320245">
+        <ele>24.98</ele>
+        <time>2010-06-29T14:01:12.000Z</time>
+        <course>288.61</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9751284" lon="-5.2320670">
+        <ele>25.56</ele>
+        <time>2010-06-29T14:01:17.000Z</time>
+        <course>330.05</course>
+        <speed>0.71</speed>
+      </trkpt>
+      <trkpt lat="49.9751468" lon="-5.2320857">
+        <ele>26.50</ele>
+        <time>2010-06-29T14:01:22.000Z</time>
+        <course>52.07</course>
+        <speed>0.31</speed>
+      </trkpt>
+      <trkpt lat="49.9751570" lon="-5.2321114">
+        <ele>26.62</ele>
+        <time>2010-06-29T14:01:39.000Z</time>
+        <course>317.92</course>
+        <speed>0.71</speed>
+      </trkpt>
+      <trkpt lat="49.9751540" lon="-5.2320997">
+        <ele>26.58</ele>
+        <time>2010-06-29T14:01:45.000Z</time>
+        <course>110.59</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9751564" lon="-5.2321056">
+        <ele>26.30</ele>
+        <time>2010-06-29T14:01:52.000Z</time>
+        <course>310.59</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9751849" lon="-5.2321499">
+        <ele>26.98</ele>
+        <time>2010-06-29T14:01:57.000Z</time>
+        <course>311.36</course>
+        <speed>0.64</speed>
+      </trkpt>
+      <trkpt lat="49.9752069" lon="-5.2321844">
+        <ele>27.88</ele>
+        <time>2010-06-29T14:02:02.000Z</time>
+        <course>330.08</course>
+        <speed>0.67</speed>
+      </trkpt>
+      <trkpt lat="49.9752336" lon="-5.2322065">
+        <ele>28.58</ele>
+        <time>2010-06-29T14:02:07.000Z</time>
+        <course>342.26</course>
+        <speed>0.58</speed>
+      </trkpt>
+      <trkpt lat="49.9752469" lon="-5.2322208">
+        <ele>29.25</ele>
+        <time>2010-06-29T14:02:12.000Z</time>
+        <course>312.02</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9752535" lon="-5.2322519">
+        <ele>30.22</ele>
+        <time>2010-06-29T14:02:17.000Z</time>
+        <course>267.67</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9752625" lon="-5.2322858">
+        <ele>30.83</ele>
+        <time>2010-06-29T14:02:22.000Z</time>
+        <course>325.16</course>
+        <speed>0.39</speed>
+      </trkpt>
+      <trkpt lat="49.9752751" lon="-5.2323116">
+        <ele>31.64</ele>
+        <time>2010-06-29T14:02:27.000Z</time>
+        <course>343.17</course>
+        <speed>0.45</speed>
+      </trkpt>
+      <trkpt lat="49.9752890" lon="-5.2323232">
+        <ele>32.30</ele>
+        <time>2010-06-29T14:02:32.000Z</time>
+        <course>304.84</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9752867" lon="-5.2323205">
+        <ele>32.67</ele>
+        <time>2010-06-29T14:02:40.000Z</time>
+        <course>351.19</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9752910" lon="-5.2323422">
+        <ele>33.59</ele>
+        <time>2010-06-29T14:02:49.000Z</time>
+        <course>307.91</course>
+        <speed>0.43</speed>
+      </trkpt>
+      <trkpt lat="49.9752961" lon="-5.2323366">
+        <ele>33.39</ele>
+        <time>2010-06-29T14:03:08.000Z</time>
+        <course>317.54</course>
+        <speed>0.39</speed>
+      </trkpt>
+      <trkpt lat="49.9753004" lon="-5.2323884">
+        <ele>33.99</ele>
+        <time>2010-06-29T14:03:13.000Z</time>
+        <course>292.08</course>
+        <speed>1.15</speed>
+      </trkpt>
+      <trkpt lat="49.9753160" lon="-5.2324519">
+        <ele>35.02</ele>
+        <time>2010-06-29T14:03:18.000Z</time>
+        <course>286.82</course>
+        <speed>0.62</speed>
+      </trkpt>
+      <trkpt lat="49.9753223" lon="-5.2325007">
+        <ele>36.17</ele>
+        <time>2010-06-29T14:03:23.000Z</time>
+        <course>282.07</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9753320" lon="-5.2325479">
+        <ele>37.22</ele>
+        <time>2010-06-29T14:03:28.000Z</time>
+        <course>292.46</course>
+        <speed>0.48</speed>
+      </trkpt>
+      <trkpt lat="49.9753463" lon="-5.2325840">
+        <ele>38.42</ele>
+        <time>2010-06-29T14:03:33.000Z</time>
+        <course>277.93</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9753576" lon="-5.2326207">
+        <ele>39.07</ele>
+        <time>2010-06-29T14:03:38.000Z</time>
+        <course>312.71</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9753754" lon="-5.2326495">
+        <ele>39.90</ele>
+        <time>2010-06-29T14:03:43.000Z</time>
+        <course>314.73</course>
+        <speed>0.30</speed>
+      </trkpt>
+      <trkpt lat="49.9753884" lon="-5.2326705">
+        <ele>40.55</ele>
+        <time>2010-06-29T14:03:48.000Z</time>
+        <course>309.58</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9754108" lon="-5.2326883">
+        <ele>41.38</ele>
+        <time>2010-06-29T14:03:53.000Z</time>
+        <course>333.26</course>
+        <speed>0.35</speed>
+      </trkpt>
+      <trkpt lat="49.9754232" lon="-5.2327201">
+        <ele>42.03</ele>
+        <time>2010-06-29T14:03:58.000Z</time>
+        <course>297.36</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9754332" lon="-5.2327575">
+        <ele>42.84</ele>
+        <time>2010-06-29T14:04:03.000Z</time>
+        <course>307.79</course>
+        <speed>0.55</speed>
+      </trkpt>
+      <trkpt lat="49.9754526" lon="-5.2327861">
+        <ele>44.55</ele>
+        <time>2010-06-29T14:04:08.000Z</time>
+        <course>274.45</course>
+        <speed>0.30</speed>
+      </trkpt>
+      <trkpt lat="49.9754774" lon="-5.2328130">
+        <ele>45.60</ele>
+        <time>2010-06-29T14:04:13.000Z</time>
+        <course>279.05</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9754867" lon="-5.2328137">
+        <ele>45.86</ele>
+        <time>2010-06-29T14:04:26.000Z</time>
+        <course>7.90</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9755216" lon="-5.2328129">
+        <ele>46.18</ele>
+        <time>2010-06-29T14:04:31.000Z</time>
+        <course>9.26</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9755581" lon="-5.2328121">
+        <ele>46.79</ele>
+        <time>2010-06-29T14:04:36.000Z</time>
+        <course>348.09</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9755861" lon="-5.2328191">
+        <ele>48.03</ele>
+        <time>2010-06-29T14:04:41.000Z</time>
+        <course>22.11</course>
+        <speed>0.61</speed>
+      </trkpt>
+      <trkpt lat="49.9756159" lon="-5.2328171">
+        <ele>49.12</ele>
+        <time>2010-06-29T14:04:46.000Z</time>
+        <course>358.64</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9756469" lon="-5.2328225">
+        <ele>50.20</ele>
+        <time>2010-06-29T14:04:51.000Z</time>
+        <course>344.80</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9756763" lon="-5.2328483">
+        <ele>51.14</ele>
+        <time>2010-06-29T14:04:56.000Z</time>
+        <course>334.96</course>
+        <speed>0.50</speed>
+      </trkpt>
+      <trkpt lat="49.9757049" lon="-5.2328729">
+        <ele>51.66</ele>
+        <time>2010-06-29T14:05:01.000Z</time>
+        <course>343.68</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9757420" lon="-5.2328905">
+        <ele>52.67</ele>
+        <time>2010-06-29T14:05:06.000Z</time>
+        <course>324.43</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9757606" lon="-5.2329275">
+        <ele>53.20</ele>
+        <time>2010-06-29T14:05:11.000Z</time>
+        <course>272.82</course>
+        <speed>0.56</speed>
+      </trkpt>
+      <trkpt lat="49.9757781" lon="-5.2329523">
+        <ele>52.33</ele>
+        <time>2010-06-29T14:05:25.000Z</time>
+        <course>340.52</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9758117" lon="-5.2329868">
+        <ele>52.82</ele>
+        <time>2010-06-29T14:05:30.000Z</time>
+        <course>314.91</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9758392" lon="-5.2330154">
+        <ele>53.36</ele>
+        <time>2010-06-29T14:05:35.000Z</time>
+        <course>314.77</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9758524" lon="-5.2330745">
+        <ele>53.54</ele>
+        <time>2010-06-29T14:05:40.000Z</time>
+        <course>261.90</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9758438" lon="-5.2331405">
+        <ele>53.87</ele>
+        <time>2010-06-29T14:05:45.000Z</time>
+        <course>267.79</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9758355" lon="-5.2331707">
+        <ele>54.19</ele>
+        <time>2010-06-29T14:05:51.000Z</time>
+        <course>238.99</course>
+        <speed>0.59</speed>
+      </trkpt>
+      <trkpt lat="49.9758307" lon="-5.2331818">
+        <ele>53.95</ele>
+        <time>2010-06-29T14:05:57.000Z</time>
+        <course>236.86</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9758114" lon="-5.2332375">
+        <ele>54.07</ele>
+        <time>2010-06-29T14:06:02.000Z</time>
+        <course>236.63</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9757939" lon="-5.2332918">
+        <ele>54.44</ele>
+        <time>2010-06-29T14:06:07.000Z</time>
+        <course>247.19</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9757814" lon="-5.2333466">
+        <ele>54.73</ele>
+        <time>2010-06-29T14:06:12.000Z</time>
+        <course>264.42</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9757895" lon="-5.2334023">
+        <ele>55.53</ele>
+        <time>2010-06-29T14:06:17.000Z</time>
+        <course>269.03</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9757823" lon="-5.2334432">
+        <ele>56.14</ele>
+        <time>2010-06-29T14:06:22.000Z</time>
+        <course>209.77</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9757811" lon="-5.2334603">
+        <ele>56.39</ele>
+        <time>2010-06-29T14:06:46.000Z</time>
+        <course>258.55</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9757698" lon="-5.2334857">
+        <ele>56.27</ele>
+        <time>2010-06-29T14:07:01.000Z</time>
+        <course>33.03</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9757532" lon="-5.2335193">
+        <ele>56.81</ele>
+        <time>2010-06-29T14:07:06.000Z</time>
+        <course>189.44</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9757413" lon="-5.2335191">
+        <ele>57.25</ele>
+        <time>2010-06-29T14:07:20.000Z</time>
+        <course>279.74</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9757562" lon="-5.2335577">
+        <ele>56.94</ele>
+        <time>2010-06-29T14:07:32.000Z</time>
+        <course>282.56</course>
+        <speed>1.15</speed>
+      </trkpt>
+      <trkpt lat="49.9757525" lon="-5.2336361">
+        <ele>57.42</ele>
+        <time>2010-06-29T14:07:37.000Z</time>
+        <course>240.39</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9757381" lon="-5.2336453">
+        <ele>58.69</ele>
+        <time>2010-06-29T14:07:42.000Z</time>
+        <course>228.67</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9757419" lon="-5.2336472">
+        <ele>59.62</ele>
+        <time>2010-06-29T14:08:02.000Z</time>
+        <course>76.42</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9757375" lon="-5.2336436">
+        <ele>59.19</ele>
+        <time>2010-06-29T14:08:24.000Z</time>
+        <course>310.76</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9757560" lon="-5.2336467">
+        <ele>58.46</ele>
+        <time>2010-06-29T14:08:32.000Z</time>
+        <course>18.61</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9757799" lon="-5.2336567">
+        <ele>58.35</ele>
+        <time>2010-06-29T14:08:38.000Z</time>
+        <course>322.26</course>
+        <speed>1.22</speed>
+      </trkpt>
+      <trkpt lat="49.9758088" lon="-5.2336916">
+        <ele>58.48</ele>
+        <time>2010-06-29T14:08:43.000Z</time>
+        <course>5.01</course>
+        <speed>0.42</speed>
+      </trkpt>
+      <trkpt lat="49.9757861" lon="-5.2336739">
+        <ele>57.88</ele>
+        <time>2010-06-29T14:08:55.000Z</time>
+        <course>139.11</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9757853" lon="-5.2336506">
+        <ele>58.64</ele>
+        <time>2010-06-29T14:09:42.000Z</time>
+        <course>79.80</course>
+        <speed>0.57</speed>
+      </trkpt>
+      <trkpt lat="49.9757929" lon="-5.2336044">
+        <ele>57.83</ele>
+        <time>2010-06-29T14:09:47.000Z</time>
+        <course>53.74</course>
+        <speed>0.46</speed>
+      </trkpt>
+      <trkpt lat="49.9758009" lon="-5.2335734">
+        <ele>56.93</ele>
+        <time>2010-06-29T14:09:52.000Z</time>
+        <course>79.42</course>
+        <speed>0.58</speed>
+      </trkpt>
+      <trkpt lat="49.9757914" lon="-5.2335311">
+        <ele>56.03</ele>
+        <time>2010-06-29T14:09:57.000Z</time>
+        <course>100.61</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9757879" lon="-5.2334735">
+        <ele>55.12</ele>
+        <time>2010-06-29T14:10:02.000Z</time>
+        <course>92.56</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9757877" lon="-5.2334058">
+        <ele>54.35</ele>
+        <time>2010-06-29T14:10:07.000Z</time>
+        <course>79.26</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9757979" lon="-5.2333485">
+        <ele>53.73</ele>
+        <time>2010-06-29T14:10:12.000Z</time>
+        <course>97.41</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9758043" lon="-5.2332941">
+        <ele>53.25</ele>
+        <time>2010-06-29T14:10:17.000Z</time>
+        <course>41.06</course>
+        <speed>0.55</speed>
+      </trkpt>
+      <trkpt lat="49.9758123" lon="-5.2332373">
+        <ele>52.89</ele>
+        <time>2010-06-29T14:10:22.000Z</time>
+        <course>66.77</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9758214" lon="-5.2331735">
+        <ele>52.90</ele>
+        <time>2010-06-29T14:10:27.000Z</time>
+        <course>75.83</course>
+        <speed>1.09</speed>
+      </trkpt>
+      <trkpt lat="49.9758264" lon="-5.2331157">
+        <ele>52.87</ele>
+        <time>2010-06-29T14:10:32.000Z</time>
+        <course>71.17</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9758391" lon="-5.2330559">
+        <ele>52.78</ele>
+        <time>2010-06-29T14:10:37.000Z</time>
+        <course>72.81</course>
+        <speed>0.92</speed>
+      </trkpt>
+      <trkpt lat="49.9758529" lon="-5.2330095">
+        <ele>52.76</ele>
+        <time>2010-06-29T14:10:43.000Z</time>
+        <course>97.30</course>
+        <speed>0.22</speed>
+      </trkpt>
+      <trkpt lat="49.9758320" lon="-5.2329707">
+        <ele>52.42</ele>
+        <time>2010-06-29T14:10:48.000Z</time>
+        <course>145.51</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9757903" lon="-5.2329474">
+        <ele>51.80</ele>
+        <time>2010-06-29T14:10:53.000Z</time>
+        <course>145.14</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9757681" lon="-5.2328870">
+        <ele>51.12</ele>
+        <time>2010-06-29T14:10:58.000Z</time>
+        <course>130.11</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9757486" lon="-5.2328461">
+        <ele>50.67</ele>
+        <time>2010-06-29T14:11:03.000Z</time>
+        <course>99.48</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9757322" lon="-5.2327969">
+        <ele>50.24</ele>
+        <time>2010-06-29T14:11:08.000Z</time>
+        <course>128.97</course>
+        <speed>0.65</speed>
+      </trkpt>
+      <trkpt lat="49.9757199" lon="-5.2327919">
+        <ele>49.84</ele>
+        <time>2010-06-29T14:11:33.000Z</time>
+        <course>135.45</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9757104" lon="-5.2327841">
+        <ele>50.07</ele>
+        <time>2010-06-29T14:11:44.000Z</time>
+        <course>138.56</course>
+        <speed>0.32</speed>
+      </trkpt>
+      <trkpt lat="49.9757124" lon="-5.2327606">
+        <ele>50.59</ele>
+        <time>2010-06-29T14:11:53.000Z</time>
+        <course>37.20</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9757464" lon="-5.2327185">
+        <ele>51.67</ele>
+        <time>2010-06-29T14:11:58.000Z</time>
+        <course>54.04</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9757646" lon="-5.2326508">
+        <ele>51.61</ele>
+        <time>2010-06-29T14:12:03.000Z</time>
+        <course>93.81</course>
+        <speed>1.18</speed>
+      </trkpt>
+      <trkpt lat="49.9757563" lon="-5.2325882">
+        <ele>51.04</ele>
+        <time>2010-06-29T14:12:08.000Z</time>
+        <course>118.73</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9757397" lon="-5.2325518">
+        <ele>50.48</ele>
+        <time>2010-06-29T14:12:13.000Z</time>
+        <course>79.13</course>
+        <speed>0.33</speed>
+      </trkpt>
+      <trkpt lat="49.9757344" lon="-5.2325147">
+        <ele>49.65</ele>
+        <time>2010-06-29T14:12:18.000Z</time>
+        <course>127.85</course>
+        <speed>0.48</speed>
+      </trkpt>
+      <trkpt lat="49.9757283" lon="-5.2324937">
+        <ele>49.64</ele>
+        <time>2010-06-29T14:12:53.000Z</time>
+        <course>324.68</course>
+        <speed>0.41</speed>
+      </trkpt>
+      <trkpt lat="49.9757403" lon="-5.2325158">
+        <ele>49.73</ele>
+        <time>2010-06-29T14:13:10.000Z</time>
+        <course>343.26</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9757408" lon="-5.2325207">
+        <ele>50.39</ele>
+        <time>2010-06-29T14:13:20.000Z</time>
+        <course>134.77</course>
+        <speed>0.26</speed>
+      </trkpt>
+      <trkpt lat="49.9757447" lon="-5.2325358">
+        <ele>50.44</ele>
+        <time>2010-06-29T14:13:27.000Z</time>
+        <course>158.35</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9757472" lon="-5.2325385">
+        <ele>50.91</ele>
+        <time>2010-06-29T14:13:35.000Z</time>
+        <course>326.82</course>
+        <speed>0.47</speed>
+      </trkpt>
+      <trkpt lat="49.9757475" lon="-5.2325509">
+        <ele>51.08</ele>
+        <time>2010-06-29T14:13:43.000Z</time>
+        <course>331.28</course>
+        <speed>0.51</speed>
+      </trkpt>
+      <trkpt lat="49.9757630" lon="-5.2325757">
+        <ele>50.22</ele>
+        <time>2010-06-29T14:14:03.000Z</time>
+        <course>313.43</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9757726" lon="-5.2326297">
+        <ele>50.66</ele>
+        <time>2010-06-29T14:14:08.000Z</time>
+        <course>290.84</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9757878" lon="-5.2326848">
+        <ele>51.18</ele>
+        <time>2010-06-29T14:14:13.000Z</time>
+        <course>307.33</course>
+        <speed>0.77</speed>
+      </trkpt>
+      <trkpt lat="49.9758216" lon="-5.2326937">
+        <ele>52.12</ele>
+        <time>2010-06-29T14:14:18.000Z</time>
+        <course>3.38</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9758501" lon="-5.2326723">
+        <ele>53.58</ele>
+        <time>2010-06-29T14:14:23.000Z</time>
+        <course>34.69</course>
+        <speed>0.67</speed>
+      </trkpt>
+      <trkpt lat="49.9758602" lon="-5.2326245">
+        <ele>54.57</ele>
+        <time>2010-06-29T14:14:28.000Z</time>
+        <course>69.98</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9758924" lon="-5.2326327">
+        <ele>55.76</ele>
+        <time>2010-06-29T14:14:33.000Z</time>
+        <course>340.29</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9759294" lon="-5.2326419">
+        <ele>57.03</ele>
+        <time>2010-06-29T14:14:38.000Z</time>
+        <course>350.32</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9759554" lon="-5.2326401">
+        <ele>57.78</ele>
+        <time>2010-06-29T14:14:43.000Z</time>
+        <course>0.72</course>
+        <speed>0.96</speed>
+      </trkpt>
+      <trkpt lat="49.9759940" lon="-5.2326404">
+        <ele>58.03</ele>
+        <time>2010-06-29T14:14:48.000Z</time>
+        <course>15.18</course>
+        <speed>0.46</speed>
+      </trkpt>
+      <trkpt lat="49.9759794" lon="-5.2326676">
+        <ele>58.01</ele>
+        <time>2010-06-29T14:15:13.000Z</time>
+        <course>215.65</course>
+        <speed>1.19</speed>
+      </trkpt>
+      <trkpt lat="49.9759881" lon="-5.2327041">
+        <ele>58.40</ele>
+        <time>2010-06-29T14:15:18.000Z</time>
+        <course>336.91</course>
+        <speed>1.12</speed>
+      </trkpt>
+      <trkpt lat="49.9760306" lon="-5.2327558">
+        <ele>58.53</ele>
+        <time>2010-06-29T14:15:23.000Z</time>
+        <course>315.11</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9760730" lon="-5.2327921">
+        <ele>58.97</ele>
+        <time>2010-06-29T14:15:28.000Z</time>
+        <course>335.79</course>
+        <speed>0.96</speed>
+      </trkpt>
+      <trkpt lat="49.9760987" lon="-5.2328416">
+        <ele>59.17</ele>
+        <time>2010-06-29T14:15:33.000Z</time>
+        <course>272.91</course>
+        <speed>1.03</speed>
+      </trkpt>
+      <trkpt lat="49.9761235" lon="-5.2329123">
+        <ele>58.99</ele>
+        <time>2010-06-29T14:15:38.000Z</time>
+        <course>300.71</course>
+        <speed>1.19</speed>
+      </trkpt>
+      <trkpt lat="49.9761610" lon="-5.2329811">
+        <ele>59.09</ele>
+        <time>2010-06-29T14:15:43.000Z</time>
+        <course>334.85</course>
+        <speed>1.24</speed>
+      </trkpt>
+      <trkpt lat="49.9762072" lon="-5.2329981">
+        <ele>59.71</ele>
+        <time>2010-06-29T14:15:48.000Z</time>
+        <course>7.34</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9762552" lon="-5.2330025">
+        <ele>59.99</ele>
+        <time>2010-06-29T14:15:53.000Z</time>
+        <course>2.37</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9762772" lon="-5.2329969">
+        <ele>60.42</ele>
+        <time>2010-06-29T14:16:02.000Z</time>
+        <course>93.91</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9762729" lon="-5.2329943">
+        <ele>60.67</ele>
+        <time>2010-06-29T14:16:31.000Z</time>
+        <course>87.94</course>
+        <speed>0.22</speed>
+      </trkpt>
+      <trkpt lat="49.9762628" lon="-5.2329341">
+        <ele>60.90</ele>
+        <time>2010-06-29T14:16:57.000Z</time>
+        <course>110.98</course>
+        <speed>1.02</speed>
+      </trkpt>
+      <trkpt lat="49.9762472" lon="-5.2328664">
+        <ele>60.51</ele>
+        <time>2010-06-29T14:17:02.000Z</time>
+        <course>109.21</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9762404" lon="-5.2328059">
+        <ele>59.94</ele>
+        <time>2010-06-29T14:17:07.000Z</time>
+        <course>100.22</course>
+        <speed>0.77</speed>
+      </trkpt>
+      <trkpt lat="49.9762292" lon="-5.2327784">
+        <ele>59.54</ele>
+        <time>2010-06-29T14:17:35.000Z</time>
+        <course>82.56</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9762152" lon="-5.2327667">
+        <ele>59.47</ele>
+        <time>2010-06-29T14:17:42.000Z</time>
+        <course>134.38</course>
+        <speed>0.75</speed>
+      </trkpt>
+      <trkpt lat="49.9762085" lon="-5.2327512">
+        <ele>59.35</ele>
+        <time>2010-06-29T14:17:47.000Z</time>
+        <course>112.37</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9761995" lon="-5.2327245">
+        <ele>59.54</ele>
+        <time>2010-06-29T14:18:17.000Z</time>
+        <course>11.56</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9761723" lon="-5.2326965">
+        <ele>59.09</ele>
+        <time>2010-06-29T14:18:26.000Z</time>
+        <course>151.74</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9761417" lon="-5.2326742">
+        <ele>58.55</ele>
+        <time>2010-06-29T14:18:31.000Z</time>
+        <course>116.81</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9761276" lon="-5.2326485">
+        <ele>57.87</ele>
+        <time>2010-06-29T14:18:36.000Z</time>
+        <course>124.78</course>
+        <speed>0.46</speed>
+      </trkpt>
+      <trkpt lat="49.9761154" lon="-5.2326117">
+        <ele>57.11</ele>
+        <time>2010-06-29T14:18:41.000Z</time>
+        <course>90.68</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9761054" lon="-5.2325889">
+        <ele>56.23</ele>
+        <time>2010-06-29T14:18:46.000Z</time>
+        <course>155.12</course>
+        <speed>0.39</speed>
+      </trkpt>
+      <trkpt lat="49.9760870" lon="-5.2325835">
+        <ele>56.04</ele>
+        <time>2010-06-29T14:18:52.000Z</time>
+        <course>170.80</course>
+        <speed>0.46</speed>
+      </trkpt>
+      <trkpt lat="49.9760581" lon="-5.2325588">
+        <ele>55.52</ele>
+        <time>2010-06-29T14:18:57.000Z</time>
+        <course>133.90</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9760363" lon="-5.2325177">
+        <ele>55.11</ele>
+        <time>2010-06-29T14:19:02.000Z</time>
+        <course>123.78</course>
+        <speed>0.89</speed>
+      </trkpt>
+      <trkpt lat="49.9760229" lon="-5.2324749">
+        <ele>54.61</ele>
+        <time>2010-06-29T14:19:07.000Z</time>
+        <course>112.79</course>
+        <speed>0.77</speed>
+      </trkpt>
+      <trkpt lat="49.9760245" lon="-5.2324581">
+        <ele>54.25</ele>
+        <time>2010-06-29T14:19:19.000Z</time>
+        <course>179.70</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9759931" lon="-5.2324523">
+        <ele>54.48</ele>
+        <time>2010-06-29T14:19:24.000Z</time>
+        <course>184.48</course>
+        <speed>0.92</speed>
+      </trkpt>
+      <trkpt lat="49.9759548" lon="-5.2324516">
+        <ele>54.56</ele>
+        <time>2010-06-29T14:19:29.000Z</time>
+        <course>172.33</course>
+        <speed>0.67</speed>
+      </trkpt>
+      <trkpt lat="49.9759276" lon="-5.2324574">
+        <ele>54.62</ele>
+        <time>2010-06-29T14:19:34.000Z</time>
+        <course>203.82</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9759114" lon="-5.2324712">
+        <ele>54.95</ele>
+        <time>2010-06-29T14:19:42.000Z</time>
+        <course>162.54</course>
+        <speed>0.32</speed>
+      </trkpt>
+      <trkpt lat="49.9759173" lon="-5.2324768">
+        <ele>54.92</ele>
+        <time>2010-06-29T14:20:01.000Z</time>
+        <course>302.68</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9759304" lon="-5.2325135">
+        <ele>55.64</ele>
+        <time>2010-06-29T14:20:06.000Z</time>
+        <course>293.92</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9759484" lon="-5.2325368">
+        <ele>56.85</ele>
+        <time>2010-06-29T14:20:11.000Z</time>
+        <course>299.18</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9759533" lon="-5.2325735">
+        <ele>57.42</ele>
+        <time>2010-06-29T14:20:16.000Z</time>
+        <course>283.18</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9759426" lon="-5.2326276">
+        <ele>58.07</ele>
+        <time>2010-06-29T14:20:21.000Z</time>
+        <course>244.85</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9759345" lon="-5.2326831">
+        <ele>58.64</ele>
+        <time>2010-06-29T14:20:26.000Z</time>
+        <course>261.22</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9759240" lon="-5.2327267">
+        <ele>58.45</ele>
+        <time>2010-06-29T14:20:31.000Z</time>
+        <course>239.78</course>
+        <speed>0.47</speed>
+      </trkpt>
+      <trkpt lat="49.9759160" lon="-5.2327586">
+        <ele>57.84</ele>
+        <time>2010-06-29T14:20:36.000Z</time>
+        <course>205.82</course>
+        <speed>0.64</speed>
+      </trkpt>
+      <trkpt lat="49.9759107" lon="-5.2327767">
+        <ele>57.31</ele>
+        <time>2010-06-29T14:20:41.000Z</time>
+        <course>266.63</course>
+        <speed>0.61</speed>
+      </trkpt>
+      <trkpt lat="49.9758981" lon="-5.2327965">
+        <ele>56.51</ele>
+        <time>2010-06-29T14:20:47.000Z</time>
+        <course>223.19</course>
+        <speed>0.64</speed>
+      </trkpt>
+      <trkpt lat="49.9758894" lon="-5.2327990">
+        <ele>56.06</ele>
+        <time>2010-06-29T14:20:53.000Z</time>
+        <course>213.85</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9758766" lon="-5.2328145">
+        <ele>54.73</ele>
+        <time>2010-06-29T14:21:00.000Z</time>
+        <course>185.98</course>
+        <speed>0.40</speed>
+      </trkpt>
+      <trkpt lat="49.9758672" lon="-5.2328199">
+        <ele>54.07</ele>
+        <time>2010-06-29T14:21:05.000Z</time>
+        <course>190.67</course>
+        <speed>0.47</speed>
+      </trkpt>
+      <trkpt lat="49.9758438" lon="-5.2328322">
+        <ele>53.51</ele>
+        <time>2010-06-29T14:21:12.000Z</time>
+        <course>223.82</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9758008" lon="-5.2328556">
+        <ele>53.22</ele>
+        <time>2010-06-29T14:21:17.000Z</time>
+        <course>185.73</course>
+        <speed>1.06</speed>
+      </trkpt>
+      <trkpt lat="49.9757660" lon="-5.2329005">
+        <ele>52.85</ele>
+        <time>2010-06-29T14:21:22.000Z</time>
+        <course>233.94</course>
+        <speed>1.16</speed>
+      </trkpt>
+      <trkpt lat="49.9757519" lon="-5.2329260">
+        <ele>53.09</ele>
+        <time>2010-06-29T14:21:32.000Z</time>
+        <course>119.22</course>
+        <speed>0.20</speed>
+      </trkpt>
+      <trkpt lat="49.9757462" lon="-5.2329211">
+        <ele>53.28</ele>
+        <time>2010-06-29T14:21:48.000Z</time>
+        <course>273.22</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9757165" lon="-5.2328924">
+        <ele>53.22</ele>
+        <time>2010-06-29T14:22:26.000Z</time>
+        <course>133.05</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9756889" lon="-5.2328702">
+        <ele>52.41</ele>
+        <time>2010-06-29T14:22:31.000Z</time>
+        <course>162.35</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9756508" lon="-5.2328830">
+        <ele>51.63</ele>
+        <time>2010-06-29T14:22:36.000Z</time>
+        <course>189.89</course>
+        <speed>1.04</speed>
+      </trkpt>
+      <trkpt lat="49.9756200" lon="-5.2329083">
+        <ele>51.06</ele>
+        <time>2010-06-29T14:22:41.000Z</time>
+        <course>199.10</course>
+        <speed>0.86</speed>
+      </trkpt>
+      <trkpt lat="49.9755977" lon="-5.2329107">
+        <ele>50.49</ele>
+        <time>2010-06-29T14:22:46.000Z</time>
+        <course>221.88</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9755617" lon="-5.2329392">
+        <ele>49.96</ele>
+        <time>2010-06-29T14:22:51.000Z</time>
+        <course>171.11</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9755297" lon="-5.2329321">
+        <ele>49.01</ele>
+        <time>2010-06-29T14:22:56.000Z</time>
+        <course>168.20</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9755064" lon="-5.2329009">
+        <ele>48.13</ele>
+        <time>2010-06-29T14:23:01.000Z</time>
+        <course>98.11</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9755020" lon="-5.2328560">
+        <ele>47.21</ele>
+        <time>2010-06-29T14:23:06.000Z</time>
+        <course>119.50</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9754760" lon="-5.2328243">
+        <ele>46.38</ele>
+        <time>2010-06-29T14:23:11.000Z</time>
+        <course>155.22</course>
+        <speed>0.55</speed>
+      </trkpt>
+      <trkpt lat="49.9754437" lon="-5.2327965">
+        <ele>45.55</ele>
+        <time>2010-06-29T14:23:16.000Z</time>
+        <course>118.60</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9754420" lon="-5.2327407">
+        <ele>44.65</ele>
+        <time>2010-06-29T14:23:21.000Z</time>
+        <course>77.31</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9754494" lon="-5.2326863">
+        <ele>43.92</ele>
+        <time>2010-06-29T14:23:26.000Z</time>
+        <course>77.52</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9754496" lon="-5.2326352">
+        <ele>43.27</ele>
+        <time>2010-06-29T14:23:31.000Z</time>
+        <course>92.18</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9754513" lon="-5.2325916">
+        <ele>42.77</ele>
+        <time>2010-06-29T14:23:36.000Z</time>
+        <course>63.04</course>
+        <speed>0.24</speed>
+      </trkpt>
+      <trkpt lat="49.9754581" lon="-5.2325491">
+        <ele>42.19</ele>
+        <time>2010-06-29T14:23:47.000Z</time>
+        <course>77.29</course>
+        <speed>0.93</speed>
+      </trkpt>
+      <trkpt lat="49.9754623" lon="-5.2324845">
+        <ele>41.55</ele>
+        <time>2010-06-29T14:23:52.000Z</time>
+        <course>101.77</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9754463" lon="-5.2324379">
+        <ele>40.43</ele>
+        <time>2010-06-29T14:23:57.000Z</time>
+        <course>123.32</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9754256" lon="-5.2324143">
+        <ele>39.25</ele>
+        <time>2010-06-29T14:24:02.000Z</time>
+        <course>177.20</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9754007" lon="-5.2324077">
+        <ele>38.29</ele>
+        <time>2010-06-29T14:24:07.000Z</time>
+        <course>146.29</course>
+        <speed>0.31</speed>
+      </trkpt>
+      <trkpt lat="49.9753730" lon="-5.2323957">
+        <ele>37.18</ele>
+        <time>2010-06-29T14:24:12.000Z</time>
+        <course>173.74</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9753396" lon="-5.2323780">
+        <ele>35.97</ele>
+        <time>2010-06-29T14:24:17.000Z</time>
+        <course>147.21</course>
+        <speed>0.71</speed>
+      </trkpt>
+      <trkpt lat="49.9753126" lon="-5.2323578">
+        <ele>35.22</ele>
+        <time>2010-06-29T14:24:23.000Z</time>
+        <course>184.36</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9752756" lon="-5.2323441">
+        <ele>34.29</ele>
+        <time>2010-06-29T14:24:28.000Z</time>
+        <course>131.28</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9752725" lon="-5.2323084">
+        <ele>34.18</ele>
+        <time>2010-06-29T14:24:33.000Z</time>
+        <course>308.23</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9752625" lon="-5.2322960">
+        <ele>33.54</ele>
+        <time>2010-06-29T14:24:41.000Z</time>
+        <course>169.03</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9752335" lon="-5.2322751">
+        <ele>32.51</ele>
+        <time>2010-06-29T14:24:46.000Z</time>
+        <course>134.12</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9752191" lon="-5.2322528">
+        <ele>31.87</ele>
+        <time>2010-06-29T14:24:57.000Z</time>
+        <course>120.55</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9751989" lon="-5.2321973">
+        <ele>30.96</ele>
+        <time>2010-06-29T14:25:02.000Z</time>
+        <course>108.40</course>
+        <speed>1.01</speed>
+      </trkpt>
+      <trkpt lat="49.9751827" lon="-5.2321411">
+        <ele>29.90</ele>
+        <time>2010-06-29T14:25:07.000Z</time>
+        <course>109.85</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9751553" lon="-5.2321044">
+        <ele>29.09</ele>
+        <time>2010-06-29T14:25:12.000Z</time>
+        <course>138.20</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9751349" lon="-5.2320529">
+        <ele>27.92</ele>
+        <time>2010-06-29T14:25:17.000Z</time>
+        <course>120.20</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9751052" lon="-5.2320248">
+        <ele>27.00</ele>
+        <time>2010-06-29T14:25:22.000Z</time>
+        <course>176.64</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9750699" lon="-5.2319994">
+        <ele>26.84</ele>
+        <time>2010-06-29T14:25:27.000Z</time>
+        <course>144.95</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9750452" lon="-5.2319563">
+        <ele>25.49</ele>
+        <time>2010-06-29T14:25:32.000Z</time>
+        <course>136.09</course>
+        <speed>0.55</speed>
+      </trkpt>
+      <trkpt lat="49.9750348" lon="-5.2319189">
+        <ele>25.00</ele>
+        <time>2010-06-29T14:25:44.000Z</time>
+        <course>95.82</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9750322" lon="-5.2318539">
+        <ele>24.41</ele>
+        <time>2010-06-29T14:25:49.000Z</time>
+        <course>87.55</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9750398" lon="-5.2317929">
+        <ele>23.87</ele>
+        <time>2010-06-29T14:25:54.000Z</time>
+        <course>75.67</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9750626" lon="-5.2317524">
+        <ele>23.63</ele>
+        <time>2010-06-29T14:25:59.000Z</time>
+        <course>30.27</course>
+        <speed>0.67</speed>
+      </trkpt>
+      <trkpt lat="49.9750798" lon="-5.2317318">
+        <ele>23.74</ele>
+        <time>2010-06-29T14:26:05.000Z</time>
+        <course>50.45</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9751007" lon="-5.2316962">
+        <ele>22.71</ele>
+        <time>2010-06-29T14:26:10.000Z</time>
+        <course>45.50</course>
+        <speed>0.51</speed>
+      </trkpt>
+      <trkpt lat="49.9751255" lon="-5.2316771">
+        <ele>22.23</ele>
+        <time>2010-06-29T14:26:15.000Z</time>
+        <course>56.28</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9751370" lon="-5.2316557">
+        <ele>21.76</ele>
+        <time>2010-06-29T14:26:22.000Z</time>
+        <course>126.98</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9751210" lon="-5.2316213">
+        <ele>20.98</ele>
+        <time>2010-06-29T14:26:27.000Z</time>
+        <course>108.73</course>
+        <speed>0.61</speed>
+      </trkpt>
+      <trkpt lat="49.9751264" lon="-5.2316044">
+        <ele>20.39</ele>
+        <time>2010-06-29T14:26:40.000Z</time>
+        <course>35.04</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9751435" lon="-5.2315832">
+        <ele>19.02</ele>
+        <time>2010-06-29T14:26:45.000Z</time>
+        <course>58.70</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9751507" lon="-5.2315701">
+        <ele>18.48</ele>
+        <time>2010-06-29T14:26:55.000Z</time>
+        <course>289.02</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9751638" lon="-5.2315463">
+        <ele>17.68</ele>
+        <time>2010-06-29T14:27:00.000Z</time>
+        <course>59.31</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9751748" lon="-5.2315212">
+        <ele>16.19</ele>
+        <time>2010-06-29T14:27:05.000Z</time>
+        <course>57.95</course>
+        <speed>0.46</speed>
+      </trkpt>
+      <trkpt lat="49.9751839" lon="-5.2315050">
+        <ele>15.07</ele>
+        <time>2010-06-29T14:27:10.000Z</time>
+        <course>74.91</course>
+        <speed>0.21</speed>
+      </trkpt>
+      <trkpt lat="49.9751889" lon="-5.2314851">
+        <ele>13.82</ele>
+        <time>2010-06-29T14:27:26.000Z</time>
+        <course>56.92</course>
+        <speed>0.51</speed>
+      </trkpt>
+      <trkpt lat="49.9751932" lon="-5.2314692">
+        <ele>13.24</ele>
+        <time>2010-06-29T14:27:38.000Z</time>
+        <course>144.95</course>
+        <speed>0.31</speed>
+      </trkpt>
+      <trkpt lat="49.9751813" lon="-5.2314563">
+        <ele>12.11</ele>
+        <time>2010-06-29T14:27:43.000Z</time>
+        <course>138.28</course>
+        <speed>0.71</speed>
+      </trkpt>
+      <trkpt lat="49.9751770" lon="-5.2314316">
+        <ele>11.23</ele>
+        <time>2010-06-29T14:27:49.000Z</time>
+        <course>84.72</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9751924" lon="-5.2314071">
+        <ele>10.56</ele>
+        <time>2010-06-29T14:27:57.000Z</time>
+        <course>51.91</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9751854" lon="-5.2313913">
+        <ele>9.86</ele>
+        <time>2010-06-29T14:28:02.000Z</time>
+        <course>194.20</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9751879" lon="-5.2313481">
+        <ele>10.45</ele>
+        <time>2010-06-29T14:28:07.000Z</time>
+        <course>64.08</course>
+        <speed>0.53</speed>
+      </trkpt>
+      <trkpt lat="49.9752132" lon="-5.2313582">
+        <ele>9.53</ele>
+        <time>2010-06-29T14:28:26.000Z</time>
+        <course>7.94</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9752422" lon="-5.2313797">
+        <ele>9.72</ele>
+        <time>2010-06-29T14:28:31.000Z</time>
+        <course>289.29</course>
+        <speed>0.49</speed>
+      </trkpt>
+      <trkpt lat="49.9752526" lon="-5.2314201">
+        <ele>9.90</ele>
+        <time>2010-06-29T14:28:36.000Z</time>
+        <course>324.46</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9752867" lon="-5.2314358">
+        <ele>10.15</ele>
+        <time>2010-06-29T14:28:41.000Z</time>
+        <course>344.42</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9753292" lon="-5.2314405">
+        <ele>9.77</ele>
+        <time>2010-06-29T14:28:46.000Z</time>
+        <course>353.80</course>
+        <speed>0.65</speed>
+      </trkpt>
+      <trkpt lat="49.9753481" lon="-5.2314253">
+        <ele>9.42</ele>
+        <time>2010-06-29T14:28:55.000Z</time>
+        <course>38.63</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9753425" lon="-5.2313964">
+        <ele>11.48</ele>
+        <time>2010-06-29T14:29:06.000Z</time>
+        <course>96.68</course>
+        <speed>0.30</speed>
+      </trkpt>
+      <trkpt lat="49.9753236" lon="-5.2313452">
+        <ele>12.45</ele>
+        <time>2010-06-29T14:29:11.000Z</time>
+        <course>122.56</course>
+        <speed>1.10</speed>
+      </trkpt>
+      <trkpt lat="49.9753139" lon="-5.2313093">
+        <ele>11.78</ele>
+        <time>2010-06-29T14:29:16.000Z</time>
+        <course>136.27</course>
+        <speed>0.57</speed>
+      </trkpt>
+      <trkpt lat="49.9753140" lon="-5.2313156">
+        <ele>10.14</ele>
+        <time>2010-06-29T14:29:25.000Z</time>
+        <course>144.51</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9752838" lon="-5.2312830">
+        <ele>9.52</ele>
+        <time>2010-06-29T14:29:30.000Z</time>
+        <course>154.22</course>
+        <speed>0.75</speed>
+      </trkpt>
+      <trkpt lat="49.9752590" lon="-5.2312539">
+        <ele>8.87</ele>
+        <time>2010-06-29T14:29:35.000Z</time>
+        <course>123.07</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9752293" lon="-5.2312405">
+        <ele>8.55</ele>
+        <time>2010-06-29T14:29:40.000Z</time>
+        <course>153.60</course>
+        <speed>1.02</speed>
+      </trkpt>
+      <trkpt lat="49.9751998" lon="-5.2312181">
+        <ele>8.15</ele>
+        <time>2010-06-29T14:29:45.000Z</time>
+        <course>185.89</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9751805" lon="-5.2311758">
+        <ele>8.18</ele>
+        <time>2010-06-29T14:29:50.000Z</time>
+        <course>116.25</course>
+        <speed>0.55</speed>
+      </trkpt>
+      <trkpt lat="49.9751632" lon="-5.2311411">
+        <ele>7.73</ele>
+        <time>2010-06-29T14:29:55.000Z</time>
+        <course>160.99</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9751414" lon="-5.2311301">
+        <ele>6.45</ele>
+        <time>2010-06-29T14:30:00.000Z</time>
+        <course>198.19</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9751239" lon="-5.2311057">
+        <ele>5.85</ele>
+        <time>2010-06-29T14:30:05.000Z</time>
+        <course>137.00</course>
+        <speed>0.65</speed>
+      </trkpt>
+      <trkpt lat="49.9750992" lon="-5.2310674">
+        <ele>5.80</ele>
+        <time>2010-06-29T14:30:10.000Z</time>
+        <course>122.34</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9750848" lon="-5.2310506">
+        <ele>6.03</ele>
+        <time>2010-06-29T14:30:17.000Z</time>
+        <course>141.21</course>
+        <speed>0.57</speed>
+      </trkpt>
+      <trkpt lat="49.9750708" lon="-5.2310174">
+        <ele>5.91</ele>
+        <time>2010-06-29T14:30:22.000Z</time>
+        <course>323.24</course>
+        <speed>0.44</speed>
+      </trkpt>
+      <trkpt lat="49.9750542" lon="-5.2309949">
+        <ele>5.48</ele>
+        <time>2010-06-29T14:30:33.000Z</time>
+        <course>138.14</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9750403" lon="-5.2309507">
+        <ele>5.53</ele>
+        <time>2010-06-29T14:30:38.000Z</time>
+        <course>95.74</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9750416" lon="-5.2309022">
+        <ele>5.55</ele>
+        <time>2010-06-29T14:30:43.000Z</time>
+        <course>86.72</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9750511" lon="-5.2308502">
+        <ele>5.93</ele>
+        <time>2010-06-29T14:30:48.000Z</time>
+        <course>75.06</course>
+        <speed>0.84</speed>
+      </trkpt>
+      <trkpt lat="49.9750625" lon="-5.2307961">
+        <ele>5.99</ele>
+        <time>2010-06-29T14:30:53.000Z</time>
+        <course>60.79</course>
+        <speed>1.02</speed>
+      </trkpt>
+      <trkpt lat="49.9750821" lon="-5.2307428">
+        <ele>5.49</ele>
+        <time>2010-06-29T14:30:58.000Z</time>
+        <course>48.68</course>
+        <speed>0.89</speed>
+      </trkpt>
+      <trkpt lat="49.9751097" lon="-5.2306874">
+        <ele>5.47</ele>
+        <time>2010-06-29T14:31:03.000Z</time>
+        <course>62.15</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9751216" lon="-5.2306639">
+        <ele>5.12</ele>
+        <time>2010-06-29T14:31:12.000Z</time>
+        <course>240.38</course>
+        <speed>0.27</speed>
+      </trkpt>
+      <trkpt lat="49.9751084" lon="-5.2306981">
+        <ele>4.76</ele>
+        <time>2010-06-29T14:31:20.000Z</time>
+        <course>26.94</course>
+        <speed>0.23</speed>
+      </trkpt>
+      <trkpt lat="49.9751078" lon="-5.2307097">
+        <ele>4.78</ele>
+        <time>2010-06-29T14:31:25.000Z</time>
+        <course>257.95</course>
+        <speed>0.61</speed>
+      </trkpt>
+      <trkpt lat="49.9751134" lon="-5.2307127">
+        <ele>4.42</ele>
+        <time>2010-06-29T14:32:18.000Z</time>
+        <course>1.23</course>
+        <speed>0.57</speed>
+      </trkpt>
+      <trkpt lat="49.9751140" lon="-5.2307107">
+        <ele>4.53</ele>
+        <time>2010-06-29T14:32:24.000Z</time>
+        <course>145.89</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9751106" lon="-5.2307150">
+        <ele>5.59</ele>
+        <time>2010-06-29T14:32:42.000Z</time>
+        <course>233.57</course>
+        <speed>0.45</speed>
+      </trkpt>
+      <trkpt lat="49.9751151" lon="-5.2306910">
+        <ele>5.37</ele>
+        <time>2010-06-29T14:32:49.000Z</time>
+        <course>72.44</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9751215" lon="-5.2306208">
+        <ele>5.29</ele>
+        <time>2010-06-29T14:32:54.000Z</time>
+        <course>81.28</course>
+        <speed>1.01</speed>
+      </trkpt>
+      <trkpt lat="49.9751218" lon="-5.2305460">
+        <ele>5.30</ele>
+        <time>2010-06-29T14:32:59.000Z</time>
+        <course>91.43</course>
+        <speed>1.05</speed>
+      </trkpt>
+      <trkpt lat="49.9751151" lon="-5.2304738">
+        <ele>5.05</ele>
+        <time>2010-06-29T14:33:04.000Z</time>
+        <course>99.32</course>
+        <speed>1.14</speed>
+      </trkpt>
+      <trkpt lat="49.9751079" lon="-5.2304017">
+        <ele>4.95</ele>
+        <time>2010-06-29T14:33:09.000Z</time>
+        <course>86.28</course>
+        <speed>1.17</speed>
+      </trkpt>
+      <trkpt lat="49.9751378" lon="-5.2303333">
+        <ele>3.86</ele>
+        <time>2010-06-29T14:33:14.000Z</time>
+        <course>56.54</course>
+        <speed>1.04</speed>
+      </trkpt>
+      <trkpt lat="49.9751568" lon="-5.2302757">
+        <ele>4.06</ele>
+        <time>2010-06-29T14:33:19.000Z</time>
+        <course>38.95</course>
+        <speed>1.23</speed>
+      </trkpt>
+      <trkpt lat="49.9751961" lon="-5.2302409">
+        <ele>3.87</ele>
+        <time>2010-06-29T14:33:24.000Z</time>
+        <course>9.35</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9752429" lon="-5.2302454">
+        <ele>3.65</ele>
+        <time>2010-06-29T14:33:29.000Z</time>
+        <course>352.88</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9752861" lon="-5.2302326">
+        <ele>4.15</ele>
+        <time>2010-06-29T14:33:34.000Z</time>
+        <course>16.46</course>
+        <speed>0.96</speed>
+      </trkpt>
+      <trkpt lat="49.9753173" lon="-5.2302176">
+        <ele>4.61</ele>
+        <time>2010-06-29T14:33:39.000Z</time>
+        <course>29.50</course>
+        <speed>0.43</speed>
+      </trkpt>
+      <trkpt lat="49.9753240" lon="-5.2301788">
+        <ele>5.55</ele>
+        <time>2010-06-29T14:33:45.000Z</time>
+        <course>74.00</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9753163" lon="-5.2301337">
+        <ele>6.39</ele>
+        <time>2010-06-29T14:33:50.000Z</time>
+        <course>110.93</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9753038" lon="-5.2301028">
+        <ele>6.71</ele>
+        <time>2010-06-29T14:33:55.000Z</time>
+        <course>104.68</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9753036" lon="-5.2300607">
+        <ele>7.45</ele>
+        <time>2010-06-29T14:34:00.000Z</time>
+        <course>33.83</course>
+        <speed>0.36</speed>
+      </trkpt>
+      <trkpt lat="49.9752908" lon="-5.2300306">
+        <ele>7.97</ele>
+        <time>2010-06-29T14:34:05.000Z</time>
+        <course>125.02</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9752875" lon="-5.2299868">
+        <ele>8.26</ele>
+        <time>2010-06-29T14:34:10.000Z</time>
+        <course>75.16</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9753023" lon="-5.2299522">
+        <ele>8.88</ele>
+        <time>2010-06-29T14:34:16.000Z</time>
+        <course>42.28</course>
+        <speed>0.17</speed>
+      </trkpt>
+      <trkpt lat="49.9753162" lon="-5.2299358">
+        <ele>9.50</ele>
+        <time>2010-06-29T14:34:21.000Z</time>
+        <course>42.00</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9752621" lon="-5.2299109">
+        <ele>11.11</ele>
+        <time>2010-06-29T14:34:38.000Z</time>
+        <course>3.13</course>
+        <speed>0.15</speed>
+      </trkpt>
+      <trkpt lat="49.9752888" lon="-5.2299184">
+        <ele>11.99</ele>
+        <time>2010-06-29T14:34:48.000Z</time>
+        <course>146.78</course>
+        <speed>0.28</speed>
+      </trkpt>
+      <trkpt lat="49.9752728" lon="-5.2298836">
+        <ele>12.15</ele>
+        <time>2010-06-29T14:34:53.000Z</time>
+        <course>108.39</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9752358" lon="-5.2298478">
+        <ele>14.31</ele>
+        <time>2010-06-29T14:34:58.000Z</time>
+        <course>115.45</course>
+        <speed>0.40</speed>
+      </trkpt>
+      <trkpt lat="49.9752245" lon="-5.2298243">
+        <ele>15.30</ele>
+        <time>2010-06-29T14:35:03.000Z</time>
+        <course>144.18</course>
+        <speed>0.47</speed>
+      </trkpt>
+      <trkpt lat="49.9752214" lon="-5.2298034">
+        <ele>15.89</ele>
+        <time>2010-06-29T14:35:08.000Z</time>
+        <course>126.43</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9752193" lon="-5.2297922">
+        <ele>16.65</ele>
+        <time>2010-06-29T14:35:13.000Z</time>
+        <course>197.10</course>
+        <speed>0.47</speed>
+      </trkpt>
+      <trkpt lat="49.9752080" lon="-5.2298155">
+        <ele>17.16</ele>
+        <time>2010-06-29T14:35:18.000Z</time>
+        <course>229.40</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9751774" lon="-5.2298364">
+        <ele>17.34</ele>
+        <time>2010-06-29T14:35:23.000Z</time>
+        <course>211.22</course>
+        <speed>0.65</speed>
+      </trkpt>
+      <trkpt lat="49.9751527" lon="-5.2298580">
+        <ele>17.87</ele>
+        <time>2010-06-29T14:35:28.000Z</time>
+        <course>215.54</course>
+        <speed>0.55</speed>
+      </trkpt>
+      <trkpt lat="49.9751235" lon="-5.2298680">
+        <ele>17.73</ele>
+        <time>2010-06-29T14:35:33.000Z</time>
+        <course>139.04</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9751169" lon="-5.2298292">
+        <ele>18.06</ele>
+        <time>2010-06-29T14:35:39.000Z</time>
+        <course>114.47</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9751198" lon="-5.2297814">
+        <ele>18.30</ele>
+        <time>2010-06-29T14:35:44.000Z</time>
+        <course>65.82</course>
+        <speed>0.59</speed>
+      </trkpt>
+      <trkpt lat="49.9751188" lon="-5.2297804">
+        <ele>17.34</ele>
+        <time>2010-06-29T14:36:02.000Z</time>
+        <course>104.59</course>
+        <speed>0.52</speed>
+      </trkpt>
+      <trkpt lat="49.9751307" lon="-5.2297572">
+        <ele>16.54</ele>
+        <time>2010-06-29T14:36:28.000Z</time>
+        <course>35.16</course>
+        <speed>0.98</speed>
+      </trkpt>
+      <trkpt lat="49.9751621" lon="-5.2297150">
+        <ele>17.69</ele>
+        <time>2010-06-29T14:36:33.000Z</time>
+        <course>38.53</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9751823" lon="-5.2296743">
+        <ele>18.92</ele>
+        <time>2010-06-29T14:36:38.000Z</time>
+        <course>34.69</course>
+        <speed>0.59</speed>
+      </trkpt>
+      <trkpt lat="49.9752063" lon="-5.2296459">
+        <ele>19.54</ele>
+        <time>2010-06-29T14:36:43.000Z</time>
+        <course>47.06</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9752317" lon="-5.2296174">
+        <ele>20.21</ele>
+        <time>2010-06-29T14:36:48.000Z</time>
+        <course>7.79</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9752545" lon="-5.2295981">
+        <ele>20.71</ele>
+        <time>2010-06-29T14:36:53.000Z</time>
+        <course>41.73</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9752648" lon="-5.2295560">
+        <ele>20.70</ele>
+        <time>2010-06-29T14:36:58.000Z</time>
+        <course>81.73</course>
+        <speed>0.64</speed>
+      </trkpt>
+      <trkpt lat="49.9752626" lon="-5.2295089">
+        <ele>21.26</ele>
+        <time>2010-06-29T14:37:03.000Z</time>
+        <course>82.73</course>
+        <speed>0.68</speed>
+      </trkpt>
+      <trkpt lat="49.9752643" lon="-5.2294536">
+        <ele>21.92</ele>
+        <time>2010-06-29T14:37:08.000Z</time>
+        <course>83.80</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9752614" lon="-5.2294033">
+        <ele>22.64</ele>
+        <time>2010-06-29T14:37:13.000Z</time>
+        <course>81.86</course>
+        <speed>0.76</speed>
+      </trkpt>
+      <trkpt lat="49.9752531" lon="-5.2293581">
+        <ele>23.49</ele>
+        <time>2010-06-29T14:37:18.000Z</time>
+        <course>84.56</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9752566" lon="-5.2293079">
+        <ele>24.28</ele>
+        <time>2010-06-29T14:37:23.000Z</time>
+        <course>83.21</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9752832" lon="-5.2292849">
+        <ele>24.84</ele>
+        <time>2010-06-29T14:37:28.000Z</time>
+        <course>62.67</course>
+        <speed>0.64</speed>
+      </trkpt>
+      <trkpt lat="49.9752933" lon="-5.2292483">
+        <ele>25.65</ele>
+        <time>2010-06-29T14:37:33.000Z</time>
+        <course>54.75</course>
+        <speed>0.54</speed>
+      </trkpt>
+      <trkpt lat="49.9753044" lon="-5.2292254">
+        <ele>26.27</ele>
+        <time>2010-06-29T14:37:40.000Z</time>
+        <course>53.87</course>
+        <speed>0.18</speed>
+      </trkpt>
+      <trkpt lat="49.9752917" lon="-5.2292024">
+        <ele>26.71</ele>
+        <time>2010-06-29T14:37:52.000Z</time>
+        <course>69.14</course>
+        <speed>0.71</speed>
+      </trkpt>
+      <trkpt lat="49.9752935" lon="-5.2291660">
+        <ele>27.63</ele>
+        <time>2010-06-29T14:37:57.000Z</time>
+        <course>99.83</course>
+        <speed>0.66</speed>
+      </trkpt>
+      <trkpt lat="49.9752906" lon="-5.2291164">
+        <ele>28.56</ele>
+        <time>2010-06-29T14:38:02.000Z</time>
+        <course>109.49</course>
+        <speed>0.44</speed>
+      </trkpt>
+      <trkpt lat="49.9752791" lon="-5.2290685">
+        <ele>29.47</ele>
+        <time>2010-06-29T14:38:07.000Z</time>
+        <course>116.35</course>
+        <speed>0.74</speed>
+      </trkpt>
+      <trkpt lat="49.9752777" lon="-5.2290138">
+        <ele>30.09</ele>
+        <time>2010-06-29T14:38:12.000Z</time>
+        <course>75.23</course>
+        <speed>0.54</speed>
+      </trkpt>
+      <trkpt lat="49.9752694" lon="-5.2290279">
+        <ele>30.44</ele>
+        <time>2010-06-29T14:38:19.000Z</time>
+        <course>237.69</course>
+        <speed>0.73</speed>
+      </trkpt>
+      <trkpt lat="49.9752528" lon="-5.2290464">
+        <ele>26.64</ele>
+        <time>2010-06-29T14:39:10.000Z</time>
+        <course>99.37</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9752541" lon="-5.2290405">
+        <ele>26.19</ele>
+        <time>2010-06-29T14:39:16.000Z</time>
+        <course>85.49</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9752584" lon="-5.2290350">
+        <ele>27.14</ele>
+        <time>2010-06-29T14:40:09.000Z</time>
+        <course>33.82</course>
+        <speed>0.14</speed>
+      </trkpt>
+      <trkpt lat="49.9752662" lon="-5.2290310">
+        <ele>31.63</ele>
+        <time>2010-06-29T14:40:30.000Z</time>
+        <course>76.99</course>
+        <speed>1.08</speed>
+      </trkpt>
+      <trkpt lat="49.9752743" lon="-5.2289549">
+        <ele>31.79</ele>
+        <time>2010-06-29T14:40:35.000Z</time>
+        <course>94.13</course>
+        <speed>1.01</speed>
+      </trkpt>
+      <trkpt lat="49.9752690" lon="-5.2288821">
+        <ele>31.61</ele>
+        <time>2010-06-29T14:40:40.000Z</time>
+        <course>100.65</course>
+        <speed>0.97</speed>
+      </trkpt>
+      <trkpt lat="49.9752612" lon="-5.2288086">
+        <ele>31.34</ele>
+        <time>2010-06-29T14:40:45.000Z</time>
+        <course>110.93</course>
+        <speed>1.05</speed>
+      </trkpt>
+      <trkpt lat="49.9752367" lon="-5.2287390">
+        <ele>31.46</ele>
+        <time>2010-06-29T14:40:50.000Z</time>
+        <course>128.84</course>
+        <speed>1.20</speed>
+      </trkpt>
+      <trkpt lat="49.9752080" lon="-5.2286743">
+        <ele>32.24</ele>
+        <time>2010-06-29T14:40:55.000Z</time>
+        <course>123.35</course>
+        <speed>1.11</speed>
+      </trkpt>
+      <trkpt lat="49.9751776" lon="-5.2286074">
+        <ele>32.89</ele>
+        <time>2010-06-29T14:41:00.000Z</time>
+        <course>121.55</course>
+        <speed>1.01</speed>
+      </trkpt>
+      <trkpt lat="49.9751499" lon="-5.2285411">
+        <ele>33.39</ele>
+        <time>2010-06-29T14:41:05.000Z</time>
+        <course>116.87</course>
+        <speed>1.07</speed>
+      </trkpt>
+      <trkpt lat="49.9751266" lon="-5.2284761">
+        <ele>33.87</ele>
+        <time>2010-06-29T14:41:10.000Z</time>
+        <course>105.92</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9751191" lon="-5.2284229">
+        <ele>34.56</ele>
+        <time>2010-06-29T14:41:15.000Z</time>
+        <course>102.51</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9751297" lon="-5.2284015">
+        <ele>35.68</ele>
+        <time>2010-06-29T14:41:22.000Z</time>
+        <course>349.59</course>
+        <speed>0.24</speed>
+      </trkpt>
+      <trkpt lat="49.9751177" lon="-5.2283877">
+        <ele>35.58</ele>
+        <time>2010-06-29T14:41:36.000Z</time>
+        <course>112.47</course>
+        <speed>0.60</speed>
+      </trkpt>
+      <trkpt lat="49.9751124" lon="-5.2283385">
+        <ele>36.53</ele>
+        <time>2010-06-29T14:41:41.000Z</time>
+        <course>88.59</course>
+        <speed>0.38</speed>
+      </trkpt>
+      <trkpt lat="49.9751140" lon="-5.2282990">
+        <ele>37.21</ele>
+        <time>2010-06-29T14:41:46.000Z</time>
+        <course>103.19</course>
+        <speed>0.48</speed>
+      </trkpt>
+      <trkpt lat="49.9751191" lon="-5.2282671">
+        <ele>37.67</ele>
+        <time>2010-06-29T14:41:51.000Z</time>
+        <course>339.13</course>
+        <speed>0.46</speed>
+      </trkpt>
+      <trkpt lat="49.9751207" lon="-5.2282284">
+        <ele>37.54</ele>
+        <time>2010-06-29T14:42:01.000Z</time>
+        <course>73.73</course>
+        <speed>1.21</speed>
+      </trkpt>
+      <trkpt lat="49.9751379" lon="-5.2281475">
+        <ele>38.14</ele>
+        <time>2010-06-29T14:42:06.000Z</time>
+        <course>78.92</course>
+        <speed>1.18</speed>
+      </trkpt>
+      <trkpt lat="49.9751530" lon="-5.2280588">
+        <ele>39.12</ele>
+        <time>2010-06-29T14:42:11.000Z</time>
+        <course>82.67</course>
+        <speed>1.24</speed>
+      </trkpt>
+      <trkpt lat="49.9751670" lon="-5.2279747">
+        <ele>39.85</ele>
+        <time>2010-06-29T14:42:16.000Z</time>
+        <course>66.96</course>
+        <speed>1.39</speed>
+      </trkpt>
+      <trkpt lat="49.9751858" lon="-5.2278898">
+        <ele>40.53</ele>
+        <time>2010-06-29T14:42:21.000Z</time>
+        <course>74.50</course>
+        <speed>1.13</speed>
+      </trkpt>
+      <trkpt lat="49.9751998" lon="-5.2278138">
+        <ele>41.09</ele>
+        <time>2010-06-29T14:42:26.000Z</time>
+        <course>67.67</course>
+        <speed>1.02</speed>
+      </trkpt>
+      <trkpt lat="49.9752240" lon="-5.2277494">
+        <ele>41.41</ele>
+        <time>2010-06-29T14:42:31.000Z</time>
+        <course>60.85</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9752510" lon="-5.2276844">
+        <ele>41.72</ele>
+        <time>2010-06-29T14:42:36.000Z</time>
+        <course>54.81</course>
+        <speed>1.08</speed>
+      </trkpt>
+      <trkpt lat="49.9752688" lon="-5.2276418">
+        <ele>41.65</ele>
+        <time>2010-06-29T14:42:41.000Z</time>
+        <course>70.30</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9752978" lon="-5.2276054">
+        <ele>42.00</ele>
+        <time>2010-06-29T14:42:46.000Z</time>
+        <course>40.44</course>
+        <speed>1.02</speed>
+      </trkpt>
+      <trkpt lat="49.9753209" lon="-5.2275478">
+        <ele>42.14</ele>
+        <time>2010-06-29T14:42:51.000Z</time>
+        <course>60.25</course>
+        <speed>1.13</speed>
+      </trkpt>
+      <trkpt lat="49.9753391" lon="-5.2274850">
+        <ele>41.89</ele>
+        <time>2010-06-29T14:42:56.000Z</time>
+        <course>75.13</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9753618" lon="-5.2274164">
+        <ele>42.80</ele>
+        <time>2010-06-29T14:43:01.000Z</time>
+        <course>61.56</course>
+        <speed>0.90</speed>
+      </trkpt>
+      <trkpt lat="49.9753801" lon="-5.2273624">
+        <ele>43.14</ele>
+        <time>2010-06-29T14:43:06.000Z</time>
+        <course>61.42</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9753979" lon="-5.2273003">
+        <ele>43.84</ele>
+        <time>2010-06-29T14:43:11.000Z</time>
+        <course>65.38</course>
+        <speed>1.12</speed>
+      </trkpt>
+      <trkpt lat="49.9754120" lon="-5.2272355">
+        <ele>44.45</ele>
+        <time>2010-06-29T14:43:16.000Z</time>
+        <course>81.90</course>
+        <speed>0.92</speed>
+      </trkpt>
+      <trkpt lat="49.9754171" lon="-5.2271695">
+        <ele>44.99</ele>
+        <time>2010-06-29T14:43:21.000Z</time>
+        <course>78.65</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9754197" lon="-5.2271015">
+        <ele>45.87</ele>
+        <time>2010-06-29T14:43:26.000Z</time>
+        <course>89.61</course>
+        <speed>1.07</speed>
+      </trkpt>
+      <trkpt lat="49.9754267" lon="-5.2270371">
+        <ele>46.29</ele>
+        <time>2010-06-29T14:43:31.000Z</time>
+        <course>84.69</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9754370" lon="-5.2269789">
+        <ele>46.71</ele>
+        <time>2010-06-29T14:43:36.000Z</time>
+        <course>61.79</course>
+        <speed>1.12</speed>
+      </trkpt>
+      <trkpt lat="49.9754511" lon="-5.2269232">
+        <ele>47.26</ele>
+        <time>2010-06-29T14:43:41.000Z</time>
+        <course>59.98</course>
+        <speed>1.12</speed>
+      </trkpt>
+      <trkpt lat="49.9754658" lon="-5.2268626">
+        <ele>48.12</ele>
+        <time>2010-06-29T14:43:46.000Z</time>
+        <course>90.31</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9754726" lon="-5.2267972">
+        <ele>48.64</ele>
+        <time>2010-06-29T14:43:51.000Z</time>
+        <course>79.75</course>
+        <speed>0.99</speed>
+      </trkpt>
+      <trkpt lat="49.9754705" lon="-5.2267448">
+        <ele>48.28</ele>
+        <time>2010-06-29T14:43:56.000Z</time>
+        <course>115.10</course>
+        <speed>0.37</speed>
+      </trkpt>
+      <trkpt lat="49.9754338" lon="-5.2267169">
+        <ele>43.75</ele>
+        <time>2010-06-29T14:45:53.000Z</time>
+        <course>76.07</course>
+        <speed>0.13</speed>
+      </trkpt>
+      <trkpt lat="49.9754463" lon="-5.2266838">
+        <ele>44.50</ele>
+        <time>2010-06-29T14:46:00.000Z</time>
+        <course>86.85</course>
+        <speed>0.89</speed>
+      </trkpt>
+      <trkpt lat="49.9754484" lon="-5.2266307">
+        <ele>45.23</ele>
+        <time>2010-06-29T14:46:05.000Z</time>
+        <course>73.05</course>
+        <speed>0.70</speed>
+      </trkpt>
+      <trkpt lat="49.9754476" lon="-5.2265829">
+        <ele>46.09</ele>
+        <time>2010-06-29T14:46:10.000Z</time>
+        <course>71.69</course>
+        <speed>0.63</speed>
+      </trkpt>
+      <trkpt lat="49.9754435" lon="-5.2265269">
+        <ele>47.04</ele>
+        <time>2010-06-29T14:46:15.000Z</time>
+        <course>118.02</course>
+        <speed>0.91</speed>
+      </trkpt>
+      <trkpt lat="49.9754251" lon="-5.2264712">
+        <ele>47.80</ele>
+        <time>2010-06-29T14:46:20.000Z</time>
+        <course>112.33</course>
+        <speed>1.04</speed>
+      </trkpt>
+      <trkpt lat="49.9754000" lon="-5.2264141">
+        <ele>48.46</ele>
+        <time>2010-06-29T14:46:25.000Z</time>
+        <course>118.93</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9753715" lon="-5.2263622">
+        <ele>49.19</ele>
+        <time>2010-06-29T14:46:30.000Z</time>
+        <course>118.78</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9753499" lon="-5.2263138">
+        <ele>50.38</ele>
+        <time>2010-06-29T14:46:35.000Z</time>
+        <course>115.44</course>
+        <speed>0.82</speed>
+      </trkpt>
+      <trkpt lat="49.9753316" lon="-5.2262698">
+        <ele>51.78</ele>
+        <time>2010-06-29T14:46:40.000Z</time>
+        <course>120.91</course>
+        <speed>0.80</speed>
+      </trkpt>
+      <trkpt lat="49.9753204" lon="-5.2262155">
+        <ele>52.83</ele>
+        <time>2010-06-29T14:46:45.000Z</time>
+        <course>99.89</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9753182" lon="-5.2261558">
+        <ele>52.58</ele>
+        <time>2010-06-29T14:46:50.000Z</time>
+        <course>74.75</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9753173" lon="-5.2261026">
+        <ele>51.93</ele>
+        <time>2010-06-29T14:46:55.000Z</time>
+        <course>81.00</course>
+        <speed>0.79</speed>
+      </trkpt>
+      <trkpt lat="49.9753226" lon="-5.2260540">
+        <ele>51.62</ele>
+        <time>2010-06-29T14:47:00.000Z</time>
+        <course>86.62</course>
+        <speed>0.76</speed>
+      </trkpt>
+      <trkpt lat="49.9753374" lon="-5.2259980">
+        <ele>52.80</ele>
+        <time>2010-06-29T14:47:05.000Z</time>
+        <course>67.29</course>
+        <speed>0.95</speed>
+      </trkpt>
+      <trkpt lat="49.9753489" lon="-5.2259506">
+        <ele>53.10</ele>
+        <time>2010-06-29T14:47:10.000Z</time>
+        <course>67.26</course>
+        <speed>0.61</speed>
+      </trkpt>
+      <trkpt lat="49.9753670" lon="-5.2259063">
+        <ele>54.26</ele>
+        <time>2010-06-29T14:47:15.000Z</time>
+        <course>84.87</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9753758" lon="-5.2258579">
+        <ele>54.80</ele>
+        <time>2010-06-29T14:47:20.000Z</time>
+        <course>71.85</course>
+        <speed>0.72</speed>
+      </trkpt>
+      <trkpt lat="49.9753695" lon="-5.2258155">
+        <ele>54.10</ele>
+        <time>2010-06-29T14:47:25.000Z</time>
+        <course>109.03</course>
+        <speed>0.69</speed>
+      </trkpt>
+      <trkpt lat="49.9753743" lon="-5.2257747">
+        <ele>54.38</ele>
+        <time>2010-06-29T14:47:30.000Z</time>
+        <course>76.84</course>
+        <speed>0.62</speed>
+      </trkpt>
+      <trkpt lat="49.9753897" lon="-5.2257386">
+        <ele>55.72</ele>
+        <time>2010-06-29T14:47:50.000Z</time>
+        <course>107.92</course>
+        <speed>0.87</speed>
+      </trkpt>
+      <trkpt lat="49.9753750" lon="-5.2256796">
+        <ele>56.20</ele>
+        <time>2010-06-29T14:47:55.000Z</time>
+        <course>114.87</course>
+        <speed>0.88</speed>
+      </trkpt>
+      <trkpt lat="49.9753469" lon="-5.2256401">
+        <ele>56.62</ele>
+        <time>2010-06-29T14:48:00.000Z</time>
+        <course>147.38</course>
+        <speed>0.78</speed>
+      </trkpt>
+      <trkpt lat="49.9753176" lon="-5.2256072">
+        <ele>57.42</ele>
+        <time>2010-06-29T14:48:05.000Z</time>
+        <course>150.04</course>
+        <speed>0.81</speed>
+      </trkpt>
+      <trkpt lat="49.9752853" lon="-5.2255772">
+        <ele>58.38</ele>
+        <time>2010-06-29T14:48:10.000Z</time>
+        <course>139.91</course>
+        <speed>0.77</speed>
+      </trkpt>
+      <trkpt lat="49.9752511" lon="-5.2255473">
+        <ele>59.13</ele>
+        <time>2010-06-29T14:48:15.000Z</time>
+        <course>151.64</course>
+        <speed>0.83</speed>
+      </trkpt>
+      <trkpt lat="49.9752099" lon="-5.2255185">
+        <ele>59.69</ele>
+        <time>2010-06-29T14:48:20.000Z</time>
+        <course>157.89</course>
+        <speed>1.10</speed>
+      </trkpt>
+      <trkpt lat="49.9751689" lon="-5.2254898">
+        <ele>60.01</ele>
+        <time>2010-06-29T14:48:25.000Z</time>
+        <course>162.20</course>
+        <speed>1.01</speed>
+      </trkpt>
+      <trkpt lat="49.9751212" lon="-5.2254685">
+        <ele>60.19</ele>
+        <time>2010-06-29T14:48:30.000Z</time>
+        <course>154.12</course>
+        <speed>1.00</speed>
+      </trkpt>
+      <trkpt lat="49.9750864" lon="-5.2254501">
+        <ele>61.05</ele>
+        <time>2010-06-29T14:48:35.000Z</time>
+        <course>178.30</course>
+        <speed>1.15</speed>
+      </trkpt>
+      <trkpt lat="49.9750454" lon="-5.2254097">
+        <ele>61.30</ele>
+        <time>2010-06-29T14:48:40.000Z</time>
+        <course>125.94</course>
+        <speed>0.92</speed>
+      </trkpt>
+      <trkpt lat="49.9750237" lon="-5.2253429">
+        <ele>61.49</ele>
+        <time>2010-06-29T14:48:45.000Z</time>
+        <course>97.57</course>
+        <speed>1.17</speed>
+      </trkpt>
+      <trkpt lat="49.9750178" lon="-5.2252696">
+        <ele>62.36</ele>
+        <time>2010-06-29T14:48:50.000Z</time>
+        <course>96.39</course>
+        <speed>1.01</speed>
+      </trkpt>
+      <trkpt lat="49.9750057" lon="-5.2251984">
+        <ele>62.76</ele>
+        <time>2010-06-29T14:48:55.000Z</time>
+        <course>108.35</course>
+        <speed>1.07</speed>
+      </trkpt>
+      <trkpt lat="49.9749767" lon="-5.2251484">
+        <ele>63.18</ele>
+        <time>2010-06-29T14:49:00.000Z</time>
+        <course>135.61</course>
+        <speed>0.85</speed>
+      </trkpt>
+      <trkpt lat="49.9749674" lon="-5.2251440">
+        <ele>63.73</ele>
+        <time>2010-06-29T14:49:08.000Z</time>
+        <course>136.16</course>
+        <speed>0.72</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
