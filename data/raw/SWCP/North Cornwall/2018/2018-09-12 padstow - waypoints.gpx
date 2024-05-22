@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OS Maps - Web" xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+xmlns:gs="http://www.topografix.com/GPX/gpx_style/0/2"
+xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1"
+xmlns:os="https://ordnancesurvey.co.uk/public/schema/route/0.1">
+    <metadata>
+        <name>padstow</name>
+        <desc></desc>
+        <bounds minlat="50.5411170" minlon="-4.9807260" maxlat="50.5684660" maxlon="-4.9349010"/>
+        <extensions>
+            <os:version>2.0</os:version>
+            <os:point lat="50.5430490" lon="-4.9359840" type="start"/>
+            <os:point lat="50.5427070" lon="-4.9357300" type="end"/>
+            <os:activity>ON_FOOT_WALKING</os:activity>
+            <os:difficulty>UNKNOWN</os:difficulty>
+            <os:paths>
+                <os:path start="0" end="49" type="plotted"/>
+            </os:paths>
+            <os:distance>11101.4003180</os:distance>
+            <os:elevation_ascent>138.9000000</os:elevation_ascent>
+        </extensions>
+    </metadata>
+    <wpt lat="50.5430490" lon="-4.9359840"/>
+    <wpt lat="50.5459820" lon="-4.9349360"/>
+    <wpt lat="50.5482880" lon="-4.9349010"/>
+    <wpt lat="50.5505910" lon="-4.9390360"/>
+    <wpt lat="50.5534830" lon="-4.9396080"/>
+    <wpt lat="50.5538770" lon="-4.9428940"/>
+    <wpt lat="50.5541740" lon="-4.9486690"/>
+    <wpt lat="50.5553110" lon="-4.9512710"/>
+    <wpt lat="50.5560880" lon="-4.9497340"/>
+    <wpt lat="50.5577540" lon="-4.9494100"/>
+    <wpt lat="50.5597770" lon="-4.9484490"/>
+    <wpt lat="50.5634400" lon="-4.9472690"/>
+    <wpt lat="50.5658160" lon="-4.9467050"/>
+    <wpt lat="50.5676530" lon="-4.9468010"/>
+    <wpt lat="50.5682080" lon="-4.9482090"/>
+    <wpt lat="50.5684660" lon="-4.9510060"/>
+    <wpt lat="50.5667180" lon="-4.9527690"/>
+    <wpt lat="50.5659920" lon="-4.9540780"/>
+    <wpt lat="50.5645820" lon="-4.9550590"/>
+    <wpt lat="50.5637490" lon="-4.9539020"/>
+    <wpt lat="50.5625500" lon="-4.9554850"/>
+    <wpt lat="50.5582230" lon="-4.9635910"/>
+    <wpt lat="50.5566740" lon="-4.9695720"/>
+    <wpt lat="50.5554270" lon="-4.9721670"/>
+    <wpt lat="50.5533070" lon="-4.9738160"/>
+    <wpt lat="50.5518670" lon="-4.9741710"/>
+    <wpt lat="50.5497700" lon="-4.9753750"/>
+    <wpt lat="50.5489260" lon="-4.9768370"/>
+    <wpt lat="50.5484760" lon="-4.9793390"/>
+    <wpt lat="50.5475780" lon="-4.9807260"/>
+    <wpt lat="50.5468970" lon="-4.9780450"/>
+    <wpt lat="50.5454650" lon="-4.9772070"/>
+    <wpt lat="50.5436820" lon="-4.9754370"/>
+    <wpt lat="50.5421570" lon="-4.9742370"/>
+    <wpt lat="50.5423680" lon="-4.9699740"/>
+    <wpt lat="50.5430470" lon="-4.9665060"/>
+    <wpt lat="50.5434310" lon="-4.9634830"/>
+    <wpt lat="50.5442540" lon="-4.9601310"/>
+    <wpt lat="50.5446130" lon="-4.9553780"/>
+    <wpt lat="50.5436240" lon="-4.9509510"/>
+    <wpt lat="50.5411170" lon="-4.9446950"/>
+    <wpt lat="50.5423430" lon="-4.9429490"/>
+    <wpt lat="50.5422760" lon="-4.9403940"/>
+    <wpt lat="50.5430610" lon="-4.9384940"/>
+    <wpt lat="50.5428450" lon="-4.9358650"/>
+    <wpt lat="50.5427070" lon="-4.9357300"/>
+    <trk>
+        <name>padstow</name>
+        <trkseg>
+            <trkpt lat="50.5430490" lon="-4.9359840"/>
+            <trkpt lat="50.5459820" lon="-4.9349360"/>
+            <trkpt lat="50.5482880" lon="-4.9349010"/>
+            <trkpt lat="50.5505910" lon="-4.9390360"/>
+            <trkpt lat="50.5534830" lon="-4.9396080"/>
+            <trkpt lat="50.5538770" lon="-4.9428940"/>
+            <trkpt lat="50.5541740" lon="-4.9486690"/>
+            <trkpt lat="50.5553110" lon="-4.9512710"/>
+            <trkpt lat="50.5560880" lon="-4.9497340"/>
+            <trkpt lat="50.5577540" lon="-4.9494100"/>
+            <trkpt lat="50.5597770" lon="-4.9484490"/>
+            <trkpt lat="50.5634400" lon="-4.9472690"/>
+            <trkpt lat="50.5658160" lon="-4.9467050"/>
+            <trkpt lat="50.5676530" lon="-4.9468010"/>
+            <trkpt lat="50.5682080" lon="-4.9482090"/>
+            <trkpt lat="50.5684660" lon="-4.9510060"/>
+            <trkpt lat="50.5667180" lon="-4.9527690"/>
+            <trkpt lat="50.5659920" lon="-4.9540780"/>
+            <trkpt lat="50.5645820" lon="-4.9550590"/>
+            <trkpt lat="50.5637490" lon="-4.9539020"/>
+            <trkpt lat="50.5625500" lon="-4.9554850"/>
+            <trkpt lat="50.5607230" lon="-4.9590250"/>
+            <trkpt lat="50.5582230" lon="-4.9635910"/>
+            <trkpt lat="50.5566740" lon="-4.9695720"/>
+            <trkpt lat="50.5554270" lon="-4.9721670"/>
+            <trkpt lat="50.5533070" lon="-4.9738160"/>
+            <trkpt lat="50.5518670" lon="-4.9741710"/>
+            <trkpt lat="50.5497700" lon="-4.9753750"/>
+            <trkpt lat="50.5489260" lon="-4.9768370"/>
+            <trkpt lat="50.5484760" lon="-4.9793390"/>
+            <trkpt lat="50.5475780" lon="-4.9807260"/>
+            <trkpt lat="50.5468970" lon="-4.9780450"/>
+            <trkpt lat="50.5454650" lon="-4.9772070"/>
+            <trkpt lat="50.5436820" lon="-4.9754370"/>
+            <trkpt lat="50.5421570" lon="-4.9742370"/>
+            <trkpt lat="50.5423680" lon="-4.9699740"/>
+            <trkpt lat="50.5430470" lon="-4.9665060"/>
+            <trkpt lat="50.5434310" lon="-4.9634830"/>
+            <trkpt lat="50.5442540" lon="-4.9601310"/>
+            <trkpt lat="50.5444690" lon="-4.9583630"/>
+            <trkpt lat="50.5446130" lon="-4.9553780"/>
+            <trkpt lat="50.5436240" lon="-4.9509510"/>
+            <trkpt lat="50.5418100" lon="-4.9464340"/>
+            <trkpt lat="50.5411170" lon="-4.9446950"/>
+            <trkpt lat="50.5423430" lon="-4.9429490"/>
+            <trkpt lat="50.5422760" lon="-4.9403940"/>
+            <trkpt lat="50.5430610" lon="-4.9384940"/>
+            <trkpt lat="50.5428450" lon="-4.9358650"/>
+            <trkpt lat="50.5427860" lon="-4.9357980"/>
+            <trkpt lat="50.5427070" lon="-4.9357300"/>
+        </trkseg>
+    </trk>
+</gpx>
