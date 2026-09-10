@@ -16,17 +16,20 @@
         <name>SWCP</name>
         <open>1</open>
         <Folder>
-          <name>Dorset</name>
+          <name>Jo + Mike</name>
           <open>1</open>
           <Folder>
-            <name>2018</name>
-            <Placemark>
-              <name>2018-02-24 Studland to Old Harry Rocks - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-1.9359237,50.6409671
+            <name>Dorset</name>
+            <open>1</open>
+            <Folder>
+              <name>2018</name>
+              <Placemark>
+                <name>2018-02-24 Studland to Old Harry Rocks - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-1.9359237,50.6409671
 -1.9358237,50.6409796
 -1.9357167,50.6409983
 -1.9356135,50.6410135
@@ -977,18 +980,18 @@
 -1.9478523,50.6421336
 -1.9478976,50.6421054
 -1.9478973,50.6420656</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2019</name>
-            <Placemark>
-              <name>2019-03-22 Portland harbour causeway</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.471672,50.585315
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2019</name>
+              <Placemark>
+                <name>2019-03-22 Portland harbour causeway</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.471672,50.585315
 -2.471765,50.585331
 -2.471679,50.585312
 -2.471750,50.585307
@@ -2050,15 +2053,15 @@
 -2.471113,50.586151
 -2.471057,50.586214
 -2.471096,50.586158</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-08-08 Bowleaze to black head - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.4219437,50.6368615
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-08-08 Bowleaze to black head - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.4219437,50.6368615
 -2.4218493,50.6368133
 -2.4217498,50.6367533
 -2.4216701,50.6366952
@@ -3110,15 +3113,15 @@
 -2.4221369,50.6368452
 -2.4221957,50.6368214
 -2.4222176,50.6368015</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-08-09 OsmingtonMillstoBlackHead</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.375146,50.636817
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-08-09 OsmingtonMillstoBlackHead</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.375146,50.636817
 -2.375081,50.636846
 -2.375119,50.636799
 -2.375024,50.636854
@@ -3667,15 +3670,15 @@
 -2.375081,50.636749
 -2.375003,50.636768
 -2.375074,50.636754</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-08-23 Fleet  ferrybridge to camp</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.472114,50.586094
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-08-23 Fleet  ferrybridge to camp</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.472114,50.586094
 -2.472079,50.586187
 -2.472045,50.586112
 -2.472009,50.586061
@@ -4566,15 +4569,15 @@
 -2.471061,50.586148
 -2.471331,50.586189
 -2.471051,50.586144</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-08-27 Jo  Chiswell</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.448992,50.561735
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-08-27 Jo  Chiswell</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.448992,50.561735
 -2.449021,50.561693
 -2.449016,50.561639
 -2.449002,50.561588
@@ -5742,15 +5745,15 @@
 -2.466819,50.576315
 -2.466885,50.576386
 -2.466941,50.576455</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-11-17 Portland West - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.4463196,50.5508571
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-11-17 Portland West - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.4463196,50.5508571
 -2.4463144,50.5508727
 -2.4463140,50.5508320
 -2.4463212,50.5507882
@@ -6632,15 +6635,15 @@
 -2.4463297,50.5509516
 -2.4463403,50.5509706
 -2.4463409,50.5509686</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-11-30 Greenhill bowleaze - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.4435117,50.6247507
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-11-30 Greenhill bowleaze - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.4435117,50.6247507
 -2.4434727,50.6248142
 -2.4434213,50.6248753
 -2.4433682,50.6249339
@@ -7706,15 +7709,15 @@
 -2.4454799,50.6247807
 -2.4454635,50.6248008
 -2.4454585,50.6248305</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-11-30 Greenhill bowleaze</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.445271,50.624755
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-11-30 Greenhill bowleaze</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.445271,50.624755
 -2.445302,50.624711
 -2.445295,50.624657
 -2.445269,50.624603
@@ -8959,15 +8962,15 @@
 -2.445380,50.624723
 -2.445369,50.624773
 -2.445343,50.624816</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-12-01 portland Bill east</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.433741,50.533392
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-12-01 portland Bill east</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.433741,50.533392
 -2.433693,50.533503
 -2.433590,50.533506
 -2.433635,50.533542
@@ -9673,18 +9676,18 @@
 -2.455688,50.514931
 -2.455613,50.514928
 -2.455495,50.514910</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2020</name>
-            <Placemark>
-              <name>2020-01-24 camp to littlesea</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.491589,50.594463
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2020</name>
+              <Placemark>
+                <name>2020-01-24 camp to littlesea</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.491589,50.594463
 -2.491528,50.594496
 -2.491468,50.594526
 -2.491540,50.594530
@@ -10648,15 +10651,15 @@
 -2.491555,50.594579
 -2.491604,50.594545
 -2.491651,50.594510</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2020-09-28 Bowleaze towards Osmington Mills - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.4190538,50.6361534
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2020-09-28 Bowleaze towards Osmington Mills - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.4190538,50.6361534
 -2.4190193,50.6361260
 -2.4189769,50.6360755
 -2.4189411,50.6360264
@@ -11506,15 +11509,15 @@
 -2.4213239,50.6374211
 -2.4213822,50.6374668
 -2.4213983,50.6375051</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2020-10-11 Lulworth to Arish Mell</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.249336,50.619044
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2020-10-11 Lulworth to Arish Mell</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.249336,50.619044
 -2.249247,50.619072
 -2.249178,50.619057
 -2.249100,50.619076
@@ -12746,15 +12749,15 @@
 -2.256166,50.620299
 -2.256179,50.620253
 -2.256137,50.620292</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2020-10-17 Tyneham towards Arish Mell - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.1685091,50.6214702
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2020-10-17 Tyneham towards Arish Mell - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.1685091,50.6214702
 -2.1684982,50.6214051
 -2.1684615,50.6212580
 -2.1684605,50.6212058
@@ -14413,15 +14416,15 @@
 -2.1682172,50.6219593
 -2.1681489,50.6219477
 -2.1681128,50.6219063</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2020-10-17 Tyneham towards Arish Mell</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.168007,50.621891
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2020-10-17 Tyneham towards Arish Mell</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.168007,50.621891
 -2.168180,50.621799
 -2.168113,50.621762
 -2.168037,50.621768
@@ -15799,18 +15802,18 @@
 -2.167973,50.621737
 -2.167903,50.621737
 -2.167949,50.621780</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2021</name>
-            <Placemark>
-              <name>2021-05-09 Abbotsbury West Bexington</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.622850,50.658973
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2021</name>
+              <Placemark>
+                <name>2021-05-09 Abbotsbury West Bexington</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.622850,50.658973
 -2.622897,50.659009
 -2.622942,50.658971
 -2.622944,50.658918
@@ -17242,15 +17245,15 @@
 -2.622903,50.659061
 -2.622843,50.659036
 -2.622772,50.659016</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-06-08 Wyke Regis to Portland - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.4711382,50.5863567
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-06-08 Wyke Regis to Portland - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.4711382,50.5863567
 -2.4710963,50.5863215
 -2.4710289,50.5862807
 -2.4709385,50.5862571
@@ -18416,15 +18419,15 @@
 -2.4711271,50.5862610
 -2.4711916,50.5863200
 -2.4711985,50.5863224</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-06-29 Cogden</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.706058,50.694643
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-06-29 Cogden</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.706058,50.694643
 -2.703302,50.690656
 -2.703316,50.690608
 -2.703304,50.690563
@@ -19984,15 +19987,15 @@
 -2.706004,50.694669
 -2.706058,50.694707
 -2.706121,50.694738</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-07-05 Hive beach</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.722140,50.698047
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-07-05 Hive beach</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.722140,50.698047
 -2.722102,50.697996
 -2.722052,50.697950
 -2.722034,50.697907
@@ -21197,15 +21200,15 @@
 -2.722020,50.697903
 -2.722083,50.697927
 -2.722157,50.697944</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-07-25 Portland Bill - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.4566016,50.5152117
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-07-25 Portland Bill - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.4566016,50.5152117
 -2.4565646,50.5152177
 -2.4565067,50.5152205
 -2.4564367,50.5152100
@@ -21758,15 +21761,15 @@
 -2.4555113,50.5147712
 -2.4555430,50.5147650
 -2.4555628,50.5147380</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-09-03 Portland - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.4478616,50.5682467
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-09-03 Portland - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.4478616,50.5682467
 -2.4478067,50.5681486
 -2.4477715,50.5681159
 -2.4477579,50.5680847
@@ -23428,15 +23431,15 @@
 -2.4484041,50.5667267
 -2.4487056,50.5662816
 -2.4488500,50.5658778</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-09-18 church ope - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.4202166,50.5503282
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-09-18 church ope - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.4202166,50.5503282
 -2.4201847,50.5502053
 -2.4201450,50.5501347
 -2.4201380,50.5501087
@@ -24659,15 +24662,15 @@
 -2.4200969,50.5498801
 -2.4200676,50.5498305
 -2.4200349,50.5497919</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-10-11 west bay to Seatown nearly</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.762275,50.709782
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-10-11 west bay to Seatown nearly</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.762275,50.709782
 -2.762060,50.709895
 -2.762224,50.709790
 -2.762148,50.709782
@@ -26340,15 +26343,15 @@
 -2.760084,50.710057
 -2.759999,50.710072
 -2.759905,50.710086</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-10-12 Seatown and golden cap (orig)</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.8224232,50.7221583
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-10-12 Seatown and golden cap (orig)</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.8224232,50.7221583
 -2.8223891,50.7222126
 -2.8224083,50.7222704
 -2.8224595,50.7223163
@@ -28433,15 +28436,15 @@
 -2.8226571,50.7221853
 -2.8226074,50.7221474
 -2.8225339,50.7221607</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-10-12 Seatown and golden cap</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.822423,50.722158
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-10-12 Seatown and golden cap</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.822423,50.722158
 -2.822389,50.722213
 -2.822408,50.722270
 -2.822460,50.722316
@@ -30526,15 +30529,15 @@
 -2.822657,50.722185
 -2.822607,50.722147
 -2.822534,50.722161</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-10-15 Worth matravers to seacombe</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.037514,50.598672
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-10-15 Worth matravers to seacombe</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.037514,50.598672
 -2.037545,50.598628
 -2.037556,50.598571
 -2.037561,50.598517
@@ -32084,15 +32087,15 @@
 -2.038424,50.598820
 -2.038399,50.598863
 -2.038330,50.598848</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-10-16 Tyneham to Kimmeridge - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.1682549,50.6216482
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-10-16 Tyneham to Kimmeridge - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.1682549,50.6216482
 -2.1683325,50.6216662
 -2.1683636,50.6216323
 -2.1683427,50.6215630
@@ -33810,15 +33813,15 @@
 -2.1683604,50.6216438
 -2.1683518,50.6216952
 -2.1683336,50.6217441</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2021-10-16 Tyneham to Kimmeridge</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.168298,50.621718
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2021-10-16 Tyneham to Kimmeridge</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.168298,50.621718
 -2.168315,50.621766
 -2.168381,50.621732
 -2.168444,50.621704
@@ -35662,18 +35665,18 @@
 -2.168374,50.621643
 -2.168376,50.621697
 -2.168342,50.621736</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2022</name>
-            <Placemark>
-              <name>2022-03-20 kingston houns tout circular</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.063900,50.616098
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2022</name>
+              <Placemark>
+                <name>2022-03-20 kingston houns tout circular</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.063900,50.616098
 -2.064000,50.616108
 -2.064069,50.616123
 -2.064157,50.616133
@@ -37299,15 +37302,15 @@
 -2.063500,50.616090
 -2.063426,50.616091
 -2.063467,50.616052</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2022-03-24 Worth Matravers towards Durlston - incomplete</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.038226,50.598902
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2022-03-24 Worth Matravers towards Durlston - incomplete</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.038226,50.598902
 -2.038155,50.598889
 -2.038087,50.598873
 -2.038069,50.598823
@@ -38286,15 +38289,15 @@
 -1.995786,50.591630
 -1.995725,50.591605
 -1.995762,50.591644</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2022-03-24 Worth Matravers towards Durlston - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.0378666,50.5986033
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2022-03-24 Worth Matravers towards Durlston - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.0378666,50.5986033
 -2.0378368,50.5986250
 -2.0377779,50.5985942
 -2.0376928,50.5986012
@@ -40747,15 +40750,15 @@
 -2.0379564,50.5987548
 -2.0380389,50.5987860
 -2.0381316,50.5988333</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2022-11-12 Kimmeridge towards Houns Tout - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.1299116,50.6109950
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2022-11-12 Kimmeridge towards Houns Tout - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.1299116,50.6109950
 -2.1298680,50.6109600
 -2.1298389,50.6108967
 -2.1297709,50.6108528
@@ -42414,15 +42417,15 @@
 -2.1297968,50.6112321
 -2.1297545,50.6112827
 -2.1297054,50.6113246</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2022-11-12 Kimmeridge towards Houns Tout</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.1295742,50.6113591
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2022-11-12 Kimmeridge towards Houns Tout</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.1295742,50.6113591
 -2.1295927,50.6113463
 -2.1295641,50.6113142
 -2.1296341,50.6113283
@@ -43431,18 +43434,18 @@
 -2.1296702,50.6113237
 -2.1296690,50.6113145
 -2.1296768,50.6113631</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2023</name>
-            <Placemark>
-              <name>2023-02-19 Durlston to Swanage</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-1.9535659,50.5950928
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2023</name>
+              <Placemark>
+                <name>2023-02-19 Durlston to Swanage</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-1.9535659,50.5950928
 -1.9535607,50.5950548
 -1.9536195,50.5950803
 -1.9536801,50.5950852
@@ -44564,15 +44567,15 @@
 -1.9562982,50.5955527
 -1.9563211,50.5955396
 -1.9562171,50.5955483</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2023-03-27 Hive cafe meal +walks in both directions</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.7215872,50.6968984
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2023-03-27 Hive cafe meal +walks in both directions</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.7215872,50.6968984
 -2.7214197,50.6969468
 -2.7214099,50.6969593
 -2.7214287,50.6969936
@@ -45074,15 +45077,15 @@
 -2.7223141,50.6966534
 -2.7223556,50.6966293
 -2.7223532,50.6966408</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2023-05-07 Charmouth to Lyme Regis and back</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.9001990,50.7344073
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2023-05-07 Charmouth to Lyme Regis and back</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.9001990,50.7344073
 -2.9002098,50.7343916
 -2.9002457,50.7343856
 -2.9002195,50.7344140
@@ -46743,15 +46746,15 @@
 -2.9015760,50.7333065
 -2.9015757,50.7332850
 -2.9015754,50.7332930</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2023-08-22 Seaton to Lyme Regis</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.0678347,50.7045309
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2023-08-22 Seaton to Lyme Regis</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.0678347,50.7045309
 -3.0678077,50.7045161
 -3.0677967,50.7044787
 -3.0677554,50.7044662
@@ -48383,15 +48386,15 @@
 -2.9415943,50.7238176
 -2.9416411,50.7237769
 -2.9416176,50.7238092</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2023-09-23 Abbotsbury to Ferrybridge</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.5994158,50.6597423
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2023-09-23 Abbotsbury to Ferrybridge</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.5994158,50.6597423
 -2.5994412,50.6596877
 -2.5994144,50.6597071
 -2.5994513,50.6597288
@@ -49712,18 +49715,18 @@
 -2.4710590,50.5861792
 -2.4710577,50.5861865
 -2.4710359,50.5861802</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2024</name>
-            <Placemark>
-              <name>2024-01-07 Kingston - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.0671532,50.6149725
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2024</name>
+              <Placemark>
+                <name>2024-01-07 Kingston - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.0671532,50.6149725
 -2.0671318,50.6149403
 -2.0671208,50.6148954
 -2.0671491,50.6148595
@@ -51032,15 +51035,15 @@
 -2.0671547,50.6149135
 -2.0671153,50.6149643
 -2.0671142,50.6150209</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-08-27 Abbotsbury Hike - Mike Garmin</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-2.6001151,50.6598630
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-08-27 Abbotsbury Hike - Mike Garmin</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-2.6001151,50.6598630
 -2.6001223,50.6598575
 -2.6001210,50.6598386
 -2.6001236,50.6598343
@@ -52375,22 +52378,22 @@
 -2.6002050,50.6597735
 -2.6001449,50.6598030
 -2.6001621,50.6598033</coordinates>
-              </LineString>
-            </Placemark>
+                </LineString>
+              </Placemark>
+            </Folder>
           </Folder>
-        </Folder>
-        <Folder>
-          <name>North Cornwall</name>
-          <open>1</open>
           <Folder>
-            <name>2017</name>
-            <Placemark>
-              <name>2017-09-12 Polzeath - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.9177928,50.5728413
+            <name>North Cornwall</name>
+            <open>1</open>
+            <Folder>
+              <name>2017</name>
+              <Placemark>
+                <name>2017-09-12 Polzeath - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.9177928,50.5728413
 -4.9177553,50.5729052
 -4.9177212,50.5730070
 -4.9176401,50.5730146
@@ -54291,18 +54294,18 @@
 -4.9185197,50.5727937
 -4.9185231,50.5727560
 -4.9185404,50.5727130</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2018</name>
-            <Placemark>
-              <name>2018-09-12 padstow - jo</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.9259476,50.5446514
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2018</name>
+              <Placemark>
+                <name>2018-09-12 padstow - jo</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.9259476,50.5446514
 -4.9259638,50.5445959
 -4.9260236,50.5445577
 -4.9261199,50.5445098
@@ -57092,15 +57095,15 @@
 -4.9361359,50.5427409
 -4.9361290,50.5427043
 -4.9361225,50.5427027</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2018-09-12 padstow - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.9259001,50.5445581
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2018-09-12 padstow - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.9259001,50.5445581
 -4.9258954,50.5445404
 -4.9259431,50.5445234
 -4.9260183,50.5444778
@@ -59919,18 +59922,18 @@
 -4.9255863,50.5447897
 -4.9255598,50.5448181
 -4.9255342,50.5448405</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2024</name>
-            <Placemark>
-              <name>2024-06-01, Boscastle to Crackington Haven - Jo</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.6919122,50.6899494
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2024</name>
+              <Placemark>
+                <name>2024-06-01, Boscastle to Crackington Haven - Jo</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.6919122,50.6899494
 -4.6919410,50.6898450
 -4.6919537,50.6898334
 -4.6920011,50.6898560
@@ -62270,15 +62273,15 @@
 -4.6333932,50.7410600
 -4.6333751,50.7410096
 -4.6333608,50.7409551</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-01, Boscastle to Crackington Haven - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.6918943,50.6898275
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-01, Boscastle to Crackington Haven - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.6918943,50.6898275
 -4.6919332,50.6898327
 -4.6919983,50.6898366
 -4.6920755,50.6898332
@@ -64614,15 +64617,15 @@
 -4.6333829,50.7410474
 -4.6333616,50.7409959
 -4.6333421,50.7409269</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-02, Boscasle to Tintagel and Trebarwith Strand - Jo</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.6904992,50.6897033
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-02, Boscasle to Tintagel and Trebarwith Strand - Jo</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.6904992,50.6897033
 -4.6906025,50.6897285
 -4.6906172,50.6897498
 -4.6907064,50.6897548
@@ -67649,15 +67652,15 @@
 -4.7479746,50.6621184
 -4.7479459,50.6621215
 -4.7479823,50.6621487</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-02, Boscasle to Tintagel and Trebarwith Strand - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.6915913,50.6896864
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-02, Boscasle to Tintagel and Trebarwith Strand - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.6915913,50.6896864
 -4.6915449,50.6896476
 -4.6914737,50.6896282
 -4.6913971,50.6895776
@@ -70672,15 +70675,15 @@
 -4.7480181,50.6623133
 -4.7479837,50.6622421
 -4.7479383,50.6621650</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-03, Bude to Crackington Haven - Jo</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.5468893,50.8278644
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-03, Bude to Crackington Haven - Jo</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.5468893,50.8278644
 -4.5467769,50.8278897
 -4.5467578,50.8278607
 -4.5467913,50.8278298
@@ -73870,15 +73873,15 @@
 -4.6327804,50.7409287
 -4.6327004,50.7409152
 -4.6325950,50.7409024</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-03, Bude to Crackington Haven - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.5469758,50.8277525
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-03, Bude to Crackington Haven - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.5469758,50.8277525
 -4.5469466,50.8277892
 -4.5469090,50.8278192
 -4.5469183,50.8278401
@@ -77073,15 +77076,15 @@
 -4.6327773,50.7409537
 -4.6326976,50.7409381
 -4.6326106,50.7409321</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-04, Polzeath to Rock - Jo</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.9166908,50.5735140
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-04, Polzeath to Rock - Jo</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.9166908,50.5735140
 -4.9166950,50.5734862
 -4.9166715,50.5734432
 -4.9166423,50.5733873
@@ -78542,15 +78545,15 @@
 -4.9166617,50.5733403
 -4.9166826,50.5733930
 -4.9166853,50.5734467</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-04, Polzeath to Rock - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.9166722,50.5735330
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-04, Polzeath to Rock - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.9166722,50.5735330
 -4.9166814,50.5735130
 -4.9166946,50.5734860
 -4.9166733,50.5734382
@@ -80008,15 +80011,15 @@
 -4.9167373,50.5734339
 -4.9167457,50.5734743
 -4.9167104,50.5735028</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-05, Port Isaac to Trabarwith Strand - Jo</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.8321606,50.5938857
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-05, Port Isaac to Trabarwith Strand - Jo</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.8321606,50.5938857
 -4.8320696,50.5939191
 -4.8320855,50.5939149
 -4.8321331,50.5939057
@@ -82269,15 +82272,15 @@
 -4.7613008,50.6445841
 -4.7613361,50.6445873
 -4.7613364,50.6446092</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-05, Port Isaac to Trabarwith Strand - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.8322675,50.5938522
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-05, Port Isaac to Trabarwith Strand - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.8322675,50.5938522
 -4.8323082,50.5938686
 -4.8323365,50.5939222
 -4.8323554,50.5939755
@@ -84561,15 +84564,15 @@
 -4.7612931,50.6445808
 -4.7613255,50.6445816
 -4.7613289,50.6446074</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-06, Polzeath to Port Isaac - Jo</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.9159472,50.5731454
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-06, Polzeath to Port Isaac - Jo</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.9159472,50.5731454
 -4.9159271,50.5731275
 -4.9158433,50.5731245
 -4.9157524,50.5731359
@@ -87251,15 +87254,15 @@
 -4.8323153,50.5939670
 -4.8323419,50.5940230
 -4.8323694,50.5940713</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-06-06, Polzeath to Port Isaac - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.9158278,50.5731660
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-06-06, Polzeath to Port Isaac - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.9158278,50.5731660
 -4.9158378,50.5731433
 -4.9158632,50.5731070
 -4.9158329,50.5730982
@@ -89929,22 +89932,22 @@
 -4.8323257,50.5940232
 -4.8323429,50.5940443
 -4.8323629,50.5940790</coordinates>
-              </LineString>
-            </Placemark>
+                </LineString>
+              </Placemark>
+            </Folder>
           </Folder>
-        </Folder>
-        <Folder>
-          <name>North Devon + Somerset</name>
-          <open>1</open>
           <Folder>
-            <name>2024</name>
-            <Placemark>
-              <name>2024-04-12 Minehead heading west - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.4735421,51.2101140
+            <name>North Devon + Somerset</name>
+            <open>1</open>
+            <Folder>
+              <name>2024</name>
+              <Placemark>
+                <name>2024-04-12 Minehead heading west - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.4735421,51.2101140
 -3.4735162,51.2101008
 -3.4734565,51.2101154
 -3.4733872,51.2101525
@@ -92760,15 +92763,15 @@
 -3.4733892,51.2101581
 -3.4734107,51.2101160
 -3.4734598,51.2100774</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-04-13 Lynmouth heading east via Watersmeet - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.8293088,51.2299199
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-04-13 Lynmouth heading east via Watersmeet - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.8293088,51.2299199
 -3.8292646,51.2299069
 -3.8291959,51.2298815
 -3.8291415,51.2298453
@@ -95384,15 +95387,15 @@
 -3.8300095,51.2300946
 -3.8299238,51.2301092
 -3.8298662,51.2300974</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-04-14 Lynmouth heading west - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.8309482,51.2306479
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-04-14 Lynmouth heading west - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.8309482,51.2306479
 -3.8309799,51.2306692
 -3.8310419,51.2307065
 -3.8311041,51.2307568
@@ -97962,15 +97965,15 @@
 -3.8297238,51.2302139
 -3.8296682,51.2301801
 -3.8296165,51.2301471</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-09-02 Heddon's Valley to Haven Heights - Mike Garmin</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.9270428,51.2155041
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-09-02 Heddon's Valley to Haven Heights - Mike Garmin</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.9270428,51.2155041
 -3.9270495,51.2155260
 -3.9270543,51.2155172
 -3.9271230,51.2155420
@@ -100076,15 +100079,15 @@
 -3.9270060,51.2155472
 -3.9270849,51.2155264
 -3.9271590,51.2155091</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-09-03 Porlock Weir past Bossington - Mike Garmin</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.5692460,51.2104173
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-09-03 Porlock Weir past Bossington - Mike Garmin</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.5692460,51.2104173
 -3.5692621,51.2103989
 -3.5692372,51.2103938
 -3.5691975,51.2104448
@@ -104004,15 +104007,15 @@
 -3.6265032,51.2188352
 -3.6265077,51.2188238
 -3.6265035,51.2188279</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2024-09-04 Porlock Wier to Countisbury - Mike Garmin</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.6264910,51.2188400
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2024-09-04 Porlock Wier to Countisbury - Mike Garmin</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.6264910,51.2188400
 -3.6264792,51.2188117
 -3.6264794,51.2188016
 -3.6264809,51.2187972
@@ -108199,18 +108202,18 @@
 -3.7955863,51.2324014
 -3.7955961,51.2323970
 -3.7955878,51.2323896</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2025</name>
-            <Placemark>
-              <name>2025-07-19 Combe Martin to Ilfracombe - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.0376483,51.2067299
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2025</name>
+              <Placemark>
+                <name>2025-07-19 Combe Martin to Ilfracombe - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.0376483,51.2067299
 -4.0376833,51.2067147
 -4.0376819,51.2067162
 -4.0376896,51.2067093
@@ -111912,15 +111915,15 @@
 -4.1076141,51.2073220
 -4.1076141,51.2073220
 -4.1076141,51.2073220</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2025-07-20 Saunton Beach - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.2234734,51.1046362
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2025-07-20 Saunton Beach - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.2234734,51.1046362
 -4.2234494,51.1046624
 -4.2234370,51.1046722
 -4.2234654,51.1047086
@@ -112211,15 +112214,15 @@
 -4.2199052,51.1171125
 -4.2199088,51.1170574
 -4.2198515,51.1170069</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2025-07-21 Woolacombe North - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.2070269,51.1672034
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2025-07-21 Woolacombe North - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.2070269,51.1672034
 -4.2070121,51.1672014
 -4.2069645,51.1672099
 -4.2069078,51.1672422
@@ -112726,15 +112729,15 @@
 -4.2070546,51.1672228
 -4.2070393,51.1672262
 -4.2070400,51.1672148</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2025-07-21 Woolacombe South - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.2090167,51.1612287
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2025-07-21 Woolacombe South - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.2090167,51.1612287
 -4.2090285,51.1612517
 -4.2090372,51.1612465
 -4.2090351,51.1612456
@@ -114165,15 +114168,15 @@
 -4.2088262,51.1616186
 -4.2088019,51.1616608
 -4.2087668,51.1617083</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2025-07-22 Hunters Inn to Combe Martin - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.9304062,51.2174820
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2025-07-22 Hunters Inn to Combe Martin - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.9304062,51.2174820
 -3.9304227,51.2175014
 -3.9304135,51.2174975
 -3.9304107,51.2174841
@@ -117511,15 +117514,15 @@
 -4.0384635,51.2065392
 -4.0385241,51.2065561
 -4.0385646,51.2065780</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2025-07-23 Woolacombe to Ilfracombe - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.2125085,51.1760059
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2025-07-23 Woolacombe to Ilfracombe - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.2125085,51.1760059
 -4.2124968,51.1760309
 -4.2124820,51.1760976
 -4.2124749,51.1761665
@@ -121446,15 +121449,15 @@
 -4.1074407,51.2073060
 -4.1074126,51.2073611
 -4.1074056,51.2073844</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2025-07-24 Croyde to Woolacombe - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.2417551,51.1348548
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2025-07-24 Croyde to Woolacombe - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.2417551,51.1348548
 -4.2417463,51.1348491
 -4.2417463,51.1348491
 -4.2417463,51.1348491
@@ -124021,15 +124024,15 @@
 -4.2418901,51.1348537
 -4.2419747,51.1348479
 -4.2420329,51.1348844</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2025-07-25 Saunton - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.2201502,51.1185812
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2025-07-25 Saunton - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.2201502,51.1185812
 -4.2201215,51.1185620
 -4.2200593,51.1185748
 -4.2200405,51.1185740
@@ -124140,15 +124143,15 @@
 -4.2199236,51.1170543
 -4.2199099,51.1170355
 -4.2198571,51.1170153</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2025-07-25 Saunton to Croyde - Mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.2205321,51.1186275
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2025-07-25 Saunton to Croyde - Mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.2205321,51.1186275
 -4.2206085,51.1186336
 -4.2206100,51.1186380
 -4.2205842,51.1186240
@@ -125245,22 +125248,22 @@
 -4.2378275,51.1342616
 -4.2378275,51.1342616
 -4.2378275,51.1342616</coordinates>
-              </LineString>
-            </Placemark>
+                </LineString>
+              </Placemark>
+            </Folder>
           </Folder>
-        </Folder>
-        <Folder>
-          <name>South Cornwall</name>
-          <open>1</open>
           <Folder>
-            <name>2010</name>
-            <Placemark>
-              <name>2010-06-29 Kynance Cove - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-5.2264669,49.9741037
+            <name>South Cornwall</name>
+            <open>1</open>
+            <Folder>
+              <name>2010</name>
+              <Placemark>
+                <name>2010-06-29 Kynance Cove - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-5.2264669,49.9741037
 -5.2264669,49.9740955
 -5.2264065,49.9741048
 -5.2263456,49.9741082
@@ -126256,15 +126259,15 @@
 -5.2251984,49.9750057
 -5.2251484,49.9749767
 -5.2251440,49.9749674</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2010-06-30 Prussia Cove to Praa Sands - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-5.4201032,50.1033105
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2010-06-30 Prussia Cove to Praa Sands - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-5.4201032,50.1033105
 -5.4201053,50.1033157
 -5.4201384,50.1033231
 -5.4201638,50.1033510
@@ -127613,18 +127616,18 @@
 -5.4092965,50.1043937
 -5.4093022,50.1044000
 -5.4092428,50.1043712</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2017</name>
-            <Placemark>
-              <name>2017-09-14 Praa Sands - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-5.3903668,50.1042929
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2017</name>
+              <Placemark>
+                <name>2017-09-14 Praa Sands - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-5.3903668,50.1042929
 -5.3904548,50.1042792
 -5.3904990,50.1042217
 -5.3905239,50.1041672
@@ -129060,18 +129063,18 @@
 -5.3904008,50.1042748
 -5.3903539,50.1043261
 -5.3903188,50.1043696</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2018</name>
-            <Placemark>
-              <name>2018-07-10 Carne - mike pt 1</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.9368674,50.2079340
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2018</name>
+              <Placemark>
+                <name>2018-07-10 Carne - mike pt 1</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.9368674,50.2079340
 -4.9368227,50.2079153
 -4.9368371,50.2078704
 -4.9368760,50.2078184
@@ -130568,15 +130571,15 @@
 -4.9372647,50.2073292
 -4.9372939,50.2072971
 -4.9372287,50.2072846</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2018-07-10 Carne - mike pt 2</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-4.9484812,50.2062780
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2018-07-10 Carne - mike pt 2</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-4.9484812,50.2062780
 -4.9484772,50.2062464
 -4.9484870,50.2062223
 -4.9484941,50.2061875
@@ -130857,22 +130860,22 @@
 -4.9369364,50.2081065
 -4.9369812,50.2081455
 -4.9370157,50.2081718</coordinates>
-              </LineString>
-            </Placemark>
+                </LineString>
+              </Placemark>
+            </Folder>
           </Folder>
-        </Folder>
-        <Folder>
-          <name>South Devon</name>
-          <open>1</open>
           <Folder>
-            <name>2009</name>
-            <Placemark>
-              <name>2009-10-03 Bolberry Down to South Milton Sands - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.8392752,50.2316899
+            <name>South Devon</name>
+            <open>1</open>
+            <Folder>
+              <name>2009</name>
+              <Placemark>
+                <name>2009-10-03 Bolberry Down to South Milton Sands - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.8392752,50.2316899
 -3.8392969,50.2317363
 -3.8393196,50.2317756
 -3.8393583,50.2318229
@@ -132962,18 +132965,18 @@
 -3.8392615,50.2316777
 -3.8392696,50.2316787
 -3.8392609,50.2316840</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2019</name>
-            <Placemark>
-              <name>2019-09-08 Jo challaborough to ayrmer cove</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.906291,50.292000
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2019</name>
+              <Placemark>
+                <name>2019-09-08 Jo challaborough to ayrmer cove</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.906291,50.292000
 -3.906222,50.291980
 -3.906167,50.292016
 -3.906087,50.292021
@@ -133439,15 +133442,15 @@
 -3.897076,50.288377
 -3.897007,50.288408
 -3.897076,50.288377</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-09-09 Challaborough to Avon ferry</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.896957,50.288514
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-09-09 Challaborough to Avon ferry</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.896957,50.288514
 -3.896923,50.288448
 -3.896849,50.288460
 -3.896950,50.288390
@@ -134915,15 +134918,15 @@
 -3.897008,50.288387
 -3.896985,50.288430
 -3.897034,50.288471</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-09-09 Challaborough to River Avon - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.8969447,50.2883958
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-09-09 Challaborough to River Avon - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.8969447,50.2883958
 -3.8970175,50.2883861
 -3.8970132,50.2884027
 -3.8970369,50.2883923
@@ -136424,15 +136427,15 @@
 -3.8970756,50.2884220
 -3.8970875,50.2883947
 -3.8971012,50.2884051</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-09-10 Bantham to Thurlestone Rock - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.8764019,50.2777269
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-09-10 Bantham to Thurlestone Rock - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.8764019,50.2777269
 -3.8763925,50.2776667
 -3.8763969,50.2776764
 -3.8763626,50.2776975
@@ -137878,15 +137881,15 @@
 -3.8766381,50.2776561
 -3.8765501,50.2776726
 -3.8764699,50.2777018</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-09-10 Bantham to s milton</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.857351,50.258969
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-09-10 Bantham to s milton</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.857351,50.258969
 -3.857415,50.258990
 -3.857344,50.259017
 -3.857257,50.259036
@@ -138543,15 +138546,15 @@
 -3.876641,50.277636
 -3.876559,50.277640
 -3.876488,50.277636</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-09-11 Jo banth</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.866631,50.264210
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-09-11 Jo banth</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.866631,50.264210
 -3.857351,50.258969
 -3.857415,50.258990
 -3.857344,50.259017
@@ -139209,15 +139212,15 @@
 -3.876641,50.277636
 -3.876559,50.277640
 -3.876488,50.277636</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2019-09-12 Challaborough to River Erme - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.8999567,50.2890313
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2019-09-12 Challaborough to River Erme - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.8999567,50.2890313
 -3.9000054,50.2889821
 -3.9000592,50.2889372
 -3.9001170,50.2888924
@@ -141749,18 +141752,18 @@
 -3.8969881,50.2884628
 -3.8970402,50.2884263
 -3.8970867,50.2883864</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2023</name>
-            <Placemark>
-              <name>2023-07-01 Torcross to Stoke Fleming - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.6518142,50.2698415
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2023</name>
+              <Placemark>
+                <name>2023-07-01 Torcross to Stoke Fleming - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.6518142,50.2698415
 -3.6518376,50.2698385
 -3.6518325,50.2698611
 -3.6518525,50.2699187
@@ -143651,15 +143654,15 @@
 -3.5985913,50.3255663
 -3.5985391,50.3256138
 -3.5984899,50.3256663</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2023-07-01 Torcross to Stoke Fleming</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.6526618,50.2669106
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2023-07-01 Torcross to Stoke Fleming</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.6526618,50.2669106
 -3.6524871,50.2667349
 -3.6526965,50.2668368
 -3.6526956,50.2668905
@@ -144881,15 +144884,15 @@
 -3.5984632,50.3256114
 -3.5985435,50.3255819
 -3.5985394,50.3255712</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2023-07-02 Torcross to Start Point and back - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.6522752,50.2666614
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2023-07-02 Torcross to Start Point and back - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.6522752,50.2666614
 -3.6523096,50.2666216
 -3.6523283,50.2665750
 -3.6523221,50.2665109
@@ -147442,15 +147445,15 @@
 -3.6523276,50.2667355
 -3.6523188,50.2667865
 -3.6523103,50.2668303</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2023-07-02 Torcross to Start Point and back</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.6522175,50.2668314
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2023-07-02 Torcross to Start Point and back</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.6522175,50.2668314
 -3.6522419,50.2668361
 -3.6523179,50.2667536
 -3.6524070,50.2667684
@@ -148754,15 +148757,15 @@
 -3.6522960,50.2666725
 -3.6522416,50.2667292
 -3.6522407,50.2668129</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2023-07-04 Start Point westwards - mike</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.6548378,50.2256847
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2023-07-04 Start Point westwards - mike</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.6548378,50.2256847
 -3.6548764,50.2256643
 -3.6548895,50.2256260
 -3.6548384,50.2255805
@@ -150706,15 +150709,15 @@
 -3.6549204,50.2258507
 -3.6549243,50.2257961
 -3.6549247,50.2257469</coordinates>
-              </LineString>
-            </Placemark>
-            <Placemark>
-              <name>2023-08-30 Dartmouth, Kingswear, Coleton Fishacre circular</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.5774105,50.3509961
+                </LineString>
+              </Placemark>
+              <Placemark>
+                <name>2023-08-30 Dartmouth, Kingswear, Coleton Fishacre circular</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.5774105,50.3509961
 -3.5774141,50.3509745
 -3.5774995,50.3510061
 -3.5775262,50.3510201
@@ -153040,18 +153043,18 @@
 -3.5775745,50.3508389
 -3.5775187,50.3509144
 -3.5773807,50.3509409</coordinates>
-              </LineString>
-            </Placemark>
-          </Folder>
-          <Folder>
-            <name>2024</name>
-            <Placemark>
-              <name>2024-07-31, Seaton to Branscombe - Mike (COROS)</name>
-              <styleUrl>#wizard</styleUrl>
-              <LineString>
-                <extrude>1</extrude>
-                <tessellate>1</tessellate>
-                <coordinates>-3.0674827,50.7067733
+                </LineString>
+              </Placemark>
+            </Folder>
+            <Folder>
+              <name>2024</name>
+              <Placemark>
+                <name>2024-07-31, Seaton to Branscombe - Mike (COROS)</name>
+                <styleUrl>#wizard</styleUrl>
+                <LineString>
+                  <extrude>1</extrude>
+                  <tessellate>1</tessellate>
+                  <coordinates>-3.0674827,50.7067733
 -3.0674673,50.7067605
 -3.0674995,50.7067176
 -3.0675373,50.7066757
@@ -156016,8 +156019,9 @@
 -3.0676042,50.7066414
 -3.0675779,50.7066941
 -3.0675596,50.7067590</coordinates>
-              </LineString>
-            </Placemark>
+                </LineString>
+              </Placemark>
+            </Folder>
           </Folder>
         </Folder>
       </Folder>
